@@ -1,10 +1,11 @@
-import { useRef } from 'react';
+import { useRef, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useQuiz } from '../context/QuizContext';
 import QuestionCard from '../components/QuestionCard';
 
 export default function QuizPage() {
   const navigate = useNavigate();
+  const [showSubmitConfirm, setShowSubmitConfirm] = useState(false);
   const {
     currentQuestions,
     currentIndex,
@@ -34,7 +35,7 @@ export default function QuizPage() {
 
   const handleCancel = () => {
     goBackToLengthSelection();
-    navigate('/length');
+    navigate('/choose-attempts');
   };
 
   const handleBack = () => {
@@ -51,8 +52,19 @@ export default function QuizPage() {
     }
   };
 
+  const showEarlySubmitButton = questionCount > 10 && currentIndex >= 14;
+
+  const handleEarlySubmit = () => {
+    setShowSubmitConfirm(true);
+  };
+
+  const confirmEarlySubmit = () => {
+    setShowSubmitConfirm(false);
+    navigate('/result');
+  };
+
   if (!question || currentQuestions.length === 0) {
-    navigate('/length');
+    navigate('/choose-attempts');
     return null;
   }
 
@@ -78,6 +90,49 @@ export default function QuizPage() {
             onOptionSelect={handleOptionSelect}
           />
         </div>
+
+        {showEarlySubmitButton && (
+          <button
+            onClick={handleEarlySubmit}
+            className="w-full mt-4 py-3 px-4 rounded-xl bg-amber-600/80 hover:bg-amber-500/80 
+              border border-amber-500/50 text-white font-medium 
+              transition-all duration-200"
+          >
+            Submit & See Results
+          </button>
+        )}
+
+        {showSubmitConfirm && (
+          <div
+            className="fixed inset-0 bg-black/70 flex items-center justify-center p-4 z-50"
+            onClick={() => setShowSubmitConfirm(false)}
+          >
+            <div
+              className="bg-slate-800 rounded-2xl border border-slate-700 p-6 max-w-sm w-full"
+              onClick={(e) => e.stopPropagation()}
+            >
+              <p className="text-white text-lg font-medium mb-6 text-center">
+                Are you sure you want to submit and see results?
+              </p>
+              <div className="flex gap-3">
+                <button
+                  onClick={() => setShowSubmitConfirm(false)}
+                  className="flex-1 py-3 rounded-xl bg-slate-700 hover:bg-slate-600 
+                    border border-slate-600 text-white font-medium"
+                >
+                  Cancel
+                </button>
+                <button
+                  onClick={confirmEarlySubmit}
+                  className="flex-1 py-3 rounded-xl bg-emerald-600 hover:bg-emerald-500 
+                    border border-emerald-500 text-white font-semibold"
+                >
+                  Yes, Submit
+                </button>
+              </div>
+            </div>
+          </div>
+        )}
 
         <div className="flex gap-3 mt-8">
           {!hasSelected && (
