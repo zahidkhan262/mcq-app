@@ -1,0 +1,510 @@
+{
+  "subjects": {
+    "physiology": {
+      "id": "physiology",
+      "name": "Physiology",
+      "questions": [
+        {
+          "id": "1",
+          "text": "Extracellular fluid in adults differs from intracellular fluid in that its:",
+          "options": [
+            { "id": "A", "text": "Volume is greater.", "isCorrect": false },
+            { "id": "B", "text": "Tonicity is lower.", "isCorrect": false },
+            { "id": "C", "text": "Anions are mainly inorganic.", "isCorrect": false },
+            { "id": "D", "text": "Sodium:potassium molar ratio is higher.", "isCorrect": true }
+          ]
+        },
+        {
+          "id": "2",
+          "text": "Blood group antigens (agglutinogens) are:",
+          "options": [
+            { "id": "A", "text": "Carried on the haemoglobin molecule.", "isCorrect": false },
+            { "id": "B", "text": "Beta globulins.", "isCorrect": false },
+            { "id": "C", "text": "Equally immunogenic.", "isCorrect": false },
+            { "id": "D", "text": "Inherited as recessive Mendelian characteristics.", "isCorrect": true }
+          ]
+        },
+        {
+          "id": "3",
+          "text": "Total body water, expressed as a percentage of body weight:",
+          "options": [
+            { "id": "A", "text": "Can be measured with deuterium oxide dilution.", "isCorrect": false },
+            { "id": "B", "text": "Is smaller on average in women than in men.", "isCorrect": true },
+            { "id": "C", "text": "Rises following injection of posterior pituitary extracts.", "isCorrect": false },
+            { "id": "D", "text": "Falls during starvation.", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "4",
+          "text": "Breakdown of erythrocytes in the body:",
+          "options": [
+            { "id": "A", "text": "Occurs when they are 6–8 weeks old.", "isCorrect": false },
+            { "id": "B", "text": "Takes place in the reticulo-endothelial system.", "isCorrect": true },
+            { "id": "C", "text": "Yields iron, most of which is excreted in the urine.", "isCorrect": false },
+            { "id": "D", "text": "Is required for the synthesis of bile salts.", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "5",
+          "text": "A person with group A blood:",
+          "options": [
+            { "id": "A", "text": "Has anti-B antibody in the plasma.", "isCorrect": true },
+            { "id": "B", "text": "May have the genotype AB.", "isCorrect": false },
+            { "id": "C", "text": "May have a parent with group O blood.", "isCorrect": false },
+            { "id": "D", "text": "Has A antigens on red cells only.", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "6",
+          "text": "The largest organ in the human body is:",
+          "options": [
+            { "id": "A", "text": "Liver", "isCorrect": false },
+            { "id": "B", "text": "Brain", "isCorrect": false },
+            { "id": "C", "text": "Skin", "isCorrect": true },
+            { "id": "D", "text": "Heart", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "7",
+          "text": "How many bones are in the adult human body?",
+          "options": [
+            { "id": "A", "text": "186", "isCorrect": false },
+            { "id": "B", "text": "206", "isCorrect": true },
+            { "id": "C", "text": "226", "isCorrect": false },
+            { "id": "D", "text": "246", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "8",
+          "text": "The femur is located in the:",
+          "options": [
+            { "id": "A", "text": "Upper arm", "isCorrect": false },
+            { "id": "B", "text": "Lower leg", "isCorrect": false },
+            { "id": "C", "text": "Thigh", "isCorrect": true },
+            { "id": "D", "text": "Forearm", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "9",
+          "text": "Which muscle is responsible for pumping blood throughout the body?",
+          "options": [
+            { "id": "A", "text": "Diaphragm", "isCorrect": false },
+            { "id": "B", "text": "Heart", "isCorrect": true },
+            { "id": "C", "text": "Biceps", "isCorrect": false },
+            { "id": "D", "text": "Quadriceps", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "10",
+          "text": "The human skull is composed of how many bones?",
+          "options": [
+            { "id": "A", "text": "18", "isCorrect": false },
+            { "id": "B", "text": "22", "isCorrect": true },
+            { "id": "C", "text": "26", "isCorrect": false },
+            { "id": "D", "text": "30", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "11",
+          "text": "Which organ produces bile?",
+          "options": [
+            { "id": "A", "text": "Pancreas", "isCorrect": false },
+            { "id": "B", "text": "Gallbladder", "isCorrect": false },
+            { "id": "C", "text": "Liver", "isCorrect": true },
+            { "id": "D", "text": "Stomach", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "12",
+          "text": "The trachea is also known as the:",
+          "options": [
+            { "id": "A", "text": "Esophagus", "isCorrect": false },
+            { "id": "B", "text": "Windpipe", "isCorrect": true },
+            { "id": "C", "text": "Bronchus", "isCorrect": false },
+            { "id": "D", "text": "Larynx", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "13",
+          "text": "Which part of the brain controls balance and coordination?",
+          "options": [
+            { "id": "A", "text": "Cerebrum", "isCorrect": false },
+            { "id": "B", "text": "Cerebellum", "isCorrect": true },
+            { "id": "C", "text": "Medulla oblongata", "isCorrect": false },
+            { "id": "D", "text": "Hypothalamus", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "14",
+          "text": "How many chambers does the human heart have?",
+          "options": [
+            { "id": "A", "text": "2", "isCorrect": false },
+            { "id": "B", "text": "3", "isCorrect": false },
+            { "id": "C", "text": "4", "isCorrect": true },
+            { "id": "D", "text": "5", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "15",
+          "text": "The patella is commonly known as the:",
+          "options": [
+            { "id": "A", "text": "Elbow", "isCorrect": false },
+            { "id": "B", "text": "Kneecap", "isCorrect": true },
+            { "id": "C", "text": "Ankle", "isCorrect": false },
+            { "id": "D", "text": "Wrist", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "16",
+          "text": "Which blood vessel carries oxygenated blood away from the heart?",
+          "options": [
+            { "id": "A", "text": "Vein", "isCorrect": false },
+            { "id": "B", "text": "Capillary", "isCorrect": false },
+            { "id": "C", "text": "Artery", "isCorrect": true },
+            { "id": "D", "text": "Venule", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "17",
+          "text": "The smallest bone in the human body is found in the:",
+          "options": [
+            { "id": "A", "text": "Hand", "isCorrect": false },
+            { "id": "B", "text": "Foot", "isCorrect": false },
+            { "id": "C", "text": "Ear", "isCorrect": true },
+            { "id": "D", "text": "Nose", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "18",
+          "text": "Which organ filters waste from the blood?",
+          "options": [
+            { "id": "A", "text": "Liver", "isCorrect": false },
+            { "id": "B", "text": "Kidney", "isCorrect": true },
+            { "id": "C", "text": "Spleen", "isCorrect": false },
+            { "id": "D", "text": "Pancreas", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "19",
+          "text": "The radius and ulna are bones in the:",
+          "options": [
+            { "id": "A", "text": "Leg", "isCorrect": false },
+            { "id": "B", "text": "Arm", "isCorrect": true },
+            { "id": "C", "text": "Spine", "isCorrect": false },
+            { "id": "D", "text": "Ribcage", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "20",
+          "text": "Gas exchange in the lungs occurs in the:",
+          "options": [
+            { "id": "A", "text": "Bronchi", "isCorrect": false },
+            { "id": "B", "text": "Alveoli", "isCorrect": true },
+            { "id": "C", "text": "Trachea", "isCorrect": false },
+            { "id": "D", "text": "Pharynx", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "21",
+          "text": "The spinal cord is part of the:",
+          "options": [
+            { "id": "A", "text": "Peripheral nervous system", "isCorrect": false },
+            { "id": "B", "text": "Central nervous system", "isCorrect": true },
+            { "id": "C", "text": "Autonomic nervous system", "isCorrect": false },
+            { "id": "D", "text": "Somatic nervous system", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "22",
+          "text": "Which gland is known as the master gland?",
+          "options": [
+            { "id": "A", "text": "Thyroid", "isCorrect": false },
+            { "id": "B", "text": "Adrenal", "isCorrect": false },
+            { "id": "C", "text": "Pituitary", "isCorrect": true },
+            { "id": "D", "text": "Pancreas", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "23",
+          "text": "The humerus is located in the:",
+          "options": [
+            { "id": "A", "text": "Lower arm", "isCorrect": false },
+            { "id": "B", "text": "Upper arm", "isCorrect": true },
+            { "id": "C", "text": "Thigh", "isCorrect": false },
+            { "id": "D", "text": "Shin", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "24",
+          "text": "Red blood cells are primarily produced in the:",
+          "options": [
+            { "id": "A", "text": "Liver", "isCorrect": false },
+            { "id": "B", "text": "Spleen", "isCorrect": false },
+            { "id": "C", "text": "Bone marrow", "isCorrect": true },
+            { "id": "D", "text": "Kidneys", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "25",
+          "text": "The tibia and fibula are bones in the:",
+          "options": [
+            { "id": "A", "text": "Upper arm", "isCorrect": false },
+            { "id": "B", "text": "Lower leg", "isCorrect": true },
+            { "id": "C", "text": "Upper leg", "isCorrect": false },
+            { "id": "D", "text": "Forearm", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "26",
+          "text": "The stomach empties into the:",
+          "options": [
+            { "id": "A", "text": "Esophagus", "isCorrect": false },
+            { "id": "B", "text": "Small intestine", "isCorrect": true },
+            { "id": "C", "text": "Large intestine", "isCorrect": false },
+            { "id": "D", "text": "Liver", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "27",
+          "text": "Which muscle separates the thoracic and abdominal cavities?",
+          "options": [
+            { "id": "A", "text": "Intercostals", "isCorrect": false },
+            { "id": "B", "text": "Diaphragm", "isCorrect": true },
+            { "id": "C", "text": "Rectus abdominis", "isCorrect": false },
+            { "id": "D", "text": "Pectoralis", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "28",
+          "text": "The vertebrae protect the:",
+          "options": [
+            { "id": "A", "text": "Heart", "isCorrect": false },
+            { "id": "B", "text": "Brain", "isCorrect": false },
+            { "id": "C", "text": "Spinal cord", "isCorrect": true },
+            { "id": "D", "text": "Lungs", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "29",
+          "text": "White blood cells are primarily involved in:",
+          "options": [
+            { "id": "A", "text": "Oxygen transport", "isCorrect": false },
+            { "id": "B", "text": "Blood clotting", "isCorrect": false },
+            { "id": "C", "text": "Immune response", "isCorrect": true },
+            { "id": "D", "text": "Nutrient absorption", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "30",
+          "text": "The clavicle is commonly known as the:",
+          "options": [
+            { "id": "A", "text": "Kneecap", "isCorrect": false },
+            { "id": "B", "text": "Collarbone", "isCorrect": true },
+            { "id": "C", "text": "Shinbone", "isCorrect": false },
+            { "id": "D", "text": "Jawbone", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "31",
+          "text": "Bile is stored in the:",
+          "options": [
+            { "id": "A", "text": "Liver", "isCorrect": false },
+            { "id": "B", "text": "Gallbladder", "isCorrect": true },
+            { "id": "C", "text": "Pancreas", "isCorrect": false },
+            { "id": "D", "text": "Stomach", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "32",
+          "text": "The vocal cords are located in the:",
+          "options": [
+            { "id": "A", "text": "Trachea", "isCorrect": false },
+            { "id": "B", "text": "Pharynx", "isCorrect": false },
+            { "id": "C", "text": "Larynx", "isCorrect": true },
+            { "id": "D", "text": "Bronchi", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "33",
+          "text": "Which organ produces insulin?",
+          "options": [
+            { "id": "A", "text": "Liver", "isCorrect": false },
+            { "id": "B", "text": "Kidney", "isCorrect": false },
+            { "id": "C", "text": "Pancreas", "isCorrect": true },
+            { "id": "D", "text": "Spleen", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "34",
+          "text": "The scapula is commonly known as the:",
+          "options": [
+            { "id": "A", "text": "Hip bone", "isCorrect": false },
+            { "id": "B", "text": "Shoulder blade", "isCorrect": true },
+            { "id": "C", "text": "Kneecap", "isCorrect": false },
+            { "id": "D", "text": "Ankle bone", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "35",
+          "text": "The aorta is the body's largest:",
+          "options": [
+            { "id": "A", "text": "Vein", "isCorrect": false },
+            { "id": "B", "text": "Artery", "isCorrect": true },
+            { "id": "C", "text": "Capillary", "isCorrect": false },
+            { "id": "D", "text": "Lymph vessel", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "36",
+          "text": "How many pairs of ribs does a human have?",
+          "options": [
+            { "id": "A", "text": "10", "isCorrect": false },
+            { "id": "B", "text": "12", "isCorrect": true },
+            { "id": "C", "text": "14", "isCorrect": false },
+            { "id": "D", "text": "16", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "37",
+          "text": "The cornea is part of the:",
+          "options": [
+            { "id": "A", "text": "Ear", "isCorrect": false },
+            { "id": "B", "text": "Eye", "isCorrect": true },
+            { "id": "C", "text": "Nose", "isCorrect": false },
+            { "id": "D", "text": "Tongue", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "38",
+          "text": "The ileum is part of the:",
+          "options": [
+            { "id": "A", "text": "Stomach", "isCorrect": false },
+            { "id": "B", "text": "Large intestine", "isCorrect": false },
+            { "id": "C", "text": "Small intestine", "isCorrect": true },
+            { "id": "D", "text": "Esophagus", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "39",
+          "text": "Which part of the brain controls breathing and heart rate?",
+          "options": [
+            { "id": "A", "text": "Cerebrum", "isCorrect": false },
+            { "id": "B", "text": "Cerebellum", "isCorrect": false },
+            { "id": "C", "text": "Medulla oblongata", "isCorrect": true },
+            { "id": "D", "text": "Thalamus", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "40",
+          "text": "The pelvis consists of how many bones?",
+          "options": [
+            { "id": "A", "text": "2", "isCorrect": false },
+            { "id": "B", "text": "3", "isCorrect": false },
+            { "id": "C", "text": "4", "isCorrect": false },
+            { "id": "D", "text": "6", "isCorrect": true }
+          ]
+        },
+        {
+          "id": "41",
+          "text": "Lymph nodes filter:",
+          "options": [
+            { "id": "A", "text": "Blood", "isCorrect": false },
+            { "id": "B", "text": "Lymph", "isCorrect": true },
+            { "id": "C", "text": "Bile", "isCorrect": false },
+            { "id": "D", "text": "Urine", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "42",
+          "text": "The mandible is the:",
+          "options": [
+            { "id": "A", "text": "Upper jaw", "isCorrect": false },
+            { "id": "B", "text": "Lower jaw", "isCorrect": true },
+            { "id": "C", "text": "Cheekbone", "isCorrect": false },
+            { "id": "D", "text": "Skull cap", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "43",
+          "text": "Platelets are essential for:",
+          "options": [
+            { "id": "A", "text": "Oxygen transport", "isCorrect": false },
+            { "id": "B", "text": "Blood clotting", "isCorrect": true },
+            { "id": "C", "text": "Immune defense", "isCorrect": false },
+            { "id": "D", "text": "Nutrient absorption", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "44",
+          "text": "The quadriceps are located in the:",
+          "options": [
+            { "id": "A", "text": "Upper arm", "isCorrect": false },
+            { "id": "B", "text": "Thigh", "isCorrect": true },
+            { "id": "C", "text": "Calf", "isCorrect": false },
+            { "id": "D", "text": "Abdomen", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "45",
+          "text": "The urethra is part of the:",
+          "options": [
+            { "id": "A", "text": "Digestive system", "isCorrect": false },
+            { "id": "B", "text": "Respiratory system", "isCorrect": false },
+            { "id": "C", "text": "Urinary system", "isCorrect": true },
+            { "id": "D", "text": "Circulatory system", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "46",
+          "text": "The sternum is commonly known as the:",
+          "options": [
+            { "id": "A", "text": "Spine", "isCorrect": false },
+            { "id": "B", "text": "Breastbone", "isCorrect": true },
+            { "id": "C", "text": "Collarbone", "isCorrect": false },
+            { "id": "D", "text": "Rib", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "47",
+          "text": "Vitamin D synthesis begins in the:",
+          "options": [
+            { "id": "A", "text": "Liver", "isCorrect": false },
+            { "id": "B", "text": "Kidney", "isCorrect": false },
+            { "id": "C", "text": "Skin", "isCorrect": true },
+            { "id": "D", "text": "Intestine", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "48",
+          "text": "The appendix is attached to the:",
+          "options": [
+            { "id": "A", "text": "Stomach", "isCorrect": false },
+            { "id": "B", "text": "Small intestine", "isCorrect": false },
+            { "id": "C", "text": "Large intestine (cecum)", "isCorrect": true },
+            { "id": "D", "text": "Rectum", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "49",
+          "text": "The biceps brachii flexes the:",
+          "options": [
+            { "id": "A", "text": "Leg", "isCorrect": false },
+            { "id": "B", "text": "Arm (elbow)", "isCorrect": true },
+            { "id": "C", "text": "Wrist", "isCorrect": false },
+            { "id": "D", "text": "Knee", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "50",
+          "text": "The sinoatrial node is the natural pacemaker of the:",
+          "options": [
+            { "id": "A", "text": "Brain", "isCorrect": false },
+            { "id": "B", "text": "Heart", "isCorrect": true },
+            { "id": "C", "text": "Lungs", "isCorrect": false },
+            { "id": "D", "text": "Stomach", "isCorrect": false }
+          ]
+        }
+      ]
+    }
+  }
+}
