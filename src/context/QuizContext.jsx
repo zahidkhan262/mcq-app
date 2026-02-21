@@ -83,12 +83,19 @@ export function QuizProvider({ children }) {
       }
     });
 
+    const answeredCount = correct + wrong;
+    const total = currentQuestions.length;
+    const isEarlySubmit = answeredCount < total;
+    const scoreDenominator = isEarlySubmit ? answeredCount : total;
+
     return {
-      total: currentQuestions.length,
+      total,
       correct,
       wrong,
+      answeredCount,
+      isEarlySubmit,
       totalAttempts: attempts,
-      percentage: currentQuestions.length > 0 ? Math.round((correct / currentQuestions.length) * 100) : 0,
+      percentage: scoreDenominator > 0 ? Math.round((correct / scoreDenominator) * 100) : 0,
     };
   };
 

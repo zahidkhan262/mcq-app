@@ -7,7 +7,7 @@ export default function SubjectSelection() {
 
   const handleSubjectClick = (subjectId) => {
     selectSubject(subjectId);
-    navigate('/length');
+    navigate('/choose-attempts');
   };
 
   const subjectList = Object.values(subjects);

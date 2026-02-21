@@ -33,7 +33,9 @@ export default function QuestionLengthSelection() {
     <div className="relative min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 flex flex-col items-center justify-center p-6">
       <Link
         to="/"
-        className="absolute top-6 left-6 text-slate-400 hover:text-white transition-colors"
+        className="absolute top-6 left-6 py-2 px-4 rounded-xl bg-slate-700/50 hover:bg-slate-600/60 
+          border border-slate-600 text-slate-300 hover:text-white font-medium 
+          transition-all duration-200 flex items-center gap-2"
       >
         ← Back to subjects
       </Link>

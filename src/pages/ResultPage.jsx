@@ -36,7 +36,7 @@ export default function ResultPage() {
 
   const handleTryAgain = () => {
     goBackToLengthSelection();
-    navigate('/length');
+    navigate('/choose-attempts');
   };
 
   return (
@@ -44,6 +44,9 @@ export default function ResultPage() {
       <div className="w-full max-w-lg text-center">
         <h1 className="text-3xl md:text-4xl font-bold text-white mb-8">Results</h1>
 
+        {results.isEarlySubmit && (
+          <p className="text-amber-400 text-sm mb-4">You submitted early. Score is based on {results.answeredCount} questions answered (of {results.total} total).</p>
+        )}
         <div className="grid grid-cols-2 gap-4 mb-10">
           <ResultCard label="Total Questions" value={results.total} />
           <ResultCard label="Correct Answers" value={results.correct} />

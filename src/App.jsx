@@ -11,7 +11,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<SubjectSelection />} />
-          <Route path="/length" element={<QuestionLengthSelection />} />
+          <Route path="/choose-attempts" element={<QuestionLengthSelection />} />
           <Route path="/quiz" element={<QuizPage />} />
           <Route path="/result" element={<ResultPage />} />
           <Route path="*" element={<Navigate to="/" replace />} />
