@@ -12,7 +12,11 @@ export default function QuestionLengthSelection() {
   const totalCount = subjectData.questions?.length || 0;
 
   const availableOptions = useMemo(() => {
-    return PRESET_COUNTS.filter((n) => n <= totalCount);
+    const presets = PRESET_COUNTS.filter((n) => n <= totalCount);
+    if (totalCount > 100) {
+      return [...presets, totalCount]; // Add "All questions" as last option
+    }
+    return presets;
   }, [totalCount]);
 
   const handleSelectCount = (count) => {
@@ -54,7 +58,7 @@ export default function QuestionLengthSelection() {
               transition-all duration-300 hover:scale-[1.02] hover:shadow-lg hover:shadow-emerald-500/10 
               focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900"
           >
-            {count} Questions
+            {count === totalCount && totalCount > 100 ? 'All Questions' : `${count} Questions`}
           </button>
         ))}
       </div>

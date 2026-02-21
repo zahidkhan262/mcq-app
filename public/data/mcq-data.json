@@ -8,500 +8,3151 @@
           "id": "1",
           "text": "Extracellular fluid in adults differs from intracellular fluid in that its:",
           "options": [
-            { "id": "A", "text": "Volume is greater.", "isCorrect": false },
-            { "id": "B", "text": "Tonicity is lower.", "isCorrect": false },
-            { "id": "C", "text": "Anions are mainly inorganic.", "isCorrect": false },
-            { "id": "D", "text": "Sodium:potassium molar ratio is higher.", "isCorrect": true }
+            {
+              "id": "A",
+              "text": "Volume is greater.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Tonicity is lower.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Anions are mainly inorganic.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Sodium: potassium molar ratio is higher.",
+              "isCorrect": true
+            }
           ]
         },
         {
           "id": "2",
           "text": "Blood group antigens (agglutinogens) are:",
           "options": [
-            { "id": "A", "text": "Carried on the haemoglobin molecule.", "isCorrect": false },
-            { "id": "B", "text": "Beta globulins.", "isCorrect": false },
-            { "id": "C", "text": "Equally immunogenic.", "isCorrect": false },
-            { "id": "D", "text": "Inherited as recessive Mendelian characteristics.", "isCorrect": true }
+            {
+              "id": "A",
+              "text": "Carried on the haemoglobin molecule.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Beta globulins.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Equally immunogenic.",
+              "isCorrect": false
+            },
+            {
+              "id": "E",
+              "text": "Inherited as recessive Mendelian characteristics.",
+              "isCorrect": true
+            }
           ]
         },
         {
           "id": "3",
           "text": "Total body water, expressed as a percentage of body weight:",
           "options": [
-            { "id": "A", "text": "Can be measured with deuterium oxide dilution.", "isCorrect": false },
-            { "id": "B", "text": "Is smaller on average in women than in men.", "isCorrect": true },
-            { "id": "C", "text": "Rises following injection of posterior pituitary extracts.", "isCorrect": false },
-            { "id": "D", "text": "Falls during starvation.", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Can be measured with an indicator dilution technique using deuterium oxide.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Is smaller on average in women than in men.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Rises following injection of posterior pituitary extracts.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Falls during starvation.",
+              "isCorrect": false
+            }
           ]
         },
         {
           "id": "4",
           "text": "Breakdown of erythrocytes in the body:",
           "options": [
-            { "id": "A", "text": "Occurs when they are 6–8 weeks old.", "isCorrect": false },
-            { "id": "B", "text": "Takes place in the reticulo-endothelial system.", "isCorrect": true },
-            { "id": "C", "text": "Yields iron, most of which is excreted in the urine.", "isCorrect": false },
-            { "id": "D", "text": "Is required for the synthesis of bile salts.", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Occurs when they are 6–8 weeks old.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Takes place in the reticulo-endothelial system.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Yields iron, most of which is excreted in the urine.",
+              "isCorrect": false
+            },
+            {
+              "id": "E",
+              "text": "Is required for the synthesis of bile salts.",
+              "isCorrect": false
+            }
           ]
         },
         {
           "id": "5",
           "text": "A person with group A blood:",
           "options": [
-            { "id": "A", "text": "Has anti-B antibody in the plasma.", "isCorrect": true },
-            { "id": "B", "text": "May have the genotype AB.", "isCorrect": false },
-            { "id": "C", "text": "May have a parent with group O blood.", "isCorrect": false },
-            { "id": "D", "text": "Has A antigens on red cells only.", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Has anti-B antibody in the plasma.",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "May have the genotype AB.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "May have a parent with group O blood.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "May have children with group A or group O blood only.",
+              "isCorrect": false
+            }
           ]
         },
         {
           "id": "6",
-          "text": "The largest organ in the human body is:",
+          "text": "Blood platelets assist in arresting bleeding by:",
           "options": [
-            { "id": "A", "text": "Liver", "isCorrect": false },
-            { "id": "B", "text": "Brain", "isCorrect": false },
-            { "id": "C", "text": "Skin", "isCorrect": true },
-            { "id": "D", "text": "Heart", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Releasing factors promoting blood clotting.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Adhering together to form plugs when exposed to collagen.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Liberating high concentrations of calcium.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Releasing factors causing vasoconstriction.",
+              "isCorrect": false
+            }
           ]
         },
         {
           "id": "7",
-          "text": "How many bones are in the adult human body?",
+          "text": "Plasma bilirubin:",
           "options": [
-            { "id": "A", "text": "186", "isCorrect": false },
-            { "id": "B", "text": "206", "isCorrect": true },
-            { "id": "C", "text": "226", "isCorrect": false },
-            { "id": "D", "text": "246", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Is a steroid pigment.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Is converted to Biliverdin in the liver.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Does not normally cross cerebral capillary walls.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Is freely filtered in the renal glomerulus.",
+              "isCorrect": true
+            }
           ]
         },
         {
           "id": "8",
-          "text": "The femur is located in the:",
+          "text": "Monocytes:",
           "options": [
-            { "id": "A", "text": "Upper arm", "isCorrect": false },
-            { "id": "B", "text": "Lower leg", "isCorrect": false },
-            { "id": "C", "text": "Thigh", "isCorrect": true },
-            { "id": "D", "text": "Forearm", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Originate from precursor cells in lymph nodes.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Can increase in number when their parent cells are stimulated by factors released from activated lymphocytes.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Unlike granulocytes, do not migrate across capillary walls.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Can transform into large multinucleated cells in certain chronic infections.",
+              "isCorrect": true
+            }
           ]
         },
         {
           "id": "9",
-          "text": "Which muscle is responsible for pumping blood throughout the body?",
+          "text": "Erythrocytes:",
           "options": [
-            { "id": "A", "text": "Diaphragm", "isCorrect": false },
-            { "id": "B", "text": "Heart", "isCorrect": true },
-            { "id": "C", "text": "Biceps", "isCorrect": false },
-            { "id": "D", "text": "Quadriceps", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Are responsible for the major part of blood viscosity.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Contain the enzyme carbonic anhydrase.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Metabolize glucose to produce CO2 and H2O.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Swell to bursting point when suspended in 0.9 per cent (150 mmol/litre) saline.",
+              "isCorrect": false
+            }
           ]
         },
         {
           "id": "10",
-          "text": "The human skull is composed of how many bones?",
+          "text": "Human plasma albumin:",
           "options": [
-            { "id": "A", "text": "18", "isCorrect": false },
-            { "id": "B", "text": "22", "isCorrect": true },
-            { "id": "C", "text": "26", "isCorrect": false },
-            { "id": "D", "text": "30", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Contributes more to plasma colloid osmotic pressure than globulin.",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Filters freely at the renal glomerulus.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Is negatively charged at the normal pH of blood.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Carries carbon dioxide in blood.",
+              "isCorrect": false
+            }
           ]
         },
         {
           "id": "11",
-          "text": "Which organ produces bile?",
+          "text": "Neutrophil granulocytes:",
           "options": [
-            { "id": "A", "text": "Pancreas", "isCorrect": false },
-            { "id": "B", "text": "Gallbladder", "isCorrect": false },
-            { "id": "C", "text": "Liver", "isCorrect": true },
-            { "id": "D", "text": "Stomach", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Are the most common leukocyte in normal blood.",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Contain proteolytic enzymes.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Have a lifespan in the circulation of 3–4 weeks.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Contain actin and myosin microfilaments.",
+              "isCorrect": false
+            }
           ]
         },
         {
           "id": "12",
-          "text": "The trachea is also known as the:",
+          "text": "Bleeding from a small cut in the skin:",
           "options": [
-            { "id": "A", "text": "Esophagus", "isCorrect": false },
-            { "id": "B", "text": "Windpipe", "isCorrect": true },
-            { "id": "C", "text": "Bronchus", "isCorrect": false },
-            { "id": "D", "text": "Larynx", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Is normally diminished by local vascular spasm.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Ceases within about five minutes in normal people.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Is prolonged in severe factor VIII (antihaemophilic globulin) deficiency.",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Is greater from warm skin than from cold skin.",
+              "isCorrect": false
+            }
           ]
         },
         {
           "id": "13",
-          "text": "Which part of the brain controls balance and coordination?",
+          "text": "Antibodies:",
           "options": [
-            { "id": "A", "text": "Cerebrum", "isCorrect": false },
-            { "id": "B", "text": "Cerebellum", "isCorrect": true },
-            { "id": "C", "text": "Medulla oblongata", "isCorrect": false },
-            { "id": "D", "text": "Hypothalamus", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Are protein molecules.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Are absent from the blood in early fetal life.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Are produced at a greater rate after a first, than after a second, exposure to an antigen six weeks later.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Circulating as free immunoglobulins are produced by B lymphocytes.",
+              "isCorrect": true
+            }
           ]
         },
         {
           "id": "14",
-          "text": "How many chambers does the human heart have?",
+          "text": "Presynaptic inhibition in the mammalian central nervous system can be mediated by:",
           "options": [
-            { "id": "A", "text": "2", "isCorrect": false },
-            { "id": "B", "text": "3", "isCorrect": false },
-            { "id": "C", "text": "4", "isCorrect": true },
-            { "id": "D", "text": "5", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "GABA-B receptors on the nerve terminal that increase K⁺ conductance.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "GABA-A receptors on the nerve terminal that increase Cl⁻ conductance.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "axo-axonic synapses that cause depolarization of the postsynaptic cell.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "glycine receptors on the nerve terminal that increase Na⁺ conductance.",
+              "isCorrect": false
+            }
           ]
         },
         {
           "id": "15",
-          "text": "The patella is commonly known as the:",
+          "text": "At the vertebrate neuromuscular junction, the \"safety factor\" for transmission refers to the fact that:",
           "options": [
-            { "id": "A", "text": "Elbow", "isCorrect": false },
-            { "id": "B", "text": "Kneecap", "isCorrect": true },
-            { "id": "C", "text": "Ankle", "isCorrect": false },
-            { "id": "D", "text": "Wrist", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "the postsynaptic membrane has many more acetylcholine receptors than are needed to generate an end-plate potential.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "an action potential in the nerve terminal releases enough acetylcholine to ensure that an action potential is always generated in the muscle fiber.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "tetanic stimulation of the nerve leads to a sustained contraction of the muscle.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "acetylcholine released from the nerve terminal is rapidly hydrolyzed by acetylcholinesterase.",
+              "isCorrect": false
+            }
           ]
         },
         {
           "id": "16",
-          "text": "Which blood vessel carries oxygenated blood away from the heart?",
+          "text": "At a typical chemical synapse, the primary factor limiting the maximum rate at which a neuron can transmit information is the:",
           "options": [
-            { "id": "A", "text": "Vein", "isCorrect": false },
-            { "id": "B", "text": "Capillary", "isCorrect": false },
-            { "id": "C", "text": "Artery", "isCorrect": true },
-            { "id": "D", "text": "Venule", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "time required for the action potential to propagate down the axon.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "time required for voltage-gated Ca²⁺ channels in the terminal to close.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "time required for Ca²⁺ to be cleared from the terminal cytoplasm.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "time required for synaptic vesicles to be mobilized, docked, and primed for release.",
+              "isCorrect": true
+            }
           ]
         },
         {
           "id": "17",
-          "text": "The smallest bone in the human body is found in the:",
+          "text": "In Myasthenia Gravis, the safety factor for neuromuscular transmission is reduced because:",
           "options": [
-            { "id": "A", "text": "Hand", "isCorrect": false },
-            { "id": "B", "text": "Foot", "isCorrect": false },
-            { "id": "C", "text": "Ear", "isCorrect": true },
-            { "id": "D", "text": "Nose", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "antibodies reduce the number of functional acetylcholine receptors on the postsynaptic membrane.",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "antibodies block the release of acetylcholine from the presynaptic terminal.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "antibodies activate acetylcholinesterase, speeding the breakdown of acetylcholine.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "antibodies block muscarinic acetylcholine receptors on the muscle fiber.",
+              "isCorrect": false
+            }
           ]
         },
         {
           "id": "18",
-          "text": "Which organ filters waste from the blood?",
+          "text": "Post-tetanic potentiation (PTP) is a short-term form of synaptic plasticity characterized by:",
           "options": [
-            { "id": "A", "text": "Liver", "isCorrect": false },
-            { "id": "B", "text": "Kidney", "isCorrect": true },
-            { "id": "C", "text": "Spleen", "isCorrect": false },
-            { "id": "D", "text": "Pancreas", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "a decrease in synaptic strength due to neurotransmitter depletion.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "enhanced neurotransmitter release due to accumulation of Ca²⁺ in the presynaptic terminal.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "an increase in the number of postsynaptic receptors.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "a long-lasting increase in synaptic strength requiring new protein synthesis.",
+              "isCorrect": false
+            }
           ]
         },
         {
           "id": "19",
-          "text": "The radius and ulna are bones in the:",
+          "text": "A drug that selectively blocks voltage-gated K⁺ channels in a neuron would be expected to:",
           "options": [
-            { "id": "A", "text": "Leg", "isCorrect": false },
-            { "id": "B", "text": "Arm", "isCorrect": true },
-            { "id": "C", "text": "Spine", "isCorrect": false },
-            { "id": "D", "text": "Ribcage", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "hyperpolarize the resting membrane potential.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "prevent the generation of the action potential upstroke.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "prolong the depolarization phase and duration of the action potential.",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "block synaptic transmission by preventing Ca²⁺ influx.",
+              "isCorrect": false
+            }
           ]
         },
         {
           "id": "20",
-          "text": "Gas exchange in the lungs occurs in the:",
+          "text": "In a simple spinal reflex arc, stimulation of an inhibitory interneuron making an axo-axonic synapse onto the central terminal of the Ia sensory afferent fiber would result in:",
           "options": [
-            { "id": "A", "text": "Bronchi", "isCorrect": false },
-            { "id": "B", "text": "Alveoli", "isCorrect": true },
-            { "id": "C", "text": "Trachea", "isCorrect": false },
-            { "id": "D", "text": "Pharynx", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "an action potential in the sensory afferent fiber.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "a hyperpolarizing IPSP in the motor neuron.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "a depolarizing EPSP in the motor neuron.",
+              "isCorrect": false
+            },
+            {
+              "id": "E",
+              "text": "no direct change in the membrane potential or firing rate of the motor neuron.",
+              "isCorrect": true
+            }
           ]
         },
         {
           "id": "21",
-          "text": "The spinal cord is part of the:",
+          "text": "A key mechanism of presynaptic inhibition in the mammalian spinal cord involves:",
           "options": [
-            { "id": "A", "text": "Peripheral nervous system", "isCorrect": false },
-            { "id": "B", "text": "Central nervous system", "isCorrect": true },
-            { "id": "C", "text": "Autonomic nervous system", "isCorrect": false },
-            { "id": "D", "text": "Somatic nervous system", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "GABA-B receptor activation increasing K⁺ conductance in the sensory terminal.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "activation of metabotropic glutamate receptors on the sensory terminal.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "glycine receptor activation increasing Cl⁻ conductance in the motor neuron.",
+              "isCorrect": false
+            },
+            {
+              "id": "E",
+              "text": "GABA-A receptor activation leading to depolarization (primary afferent depolarization) of the sensory terminal.",
+              "isCorrect": true
+            }
           ]
         },
         {
           "id": "22",
-          "text": "Which gland is known as the master gland?",
+          "text": "The haematocrit (packed cell volume):",
           "options": [
-            { "id": "A", "text": "Thyroid", "isCorrect": false },
-            { "id": "B", "text": "Adrenal", "isCorrect": false },
-            { "id": "C", "text": "Pituitary", "isCorrect": true },
-            { "id": "D", "text": "Pancreas", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "May be obtained by centrifugation of blood.",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "May be calculated by multiplying the mean cell volume by the red cell count.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Rises in a patient who sustains widespread burns.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Rises following injections of aldosterone.",
+              "isCorrect": false
+            }
           ]
         },
         {
           "id": "23",
-          "text": "The humerus is located in the:",
+          "text": "Red cell formation is increased:",
           "options": [
-            { "id": "A", "text": "Lower arm", "isCorrect": false },
-            { "id": "B", "text": "Upper arm", "isCorrect": true },
-            { "id": "C", "text": "Thigh", "isCorrect": false },
-            { "id": "D", "text": "Shin", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "By giving vitamin B12 injections to healthy people on a normal diet.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "In blood donors one week after a blood donation.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "In patients with haemolytic anaemia.",
+              "isCorrect": false
+            },
+            {
+              "id": "E",
+              "text": "In patients who have a raised blood reticulocyte count.",
+              "isCorrect": true
+            }
           ]
         },
         {
           "id": "24",
-          "text": "Red blood cells are primarily produced in the:",
+          "text": "Vitamin B12 deficiency may:",
           "options": [
-            { "id": "A", "text": "Liver", "isCorrect": false },
-            { "id": "B", "text": "Spleen", "isCorrect": false },
-            { "id": "C", "text": "Bone marrow", "isCorrect": true },
-            { "id": "D", "text": "Kidneys", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Result from disease of the terminal part of the ileum.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Result in anaemia with small RBCs well filled with haemoglobin.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Cause wasting (atrophy) of the gastric mucosa.",
+              "isCorrect": false
+            },
+            {
+              "id": "E",
+              "text": "Cause pathological changes in the central nervous system.",
+              "isCorrect": true
+            }
           ]
         },
         {
           "id": "25",
-          "text": "The tibia and fibula are bones in the:",
+          "text": "Coronary blood flow to the left ventricle increases during:",
           "options": [
-            { "id": "A", "text": "Upper arm", "isCorrect": false },
-            { "id": "B", "text": "Lower leg", "isCorrect": true },
-            { "id": "C", "text": "Upper leg", "isCorrect": false },
-            { "id": "D", "text": "Forearm", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Early systole.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Myocardial hypoxia.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Hypothermia.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Stimulation of sympathetic nerves to the heart.",
+              "isCorrect": false
+            }
           ]
         },
         {
           "id": "26",
-          "text": "The stomach empties into the:",
+          "text": "Local metabolic activity is the chief factor determining the rate of blood flow to the:",
           "options": [
-            { "id": "A", "text": "Esophagus", "isCorrect": false },
-            { "id": "B", "text": "Small intestine", "isCorrect": true },
-            { "id": "C", "text": "Large intestine", "isCorrect": false },
-            { "id": "D", "text": "Liver", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Heart.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Skin.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Skeletal muscle.",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Lung.",
+              "isCorrect": false
+            }
           ]
         },
         {
           "id": "27",
-          "text": "Which muscle separates the thoracic and abdominal cavities?",
+          "text": "The pressure:",
           "options": [
-            { "id": "A", "text": "Intercostals", "isCorrect": false },
-            { "id": "B", "text": "Diaphragm", "isCorrect": true },
-            { "id": "C", "text": "Rectus abdominis", "isCorrect": false },
-            { "id": "D", "text": "Pectoralis", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Drop along large veins is similar to that along large arteries.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Drop across the hepatic portal bed is similar to that across the splenic vascular bed.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "In the hepatic portal vein exceeds that in the inferior vena cava.",
+              "isCorrect": false
+            },
+            {
+              "id": "E",
+              "text": "In foot veins is lower when walking than when standing still.",
+              "isCorrect": true
+            }
           ]
         },
         {
           "id": "28",
-          "text": "The vertebrae protect the:",
+          "text": "The second heart sound differs from the first heart sound in that it is:",
           "options": [
-            { "id": "A", "text": "Heart", "isCorrect": false },
-            { "id": "B", "text": "Brain", "isCorrect": false },
-            { "id": "C", "text": "Spinal cord", "isCorrect": true },
-            { "id": "D", "text": "Lungs", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Related to turbulence set up by valve closure.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Longer lasting than the first sound.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Higher in frequency.",
+              "isCorrect": false
+            },
+            {
+              "id": "E",
+              "text": "Heard when the ventricles are relaxing.",
+              "isCorrect": true
+            }
           ]
         },
         {
           "id": "29",
-          "text": "White blood cells are primarily involved in:",
+          "text": "Pulmonary vascular resistance is:",
           "options": [
-            { "id": "A", "text": "Oxygen transport", "isCorrect": false },
-            { "id": "B", "text": "Blood clotting", "isCorrect": false },
-            { "id": "C", "text": "Immune response", "isCorrect": true },
-            { "id": "D", "text": "Nutrient absorption", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Less than one-third that offered by the systemic circuit.",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Decreased when alveolar oxygen pressure falls.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Expressed in units of volume flow per unit time per unit pressure gradient.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Decreased during exercise.",
+              "isCorrect": false
+            }
           ]
         },
         {
           "id": "30",
-          "text": "The clavicle is commonly known as the:",
+          "text": "Ventricular filling:",
           "options": [
-            { "id": "A", "text": "Kneecap", "isCorrect": false },
-            { "id": "B", "text": "Collarbone", "isCorrect": true },
-            { "id": "C", "text": "Shinbone", "isCorrect": false },
-            { "id": "D", "text": "Jawbone", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Depends mainly on atrial contraction.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Begins during isometric ventricular relaxation.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Gives rise to a third heart sound in some healthy people.",
+              "isCorrect": false
+            },
+            {
+              "id": "E",
+              "text": "Is most rapid in the first half of diastole.",
+              "isCorrect": true
+            }
           ]
         },
         {
           "id": "31",
-          "text": "Bile is stored in the:",
+          "text": "Veins:",
           "options": [
-            { "id": "A", "text": "Liver", "isCorrect": false },
-            { "id": "B", "text": "Gallbladder", "isCorrect": true },
-            { "id": "C", "text": "Pancreas", "isCorrect": false },
-            { "id": "D", "text": "Stomach", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Contain most of the blood volume.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Have a sympathetic vasoconstrictor innervation.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Receive nutrition from vasa vasorum arising from their lumen.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Respond to distension by contraction of their smooth muscle.",
+              "isCorrect": false
+            }
           ]
         },
         {
           "id": "32",
-          "text": "The vocal cords are located in the:",
+          "text": "In the heart:",
           "options": [
-            { "id": "A", "text": "Trachea", "isCorrect": false },
-            { "id": "B", "text": "Pharynx", "isCorrect": false },
-            { "id": "C", "text": "Larynx", "isCorrect": true },
-            { "id": "D", "text": "Bronchi", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "The left atrial wall is about three times thicker than the right atrial wall.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Systolic contraction normally begins in the left atrium.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Excitation spreads directly from atrial muscle cells to ventricular muscle cells.",
+              "isCorrect": false
+            },
+            {
+              "id": "E",
+              "text": "The contracting ventricles shorten from apex to base.",
+              "isCorrect": true
+            }
           ]
         },
         {
           "id": "33",
-          "text": "Which organ produces insulin?",
+          "text": "Isometric (static) exercise differs from isotonic (dynamic) exercise in that it causes a greater increase in:",
           "options": [
-            { "id": "A", "text": "Liver", "isCorrect": false },
-            { "id": "B", "text": "Kidney", "isCorrect": false },
-            { "id": "C", "text": "Pancreas", "isCorrect": true },
-            { "id": "D", "text": "Spleen", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Venous return.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Pressure in the veins draining the exercising muscle.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Muscle blood flow.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Mean arterial pressure.",
+              "isCorrect": true
+            }
           ]
         },
         {
           "id": "34",
-          "text": "The scapula is commonly known as the:",
+          "text": "The net loss of fluid from capillaries in the legs is increased by:",
           "options": [
-            { "id": "A", "text": "Hip bone", "isCorrect": false },
-            { "id": "B", "text": "Shoulder blade", "isCorrect": true },
-            { "id": "C", "text": "Kneecap", "isCorrect": false },
-            { "id": "D", "text": "Ankle bone", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Arteriolar dilation.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Change from the recumbent to the standing position.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Lymphatic obstruction.",
+              "isCorrect": false
+            },
+            {
+              "id": "E",
+              "text": "Plasma albumin depletion.",
+              "isCorrect": true
+            }
           ]
         },
         {
           "id": "35",
-          "text": "The aorta is the body's largest:",
+          "text": "When measuring blood pressure by the auscultatory method:",
           "options": [
-            { "id": "A", "text": "Vein", "isCorrect": false },
-            { "id": "B", "text": "Artery", "isCorrect": true },
-            { "id": "C", "text": "Capillary", "isCorrect": false },
-            { "id": "D", "text": "Lymph vessel", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "The sounds that are heard are generated in the heart.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "The cuff pressure at which the first sounds are heard indicate systolic pressure.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "The cuff pressure at which the loudest sounds are heard indicate diastolic pressure.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Systolic pressure estimations tend to be lower than those made by the palpatory method.",
+              "isCorrect": false
+            }
           ]
         },
         {
           "id": "36",
-          "text": "How many pairs of ribs does a human have?",
+          "text": "The absolute refractory period in the ventricles:",
           "options": [
-            { "id": "A", "text": "10", "isCorrect": false },
-            { "id": "B", "text": "12", "isCorrect": true },
-            { "id": "C", "text": "14", "isCorrect": false },
-            { "id": "D", "text": "16", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Is the period when the ventricles are completely inexcitable.",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Corresponds to the period of ventricular depolarization.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Corresponds approximately to the period of ventricular contraction.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Is shorter than the corresponding period in atrial muscle.",
+              "isCorrect": false
+            }
           ]
         },
         {
           "id": "37",
-          "text": "The cornea is part of the:",
+          "text": "Vascular resistance:",
           "options": [
-            { "id": "A", "text": "Ear", "isCorrect": false },
-            { "id": "B", "text": "Eye", "isCorrect": true },
-            { "id": "C", "text": "Nose", "isCorrect": false },
-            { "id": "D", "text": "Tongue", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Increases by 50 per cent when the vascular radius is halved.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Is related to the thickness of the wall of the vessel.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Is related to the vessel's length.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Is affected by blood viscosity.",
+              "isCorrect": true
+            }
           ]
         },
         {
           "id": "38",
-          "text": "The ileum is part of the:",
+          "text": "Sympathetic drive to the heart is increased:",
           "options": [
-            { "id": "A", "text": "Stomach", "isCorrect": false },
-            { "id": "B", "text": "Large intestine", "isCorrect": false },
-            { "id": "C", "text": "Small intestine", "isCorrect": true },
-            { "id": "D", "text": "Esophagus", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "In exercise.",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "In excitement.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "In hypotension.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "When parasympathetic drive is decreased.",
+              "isCorrect": false
+            }
           ]
         },
         {
           "id": "39",
-          "text": "Which part of the brain controls breathing and heart rate?",
+          "text": "In an adult subject standing quietly at rest, venous pressure in the:",
           "options": [
-            { "id": "A", "text": "Cerebrum", "isCorrect": false },
-            { "id": "B", "text": "Cerebellum", "isCorrect": false },
-            { "id": "C", "text": "Medulla oblongata", "isCorrect": true },
-            { "id": "D", "text": "Thalamus", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Foot is approximately equal to arterial pressure at heart level.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Thorax decreases when the subject inhales.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Hand is subatmospheric when the hand is raised above the head.",
+              "isCorrect": false
+            },
+            {
+              "id": "E",
+              "text": "Superior vena cava is an index of cardiac filling pressure.",
+              "isCorrect": true
+            }
           ]
         },
         {
           "id": "40",
-          "text": "The pelvis consists of how many bones?",
+          "text": "Hyperaemia in skeletal muscle during exercise is normally associated with:",
           "options": [
-            { "id": "A", "text": "2", "isCorrect": false },
-            { "id": "B", "text": "3", "isCorrect": false },
-            { "id": "C", "text": "4", "isCorrect": false },
-            { "id": "D", "text": "6", "isCorrect": true }
+            {
+              "id": "A",
+              "text": "Release of sympathetic vasoconstrictor tone in the exercising muscles.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Capillary dilation due to relaxation of capillary smooth muscle.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "A fall in arterial pressure.",
+              "isCorrect": false
+            },
+            {
+              "id": "E",
+              "text": "An increase in cardiac output.",
+              "isCorrect": true
+            }
           ]
         },
         {
           "id": "41",
-          "text": "Lymph nodes filter:",
+          "text": "Sinoatrial node cells are:",
           "options": [
-            { "id": "A", "text": "Blood", "isCorrect": false },
-            { "id": "B", "text": "Lymph", "isCorrect": true },
-            { "id": "C", "text": "Bile", "isCorrect": false },
-            { "id": "D", "text": "Urine", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Found in both atria.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Innervated by the vagus.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Unable to generate impulses when completely denervated.",
+              "isCorrect": false
+            },
+            {
+              "id": "E",
+              "text": "Able to generate impulses because their membrane potential is unstable.",
+              "isCorrect": true
+            }
           ]
         },
         {
           "id": "42",
-          "text": "The mandible is the:",
+          "text": "The first heart sound corresponds in time with:",
           "options": [
-            { "id": "A", "text": "Upper jaw", "isCorrect": false },
-            { "id": "B", "text": "Lower jaw", "isCorrect": true },
-            { "id": "C", "text": "Cheekbone", "isCorrect": false },
-            { "id": "D", "text": "Skull cap", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Closure of the aortic and pulmonary valves.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "The P wave of the electrocardiogram.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "A rise in atrial pressure.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "A rise in ventricular pressure.",
+              "isCorrect": true
+            }
           ]
         },
         {
           "id": "43",
-          "text": "Platelets are essential for:",
+          "text": "Increased sympathetic drive to the heart increases the:",
           "options": [
-            { "id": "A", "text": "Oxygen transport", "isCorrect": false },
-            { "id": "B", "text": "Blood clotting", "isCorrect": true },
-            { "id": "C", "text": "Immune defense", "isCorrect": false },
-            { "id": "D", "text": "Nutrient absorption", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Rate of diastolic depolarization in sinoatrial node cells.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Coronary blood flow.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Rate of conduction in Purkinje tissue.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Slope of the Frank–Starling (work versus stretch) curve of the heart.",
+              "isCorrect": true
+            }
           ]
         },
         {
           "id": "44",
-          "text": "The quadriceps are located in the:",
+          "text": "The velocity of blood flow:",
           "options": [
-            { "id": "A", "text": "Upper arm", "isCorrect": false },
-            { "id": "B", "text": "Thigh", "isCorrect": true },
-            { "id": "C", "text": "Calf", "isCorrect": false },
-            { "id": "D", "text": "Abdomen", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "In capillaries is low because they offer high resistance to flow.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "In veins is greater than in venules.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Can fall to zero in the ascending aorta during diastole.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Is greater towards the centre of large blood vessels than at the periphery.",
+              "isCorrect": true
+            }
           ]
         },
         {
           "id": "45",
-          "text": "The urethra is part of the:",
+          "text": "The strength of contraction of left ventricular muscle increases when:",
           "options": [
-            { "id": "A", "text": "Digestive system", "isCorrect": false },
-            { "id": "B", "text": "Respiratory system", "isCorrect": false },
-            { "id": "C", "text": "Urinary system", "isCorrect": true },
-            { "id": "D", "text": "Circulatory system", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "End-diastolic ventricular filling pressure rises.",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Serum potassium levels rise.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Blood calcium levels fall.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Strenuous exercise is undertaken.",
+              "isCorrect": false
+            }
           ]
         },
         {
           "id": "46",
-          "text": "The sternum is commonly known as the:",
+          "text": "During isometric ventricular contraction:",
           "options": [
-            { "id": "A", "text": "Spine", "isCorrect": false },
-            { "id": "B", "text": "Breastbone", "isCorrect": true },
-            { "id": "C", "text": "Collarbone", "isCorrect": false },
-            { "id": "D", "text": "Rib", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "The entry and exit valves of the ventricle are closed.",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Pressure in the aorta rises.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Pressure in the atria falls.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Left coronary blood flow falls.",
+              "isCorrect": false
+            }
           ]
         },
         {
           "id": "47",
-          "text": "Vitamin D synthesis begins in the:",
+          "text": "In the electrocardiogram, the:",
           "options": [
-            { "id": "A", "text": "Liver", "isCorrect": false },
-            { "id": "B", "text": "Kidney", "isCorrect": false },
-            { "id": "C", "text": "Skin", "isCorrect": true },
-            { "id": "D", "text": "Intestine", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "QRS complex follows the onset of ventricular contraction.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "T wave is due to repolarization of the ventricles.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "PR interval corresponds with atrial depolarization.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "RT interval is related to ventricular action potential duration.",
+              "isCorrect": false
+            }
           ]
         },
         {
           "id": "48",
-          "text": "The appendix is attached to the:",
+          "text": "Cardiac output:",
           "options": [
-            { "id": "A", "text": "Stomach", "isCorrect": false },
-            { "id": "B", "text": "Small intestine", "isCorrect": false },
-            { "id": "C", "text": "Large intestine (cecum)", "isCorrect": true },
-            { "id": "D", "text": "Rectum", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Is normally expressed as the output of one ventricle in litres/minute.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "May not increase when heart rate rises.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Usually rises when a person lies down.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Rises in a hot environment.",
+              "isCorrect": false
+            }
           ]
         },
         {
           "id": "49",
-          "text": "The biceps brachii flexes the:",
+          "text": "Arterioles:",
           "options": [
-            { "id": "A", "text": "Leg", "isCorrect": false },
-            { "id": "B", "text": "Arm (elbow)", "isCorrect": true },
-            { "id": "C", "text": "Wrist", "isCorrect": false },
-            { "id": "D", "text": "Knee", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Have a smaller wall:lumen ratio than have arteries.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Play a major role in regulating arterial blood pressure.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Play a major role in regulating local blood flow.",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Offer more resistance to flow than capillaries.",
+              "isCorrect": false
+            }
           ]
         },
         {
           "id": "50",
-          "text": "The sinoatrial node is the natural pacemaker of the:",
+          "text": "The Purkinje tissue cells in the heart:",
           "options": [
-            { "id": "A", "text": "Brain", "isCorrect": false },
-            { "id": "B", "text": "Heart", "isCorrect": true },
-            { "id": "C", "text": "Lungs", "isCorrect": false },
-            { "id": "D", "text": "Stomach", "isCorrect": false }
+            {
+              "id": "A",
+              "text": "Conduct impulses faster than some neurones.",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Are larger than ventricular myocardial cells.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Lead to contraction of the base before the apex of the heart.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Are responsible for the short duration of the QRS complex.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "text": "In the brachial artery:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Pulse waves travel at the same velocity as blood.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Pulse pressure falls with decreasing elasticity of the wall.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Pressure rises markedly when the artery is occluded distally.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Pressure falls when the arm is raised above head level.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "52",
+          "text": "The tendency for blood flow to be turbulent increases when there is a decrease in blood:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Vessel diameter.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Density.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Flow velocity.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Viscosity.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "text": "Arterioles offer more resistance to flow than other vessels since they have:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Thicker muscular walls.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Richer sympathetic innervation.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Smaller internal diameters.",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "A smaller total cross-sectional area.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "54",
+          "text": "In the denervated heart, left ventricular stroke work increases when:",
+          "options": [
+            {
+              "id": "A",
+              "text": "The end-diastolic length of the ventricular fibres increases.",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Peripheral resistance rises.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Blood volume falls.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Right ventricular output increases.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "text": "Systemic hypertension may be caused by:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hypoxia due to chronic respiratory failure.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Excessive secretion of aldosterone.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Excessive secretion of adrenocorticotrophic hormone (ACTH).",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Myocardial thickening (hypertrophy) of the left ventricle.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "56",
+          "text": "Peripheral differs from central circulatory failure in that:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hypovolaemia is unusual.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "It leads to underperfusion of the tissues.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Cardiac output is usually normal.",
+              "isCorrect": false
+            },
+            {
+              "id": "E",
+              "text": "Ventricular function is usually normal.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "text": "In atrial fibrillation:",
+          "options": [
+            {
+              "id": "A",
+              "text": "The electrocardiogram shows no evidence of atrial activity.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Ventricular rate is lower than atrial rate.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Respiratory sinus arrhythmia can usually be seen.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "The ventricular rate is irregular.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "58",
+          "text": "Severe systemic hypertension may result in:",
+          "options": [
+            {
+              "id": "A",
+              "text": "An increase in the number of myocardial cells in the left ventricle.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Increased QRS voltage in certain leads.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Increased coronary blood flow.",
+              "isCorrect": false
+            },
+            {
+              "id": "E",
+              "text": "Impaired vision.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "text": "Auscultation of the heart can provide evidence of:",
+          "options": [
+            {
+              "id": "A",
+              "text": "The direction of turbulent flow causing a murmur.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Aortic stenosis, if there is a loud pre-systolic murmur in the aortic valve area.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Mitral incompetence, if a systolic murmur is heard in the axilla.",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Ventricular septal defect, if a loud diastolic murmur is heard.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "60",
+          "text": "The electrocardiogram shows:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Irregular P waves in atrial flutter.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Regular QRS complexes in atrial fibrillation.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Regular QRS complexes in complete heart block.",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "High voltage R waves over the right ventricle in right ventricular hypertrophy.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "text": "The jugular venous:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Pulse is not visible in normal healthy people.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Pulse has greater amplitude in patients with tricuspid incompetence.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Pulse can vary widely in amplitude in patients with complete heart block.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Pressure is raised in patients with right ventricular failure.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "62",
+          "text": "During the cardiac cycle, isovolumetric ventricular contraction:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Begins with the closure of the semilunar valves.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Occurs while all four cardiac valves are open.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Ends with the opening of the atrioventricular valves.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Is the phase when ventricular volume remains constant.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "text": "The phase of rapid ventricular filling in early diastole:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Contributes the majority of the ventricular end-diastolic volume.",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Is caused primarily by atrial contraction.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Is associated with the fourth heart sound (S4).",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Is absent in patients with atrial fibrillation.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "64",
+          "text": "The second heart sound (S2) is primarily caused by:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Closure of the mitral and tricuspid valves.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Turbulent blood flow into the ventricles.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Closure of the aortic and pulmonary valves.",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Atrial contraction against a non-compliant ventricle.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "text": "The pacemaker potential in SA nodal cells is primarily due to:",
+          "options": [
+            {
+              "id": "A",
+              "text": "A progressive decrease in potassium efflux.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "A steady influx of calcium through L-type channels.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "The \"funny current\" (I_f), a slow inward Na⁺ current activated by hyperpolarization.",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Rapid depolarization caused by fast sodium channels.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "66",
+          "text": "The action potential in ventricular myocardial cells, compared to SA node cells, is characterized by:",
+          "options": [
+            {
+              "id": "A",
+              "text": "A stable resting membrane potential near -90 mV.",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Phase 4 spontaneous depolarization.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "A slower upstroke (phase 0) mediated by L-type calcium channels.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "The absence of a distinct plateau phase (phase 2).",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "text": "The slowest conduction velocity in the cardiac conduction system is found in the:",
+          "options": [
+            {
+              "id": "A",
+              "text": "SA node.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Atrial muscle.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "AV node.",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Bundle of His.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "68",
+          "text": "The intrinsic rate of depolarization (automaticity) is highest in the:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Purkinje fibers.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Bundle of His.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "AV node.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "SA node.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "text": "The plateau phase (Phase 2) of the ventricular action potential is critical for:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ensuring rapid conduction through the Purkinje network.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Preventing tetanic contraction of cardiac muscle.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Allowing time for atrial contraction to complete.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Generating the QRS complex on the ECG.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "70",
+          "text": "The primary ionic event responsible for the upstroke (Phase 0) in Purkinje fiber action potentials is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Influx of calcium through L-type channels.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Efflux of potassium.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Influx of sodium through fast voltage-gated channels.",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Inactivation of the funny current (I_f).",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "text": "Platelets are directly activated by:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Exposure to prostacyclin (PGI2) from endothelial cells.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Binding to von Willebrand Factor (vWF) exposed at sites of vascular injury.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "High levels of circulating nitric oxide (NO).",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "The presence of heparin in plasma.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "72",
+          "text": "In the coagulation cascade, the intrinsic and extrinsic pathways converge to activate:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Factor VII.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Factor X.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Prothrombin (Factor II).",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Fibrinogen (Factor I).",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "text": "The primary role of Vitamin K in coagulation is to:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Activate platelets.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Serve as a cofactor for thrombin.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Catalyze the cross-linking of fibrin.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Promote the hepatic gamma-carboxylation of factors II, VII, IX, and X.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "74",
+          "text": "Heparin's main anticoagulant mechanism is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Direct inhibition of thrombin (Factor IIa).",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Inhibition of vitamin K epoxide reductase.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Binding to and potentiating the activity of antithrombin III.",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Degradation of fibrin polymer.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "text": "Warfarin exerts its anticoagulant effect by:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Chelating calcium ions in plasma.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Directly inhibiting the formation of the prothrombinase complex.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Inhibiting the vitamin K-dependent gamma-carboxylation of clotting factors.",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Stimulating the release of tissue plasminogen activator (tPA).",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "76",
+          "text": "The initial electrical vector of ventricular depolarization (septal activation) proceeds:",
+          "options": [
+            {
+              "id": "A",
+              "text": "From the apex to the base of the heart.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "From the left ventricle to the right ventricle.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "From the endocardium to the epicardium.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "From the right ventricle to the left ventricle and from left to right across the septum.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "text": "The mean electrical axis of the QRS complex in the frontal plane is normally:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Between -30° and -90° (left axis deviation).",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Between -30° and +90°.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Between +90° and +180° (right axis deviation).",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Between 0° and -30°.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "78",
+          "text": "Lead aVR in the standard ECG:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Views the heart from the left lateral perspective.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Has a positive electrode on the left arm.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Normally shows a predominantly negative QRS complex.",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Is used to assess inferior wall pathology.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "text": "Which chest lead (precordial lead) is positioned at the 4th intercostal space at the right sternal border?",
+          "options": [
+            {
+              "id": "A",
+              "text": "V1",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "V2",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "V3",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "V4",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "80",
+          "text": "The augmented limb leads (aVL, aVR, aVF):",
+          "options": [
+            {
+              "id": "A",
+              "text": "Are bipolar leads.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Require a central terminal as a reference point.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Record the potential difference between two limbs.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Have smaller amplitude signals than the standard limb leads.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "text": "A normal sinus rhythm on an ECG is characterized by all of the following EXCEPT:",
+          "options": [
+            {
+              "id": "A",
+              "text": "A regular R-R interval.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "A P wave before every QRS complex.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "A constant PR interval between 0.12 and 0.20 seconds.",
+              "isCorrect": false
+            },
+            {
+              "id": "E",
+              "text": "A variable P wave morphology.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "82",
+          "text": "On an ECG, the PR interval represents the time from:",
+          "options": [
+            {
+              "id": "A",
+              "text": "The start of atrial depolarization to the start of ventricular depolarization.",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "The peak of the P wave to the peak of the R wave.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "The end of atrial repolarization to the start of ventricular repolarization.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Ventricular depolarization to ventricular repolarization.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "text": "If an ECG rhythm strip shows 25 small squares (1 mm each) between two consecutive R waves, the heart rate is approximately:",
+          "options": [
+            {
+              "id": "A",
+              "text": "60 beats per minute.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "75 beats per minute.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "100 beats per minute.",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "150 beats per minute.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "84",
+          "text": "The \"rule of 300\" for rapid heart rate estimation on an ECG uses:",
+          "options": [
+            {
+              "id": "A",
+              "text": "The number of QRS complexes in a 10-second strip.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "The number of large squares (5 mm) between two R waves.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "The number of small squares (1 mm) between two R waves.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "The duration of the QT interval.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "text": "The QT interval on an ECG:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Should be constant regardless of heart rate.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Represents total ventricular activity (depolarization and repolarization).",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Is measured from the end of the P wave to the end of the T wave.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Normally shortens with bradycardia.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "86",
+          "text": "During the cardiac cycle, the point at which ventricular pressure exceeds aortic pressure corresponds to:",
+          "options": [
+            {
+              "id": "A",
+              "text": "The onset of isovolumetric relaxation.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "The opening of the aortic valve.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "The peak of the 'v' wave in the atrial pressure trace.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "The onset of the P wave on ECG.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "text": "Atrial contraction (atrial systole):",
+          "options": [
+            {
+              "id": "A",
+              "text": "Is essential for ventricular filling in a healthy heart at rest.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Contributes the \"a wave\" to the jugular venous pulse.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Occurs during the QRS complex on the ECG.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Is represented by the T wave on the ECG.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "88",
+          "text": "The primary determinant of coronary blood flow is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Sympathetic vasoconstrictor tone.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Aortic diastolic pressure.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Myocardial metabolic demand (local tissue oxygenation).",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Parasympathetic (vagal) activity.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "text": "The PR segment on an ECG (the isoelectric line after the P wave) corresponds to:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Atrial repolarization.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Conduction delay through the AV node.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Ventricular depolarization.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "The rapid ventricular filling phase.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "90",
+          "text": "The U wave on an ECG, when present, is thought to possibly represent:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Atrial repolarization.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Delayed repolarization of the Purkinje fibers.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Early ventricular depolarization.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "An artifact of movement.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "text": "In the coagulation cascade, Factor XIII (Fibrin stabilizing factor):",
+          "options": [
+            {
+              "id": "A",
+              "text": "Converts prothrombin to thrombin.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Converts fibrinogen to soluble fibrin monomers.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Cross-links fibrin polymers to form a stable clot.",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Activates Factor X in the common pathway.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "92",
+          "text": "Tissue Factor (Factor III) is the primary initiator of:",
+          "options": [
+            {
+              "id": "A",
+              "text": "The intrinsic pathway.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "The common pathway.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "The fibrinolytic pathway.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "The extrinsic pathway.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "93",
+          "text": "The endothelium produces which of the following potent inhibitors of platelet aggregation?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Thromboxane A2 (TXA2)",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Adenosine Diphosphate (ADP)",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Prostacyclin (PGI2) and Nitric Oxide (NO)",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Von Willebrand Factor (vWF)",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "94",
+          "text": "Protein C, along with its cofactor Protein S, exerts an anticoagulant effect by:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Directly inhibiting Factor Xa.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Inactivating Factors Va and VIIIa.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Enhancing plasminogen activation.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Blocking tissue factor.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "95",
+          "text": "The primary physiological trigger for the release of tissue plasminogen activator (tPA) is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "A fall in blood pressure.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "The presence of thrombin.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Vascular injury and fibrin formation.",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "An increase in platelet count.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "96",
+          "text": "The vector of the final phase of ventricular depolarization is directed toward the:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Right shoulder.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Left leg.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Left ventricle (lateral wall) and base.",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Right ventricle.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "97",
+          "text": "Left Axis Deviation (LAD) on the ECG is most commonly associated with:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Normal variant in tall, thin individuals.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Left ventricular hypertrophy.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Right ventricular hypertrophy.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Acute pulmonary embolism.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "98",
+          "text": "Which bipolar limb lead has its positive electrode on the left leg and negative electrode on the left arm?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lead I",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Lead II",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Lead III",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Lead aVF",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "99",
+          "text": "The chest lead V4 is typically placed:",
+          "options": [
+            {
+              "id": "A",
+              "text": "4th intercostal space, left sternal border.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "5th intercostal space, midclavicular line.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "5th intercostal space, anterior axillary line.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "4th intercostal space, right sternal border.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "100",
+          "text": "In a regular rhythm, if the R-R interval spans 4 large squares on ECG paper (25 mm/s), the heart rate is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "60 bpm",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "75 bpm",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "100 bpm",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "150 bpm",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "101",
+          "text": "The absolute refractory period of ventricular muscle corresponds approximately to which parts of the ECG?",
+          "options": [
+            {
+              "id": "A",
+              "text": "The entire QT interval.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "From the start of the QRS to the peak of the T wave.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "The PR interval.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "The TP segment.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "102",
+          "text": "Phase 1 (initial repolarization) of the ventricular action potential is due to:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Inactivation of fast Na⁺ channels and a transient outward K⁺ current (I_to).",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Influx of calcium through L-type channels.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Activation of the funny current (I_f).",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Sustained influx of sodium.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "103",
+          "text": "The long refractory period in cardiac muscle is primarily a function of:",
+          "options": [
+            {
+              "id": "A",
+              "text": "The slow conduction through the AV node.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "The plateau phase (Phase 2) of the action potential.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "The high resting membrane potential.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "The speed of the Na⁺/K⁺ ATPase pump.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "104",
+          "text": "Which of the following is NOT a function of platelets?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Adhesion to exposed collagen via vWF.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Aggregation via fibrinogen bridges between GP IIb/IIIa receptors.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Synthesis and release of coagulation factors like prothrombin.",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Release of granules containing ADP, serotonin, and thromboxane A2.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "105",
+          "text": "The activated Partial Thromboplastin Time (aPTT) test primarily evaluates the function of:",
+          "options": [
+            {
+              "id": "A",
+              "text": "The extrinsic and common pathways.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "The intrinsic and common pathways.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Platelet function.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Fibrinolysis.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "106",
+          "text": "The Prothrombin Time (PT) test primarily evaluates the function of:",
+          "options": [
+            {
+              "id": "A",
+              "text": "The extrinsic and common pathways.",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "The intrinsic and common pathways.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Platelet function.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Fibrinolysis.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "107",
+          "text": "Thrombin's (Factor IIa) actions include all EXCEPT:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Converting fibrinogen to fibrin.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Activating platelets.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Activating Factor XIII.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Activating Protein C (when bound to thrombomodulin).",
+              "isCorrect": false
+            },
+            {
+              "id": "E",
+              "text": "Directly lysing (breaking down) fibrin clot.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "108",
+          "text": "In the context of the conduction system, the bundle branches are located:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Within the interatrial septum.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "In the wall of the right atrium.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "In the upper part of the interventricular septum.",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Throughout the ventricular free walls.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "109",
+          "text": "An ECG shows a rhythm with no discernible P waves, an irregularly irregular ventricular response, and narrow QRS complexes. This is most consistent with:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Sinus arrhythmia.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Atrial flutter.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Atrial fibrillation.",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Ventricular tachycardia.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "110",
+          "text": "Which ECG finding is characteristic of hyperkalemia?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Shortened QT interval.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Peaked (tented) T waves.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Prominent U waves.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Prolonged PR interval.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "111",
+          "text": "Prominent U waves on an ECG are most classically associated with:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hypercalcemia.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Hypokalemia.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Hypernatremia.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Hypomagnesemia.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "112",
+          "text": "The \"J point\" on an ECG is defined as:",
+          "options": [
+            {
+              "id": "A",
+              "text": "The peak of the R wave.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "The point where the QRS complex ends and the ST segment begins.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "The onset of the P wave.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "The end of the T wave.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "113",
+          "text": "The primary source of energy for platelet activation and aggregation is derived from:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fatty acid oxidation.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Glycolysis and oxidative phosphorylation.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "The pentose phosphate pathway.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Anaerobic metabolism only.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "114",
+          "text": "Plasmin is the key enzyme of the fibrinolytic system. Its primary action is to:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Activate Factor X.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Degrade fibrin and fibrinogen.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Inhibit thrombin.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Activate platelets.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "115",
+          "text": "A patient has a prolonged bleeding time but normal PT and aPTT. The most likely defect is in:",
+          "options": [
+            {
+              "id": "A",
+              "text": "The intrinsic coagulation pathway.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "The extrinsic coagulation pathway.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "The common coagulation pathway.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Platelet function or number.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "116",
+          "text": "The \"systolic click\" heard on auscultation is often associated with:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Aortic stenosis.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Mitral valve prolapse.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Atrial septal defect.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Ventricular septal defect.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "117",
+          "text": "The fourth heart sound (S4):",
+          "options": [
+            {
+              "id": "A",
+              "text": "Is a normal finding in children and young adults.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Is associated with atrial contraction against a stiff, non-compliant ventricle.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Occurs just after the first heart sound (S1).",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Is best heard at the base of the heart (aortic area).",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "118",
+          "text": "During expiration, the splitting of the second heart sound (S2):",
+          "options": [
+            {
+              "id": "A",
+              "text": "Becomes wider.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Disappears or becomes narrow.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Is unrelated to respiration.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Is caused by delayed aortic valve closure.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "119",
+          "text": "The \"c wave\" in the atrial pressure tracing is caused by:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Atrial contraction.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Ventricular contraction causing bulging of the AV valves into the atria.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Passive filling of the atria from the veins.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Opening of the semilunar valves.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "120",
+          "text": "The \"x descent\" in the atrial pressure tracing is primarily due to:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Atrial relaxation.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Downward movement of the ventricular base during systole.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Atrial filling.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "The onset of ventricular diastole.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "121",
+          "text": "The most common cause of right axis deviation on the ECG is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Left ventricular hypertrophy.",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Right ventricular hypertrophy.",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Left anterior fascicular block.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Chronic obstructive pulmonary disease (COPD).",
+              "isCorrect": false
+            }
           ]
         }
       ]
