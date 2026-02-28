@@ -3156,6 +3156,3080 @@
           ]
         }
       ]
+    },
+    "history_of_uzk": {
+      "id": "history_of_uzk",
+      "name": "History of UZK",
+      "questions": [
+        {
+          "id": "1",
+          "text": "Who is the Secretary General of the United Nations?",
+          "options": [
+            {
+              "id": "A",
+              "text": "António Guterres",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Xi Jinping",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Christine Lagarde",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Rumen Radev",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "text": "By February 1993, in which city of Uzbekistan was the UN office opened?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Tashkent",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Samarkand",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Fergana",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Bukhara",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "text": "What is the term for a person elected to an authorized state body?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Deputy",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Minister",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Delegate",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Ambassador",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "text": "What is the name of the lower house of the Parliament of Uzbekistan?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Legislative",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Senate",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Property Owners",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Social",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "text": "After whom is the Tashkent Islamic Institute named?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Imam Bukhari",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Mahmud Zamakhshari",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Isa Termizi",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Al Maturidi",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "text": "Which international Islamic organization deals with education, science, and cultural issues?",
+          "options": [
+            {
+              "id": "A",
+              "text": "ISESCO",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "OIC",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "UNESCO",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "UNICEF",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "text": "In which work did Islam Karimov justify the five principles of building a new society?",
+          "options": [
+            {
+              "id": "A",
+              "text": "\"Uzbekistan’s Unique Path to a Market Economy\"",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "\"Uzbekistan’s Path to Independence and Development\"",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "\"Uzbekistan: On the Threshold of Independence\"",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "\"Uzbekistan: National Independence, Economy, Politics, Ideology\"",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "text": "What is the term for a society where multiple political parties operate?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Multiparty system",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Local self-government",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Legal and democratic principle",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Strong civil society",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "9",
+          "text": "How much of the total number of deputies and senators must vote in favor to pass a vote of no confidence against the Prime Minister?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Two thirds",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "One third",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "One fifth",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "One tenth",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "text": "With how many countries has Uzbekistan Airlines established air connections and provides passenger services?",
+          "options": [
+            {
+              "id": "A",
+              "text": "25 countries",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "35 countries",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "40 countries",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "15 countries",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "text": "What does \"subsidy\" mean?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Latin: Gift",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Latin: Sailing on a ship",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Latin: Head, main",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Latin: Strict order",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "12",
+          "text": "The word \"Master\" originates from which language and means \"teacher,\" \"leader\"?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Latin",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Chinese",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Uzbek",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Tajik",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "text": "was declared the Year of…?",
+          "options": [
+            {
+              "id": "A",
+              "text": "\"Dialogue with People and Human Interests\"",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "\"Family\"",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "\"Healthy Mother and Child\"",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "\"Honoring the Elderly\"",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "14",
+          "text": "In the \"Concept of Foreign Policy Activity,\" which region is stated as vital to Uzbekistan’s interests?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Central Asia",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Aral Sea Basin",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Afghanistan and adjacent territories",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Middle Asia",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "text": "What was the first law adopted after independence?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Law on State Independence",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Constitution",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Election Code",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Civil Code",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "16",
+          "text": "Which party focuses on the middle class and disadvantaged groups, representing their political and social will?",
+          "options": [
+            {
+              "id": "A",
+              "text": "People's Democratic Party",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Liberal Democratic Party (UzLiDeP)",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "\"Vatan Taraqqiyoti\" Party",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "\"Adolat\" Social Democratic Party",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "text": "Which party represents and protects the interests of property owners, small businesses, farmers, highly skilled professionals, and businesspeople?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Uzbekistan Liberal Democratic Party (UzLiDeP)",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Uzbekistan People's Democratic Party",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Uzbekistan \"Adolat\" Social Democratic Party",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "\"Vatan Taraqqiyoti\" Party",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "18",
+          "text": "Which party's main goal and objective is to preserve national traditions and values?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Uzbekistan \"Milliy Tiklanish\" Democratic Party",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Uzbekistan Liberal Democratic Party (UzLiDeP)",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Uzbekistan \"Adolat\" Social Democratic Party",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "\"Vatan Taraqqiyoti\" Party",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "text": "Under whose decision was the Ministry of Preschool Education established for the first time in Uzbekistan?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Current President Shavkat Mirziyoyev",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "First President Islam Karimov",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Chairman of the Uzbekistan Youth Union, Qahramon Quronboyev",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "UN SecretaryGeneral António Guterres",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "20",
+          "text": "What was the first political party established during the independence period?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Uzbekistan People's Democratic Party",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "\"Vatan Taraqqiyoti\" Party",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "\"Erk\" Democratic Party",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "\"Fidokorlar\" National Democratic Party",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "text": "Which party was founded in November 1991?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Uzbekistan People's Democratic Party",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "\"Vatan Taraqqiyoti\" Party",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "\"Fidokorlar\" National Democratic Party",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "\"Erk\" Democratic Party",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "22",
+          "text": "On July 2, 1992, during the Sixth Session of the Supreme Council, which national symbol was adopted?",
+          "options": [
+            {
+              "id": "A",
+              "text": "State Emblem of Uzbekistan",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "National Anthem of Uzbekistan",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "National Currency of Uzbekistan",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "National Flag of Uzbekistan",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "text": "Who appoints and dismisses the governors of provinces and Tashkent city according to the law?",
+          "options": [
+            {
+              "id": "A",
+              "text": "President of Uzbekistan",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Cabinet of Ministers",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Supreme Assembly (Oliy Majlis)",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "The People",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "24",
+          "text": "Provincial and Tashkent city governors represent which authority?",
+          "options": [
+            {
+              "id": "A",
+              "text": "President of Uzbekistan",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Supreme Assembly (Oliy Majlis)",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Prime Minister",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "The People",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "text": "Who wrote the lyrics for Uzbekistan’s National Anthem?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Abdulla Oripov",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Alisher Navoi",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Erkin Vohidov",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Muhammad Yusuf",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "26",
+          "text": "Which country’s \"Citic\" corporation built the Kungrad Soda Plant?",
+          "options": [
+            {
+              "id": "A",
+              "text": "China",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Russia",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "USA",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Turkey",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "text": "Which color is absent in Uzbekistan's State Emblem?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Yellow",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Black",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Green",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Silver",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "28",
+          "text": "When was Uzbekistan’s national flag adopted?",
+          "options": [
+            {
+              "id": "A",
+              "text": "November 18, 1991",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "June 1, 1991",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "May 5, 1993",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "October 15, 1990",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "text": "Which neighboring countries does Uzbekistan serve as a connecting hub between?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Afghanistan",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "India, Pakistan, Tajikistan, Turkmenistan, Afghanistan",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Kazakhstan, Kyrgyzstan, China, Tajikistan, Afghanistan",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Russia, Kyrgyzstan, Tajikistan, Turkmenistan, Afghanistan",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "30",
+          "text": "What does the blue color in the flag symbolize?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Eternal sky and pure water",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Abundant nature",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Peace and purity",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Perfection and completeness",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "text": "What does the white color in the flag symbolize?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Peace and purity",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Eternal sky and pure water",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Abundant nature",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Perfection and completeness",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "32",
+          "text": "Which color represents the rule of law and honor?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ink color",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Gold",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Blue",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "White",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "text": "When was the law \"On the State Emblem of the Republic of Uzbekistan\" adopted?",
+          "options": [
+            {
+              "id": "A",
+              "text": "July 2, 1992",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "March 2, 1992",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "June 1, 1991",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "May 5, 1993",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "34",
+          "text": "What currency was introduced in Uzbekistan on November 1, 1993?",
+          "options": [
+            {
+              "id": "A",
+              "text": "So’m-kupon",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "So’m",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Ruble",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Manat",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "text": "When did Uzbekistan become a UN member?",
+          "options": [
+            {
+              "id": "A",
+              "text": "March 2, 1992",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "June 1, 1991",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "May 5, 1993",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "October 15, 1990",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "36",
+          "text": "Which body has the authority to issue arrest warrants in Uzbekistan today?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Court",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Prosecutor",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "President",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Governor",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "text": "What color is the Humo bird on Uzbekistan’s State Emblem?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Silver",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Black",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Gold",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Blue",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "38",
+          "text": "Which body represents the legislative power in Uzbekistan?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Supreme Assembly (Oliy Majlis)",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Relevant regional governors",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "President of Uzbekistan",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Court",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "text": "Who appoints and dismisses district and city mayors?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Relevant regional governors",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "President of Uzbekistan",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "The People",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "People's Deputies",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "40",
+          "text": "In 1999, which anniversary of the \"Alpomish\" epic was celebrated?",
+          "options": [
+            {
+              "id": "A",
+              "text": "1000th anniversary",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "500th anniversary",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "1200th anniversary",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "1700th anniversary",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "text": "In which cities were statues of Islam Karimov erected?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Samarkand, Qarshi, Tashkent",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Samarkand, Shahrisabz, Tashkent",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Samarkand, Bukhara, Tashkent",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Samarkand, Margilan, Tashkent",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "42",
+          "text": "Which government body functions as the executive power under the leadership of the President?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cabinet of Ministers",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Supreme Assembly (Oliy Majlis)",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Relevant regional governors",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "President of Uzbekistan",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "text": "What does the term \"innovation\" mean?",
+          "options": [
+            {
+              "id": "A",
+              "text": "(English – newly introduced, invention) Advanced technology, management, and other innovations and their applications in various fields",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "(Greek – concept, doctrine) A field of study on the chemical properties of organisms and their immunity",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "(Latin – to compare, equalize, balance) Political identification – stable characteristics that allow distinguishing oneself from other political groups",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "(Latin – confessions) A general concept expressing religious branches, sects, and movements",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "44",
+          "text": "In Uzbekistan, which political parties nominated candidates for the elections for the first time?",
+          "options": [
+            {
+              "id": "A",
+              "text": "People's Democratic Party and \"Erk\" Democratic Party",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "People's Democratic Party and \"Milliy Tiklanish\" Democratic Party",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "People's Democratic Party and \"Adolat\" Social Democratic Party",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "People's Democratic Party and \"Fidokorlar\" National Democratic Party",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "text": "Which organization owns the \"FDI Confidence\" Index?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Global consulting company \"A.T. Kearney\"",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Transparency International",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "World Justice Project",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "United Nations",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "46",
+          "text": "Is it allowed to establish emergency courts in Uzbekistan?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Not allowed",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Mandatory",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Allowed in cases of necessity",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Only allowed in the capital",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "text": "Which international organization under the UN focuses on education, science, and culture?",
+          "options": [
+            {
+              "id": "A",
+              "text": "UNESCO",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "UNICEF",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "WTO",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "IOC",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "48",
+          "text": "Which Latin term means \"to judge, court process\"?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jurisdiction",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Doctrine",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Referendum",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Amnesty",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "text": "Which city is recorded as the ancient capital of Khorezm?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Topraqqala",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Ko’zaliqir",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Suza",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Tashkent",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "50",
+          "text": "\"A nation that respects its history and ancestors will surely have a bright future.\" Who said this?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Islam Karimov",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Boris Yeltsin",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Rafiq Nishonov",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Mikhail Gorbachev",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "text": "What is the current name of the Leninabad region in Tajikistan?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Sughd",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Khorezm",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Badakhshan",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Tokharistan",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "52",
+          "text": "Who is the author of the monograph \"The History of the Origin of the Uzbek People\"?",
+          "options": [
+            {
+              "id": "A",
+              "text": "A. Asqarov",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Rosenbach",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Chernyaev",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Abramov",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "text": "During the 1980s in the USSR, which rivers were planned to be diverted southward to irrigate Central Asia?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Siberian rivers",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "South Caucasus rivers",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Movarounnahr rivers",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Khorasan rivers",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "54",
+          "text": "Which territory was incorporated into the Uzbek SSR in 1936?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Karakalpak Autonomous Republic",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Samarkand",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Tashkent",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Kokand",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "text": "What is the process called when the most important state and societal matters are put to public discussion?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Referendum",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Alternative elections",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Ombudsman",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Strategy",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "56",
+          "text": "What is the oldest written source providing information about the history of Central Asia?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Avesta",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Rigveda",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Book of the Dead",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Videvdat",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "text": "During the years of independent development, how many renaissances (great periods of development) has Uzbekistan marked in its history?",
+          "options": [
+            {
+              "id": "A",
+              "text": "2",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "4",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "5",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "6",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "58",
+          "text": "When the draft of the Constitution was presented for public discussion for the second time, how many opinions were submitted?",
+          "options": [
+            {
+              "id": "A",
+              "text": "More than 6,000",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "10,000",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "2,000",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "More than 10,000",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "text": "How many renaissances (i.e. great development) did the Uzbek people mark in their history during the years of independent development?",
+          "options": [
+            {
+              "id": "A",
+              "text": "2",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "4",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "5",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "6",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "60",
+          "text": "When the draft constitution was presented at the 2nd public hearing, how many opinions were expressed in total?",
+          "options": [
+            {
+              "id": "A",
+              "text": "More than 6000",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "10,000",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "2000",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "More than 10,000",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "text": "When the soum was put into circulation on July 1, 1994, how many denominations of money were put into circulation?",
+          "options": [
+            {
+              "id": "A",
+              "text": "7",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "6",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "5",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "9",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "62",
+          "text": "In what session of the Oliy Majlis was the Law \"On the National Anthem of the Republic of Uzbekistan\" adopted?",
+          "options": [
+            {
+              "id": "A",
+              "text": "11",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "5",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "6",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "8",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "text": "Which day was declared by UNESCO as \"International Day of Tolerance\"?",
+          "options": [
+            {
+              "id": "A",
+              "text": "16 november",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "21 february",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "9 may",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "21 december",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "64",
+          "text": "How many articles does the Law \"On the Basics of State Independence of the Republic of Uzbekistan\" consist of?",
+          "options": [
+            {
+              "id": "A",
+              "text": "17",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "12",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "21",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "126",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "text": "The Constitution and laws of the Republic of Uzbekistan specify the age at which citizens have the right to vote?",
+          "options": [
+            {
+              "id": "A",
+              "text": "18",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "21",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "19",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "25",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "66",
+          "text": "Schools of Sufism were established in Bahauddin Naqshband center of which region?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Bukhara",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Samarkand",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Tashkent",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Kokand",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "text": "At what age are citizens elected to representative bodies of local government?",
+          "options": [
+            {
+              "id": "A",
+              "text": "21",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "25",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "30",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "35",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "68",
+          "text": "What percentage of the population of the Republic of Uzbekistan lives in rural areas?",
+          "options": [
+            {
+              "id": "A",
+              "text": "62 %",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "72 %",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "84 %",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "92 %",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "text": "The Aral Sea is considered to be one of the largest, saline and non-flowing lakes located in the desert region of the world?",
+          "options": [
+            {
+              "id": "A",
+              "text": "4",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "2",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "3",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "5",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "70",
+          "text": "How many people did the commission for preparing the draft of the Constitution of the Republic of Uzbekistan consist of?",
+          "options": [
+            {
+              "id": "A",
+              "text": "64",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "54",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "65",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "74",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "text": "In which session of the General Assembly of the United Nations, it was noted that the President's virtual and public receptions were established?",
+          "options": [
+            {
+              "id": "A",
+              "text": "In the 72nd session",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "In the 75th session",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "In the 70th session",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "In the 79th session",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "72",
+          "text": "A citizen of at least how many years of age has the right to be elected as the President of the Republic of Uzbekistan, those who have reached what age to the Oliy Majlis, and those who have reached what age to be elected as deputies to regional, district and city councils?",
+          "options": [
+            {
+              "id": "A",
+              "text": "35, 25, 21",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "35, 21, 18",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "35, 25, 18",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "35, 18,21",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "text": "On December 29, 1991, the election of the President of the Republic of Uzbekistan was held on the basis of alternative. What percentage of those who participated in the voting voted for the presidential candidate Islam Abdug'anievich Karimov?",
+          "options": [
+            {
+              "id": "A",
+              "text": "86 %",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "78 %",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "93 %",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "66 %",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "74",
+          "text": "Our country was featured for the first time in the report of the United Nations Industrial Development Organization (UNIDO) on the \"Index of Competitive Industrial Productivity\", and what place did it take among 152 countries?",
+          "options": [
+            {
+              "id": "A",
+              "text": "92",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "102",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "132",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "65",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "text": "With how many countries has Uzbekistan established official diplomatic relations by 2021?",
+          "options": [
+            {
+              "id": "A",
+              "text": "138",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "123",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "145",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "150",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "76",
+          "text": "How many national cultural centers are implementing the idea of interethnic harmony in Uzbekistan today?",
+          "options": [
+            {
+              "id": "A",
+              "text": "More than 100",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "250",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "350",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "421",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "text": "How many deputies were there in the Legislative Chamber of the Oliy Majlis?",
+          "options": [
+            {
+              "id": "A",
+              "text": "150",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "120",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "130",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "160",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "78",
+          "text": "What is the name of the Chinese New Year celebrated in our country?",
+          "options": [
+            {
+              "id": "A",
+              "text": "“Chunuze”",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "“Maslennitsa”",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "“Sabanto‘y”",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "“Sayil”",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "text": "What holidays are celebrated by the Uyghurs?",
+          "options": [
+            {
+              "id": "A",
+              "text": "“Sayil”",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "“Chunuze”",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "“Maslennitsa”",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "“Sabanto‘y”",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "80",
+          "text": "Find the person appointed as the representative of the UN in Uzbekistan?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Khalid Malik",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Ashraf Ghani",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Ben Gurion",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Ahmad Hanbal",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "text": "Who was the Director General of UNESCO who came to Samarkand in the last ten days of August 2019?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Audrey Azule",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Khalid Malik",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Ashraf Ghani",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Ben Gurion",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "82",
+          "text": "Since when was January 14 declared \"Defenders of the Fatherland Day\" in the Republic of Uzbekistan?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Since 1993",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Since 1994",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Since 1992",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Since 1991",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "text": "When was the som currency put into circulation in Uzbekistan?",
+          "options": [
+            {
+              "id": "A",
+              "text": "July 1, 1994",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "In June 1995",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "In November 1995",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "In March 1995",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "84",
+          "text": "Since what year was the parliament called Oliy Majlis?",
+          "options": [
+            {
+              "id": "A",
+              "text": "1995 y",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "2005 y",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "2004 y",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "2003 y",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "text": "Since then, every year October 1 has been celebrated as \"Teachers and Mentors' Day\"?",
+          "options": [
+            {
+              "id": "A",
+              "text": "1997 y",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "1994 y",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "1992 y",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "1999 y",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "86",
+          "text": "When was the Liberal Democratic Party of Uzbekistan (Uzlidep) founded, which has a special place in the political system of Uzbekistan?",
+          "options": [
+            {
+              "id": "A",
+              "text": "In November 2003",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "In February 1995",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "In April 2000",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "In June 1995",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "text": "When was \"Tashkent - the capital of Islamic culture\" announced by ISESKO, the educational, scientific and cultural organization of the Organization of Islamic Cooperation?",
+          "options": [
+            {
+              "id": "A",
+              "text": "In 2007",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "In 2009",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "In 2004",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "In 2000",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "88",
+          "text": "When was the Declaration of Independence of the USSR adopted?",
+          "options": [
+            {
+              "id": "A",
+              "text": "June 20, 1990",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "July 10, 1991",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "March 24, 1990",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "December 29, 1991",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "text": "Who is Tashkent International Airport named after?",
+          "options": [
+            {
+              "id": "A",
+              "text": "I. Karimov, the first president of the Republic of Uzbekistan",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Xi Jinping",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Christine Lagarde",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Rumen Pudev",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "90",
+          "text": "Which organization adopted the \"Educational and Religious Tolerance\" resolution?",
+          "options": [
+            {
+              "id": "A",
+              "text": "UN General Assembly",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "UNESCO",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "UNICEF",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "WTO",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "text": "When was Eid al-Fitr declared a holiday?",
+          "options": [
+            {
+              "id": "A",
+              "text": "On March 27, 1992",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "March 2, 1991",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "On March 27, 1990",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "August 5, 1990",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "92",
+          "text": "When was the election based on the alternative to the Presidency of the Republic of Uzbekistan?",
+          "options": [
+            {
+              "id": "A",
+              "text": "December 29, 1991",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "December 8, 1991",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "December 19, 1991",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "December 20, 1991",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "93",
+          "text": "When did the President's decree \"On improving the position of the Republic of Uzbekistan in international rankings and indexes and introducing a new mechanism of systematic work with them in state bodies and organizations\"?",
+          "options": [
+            {
+              "id": "A",
+              "text": "June 2, 2020",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "December 27, 2019",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "January 7, 2019",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "July 10, 2020",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "94",
+          "text": "When was the Action Strategy approved?",
+          "options": [
+            {
+              "id": "A",
+              "text": "February 7, 2017",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "February 7, 2016",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "February 8, 2016",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "December 6, 2018",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "95",
+          "text": "When was the first Address of the President of the Republic of Uzbekistan Shavkat Mirziyoyev to the Oliy Majlis published?",
+          "options": [
+            {
+              "id": "A",
+              "text": "December 22, 2017",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "February 2, 2017",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "December 14, 2016",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "March 5, 2016",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "96",
+          "text": "When was the decision \"On the establishment of the public council on the latest history of Uzbekistan under the Academy of Sciences of the Republic of Uzbekistan\" made?",
+          "options": [
+            {
+              "id": "A",
+              "text": "June 30, 2017",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "July 20, 2017",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "November 20, 2017",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "August 24, 2018",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "97",
+          "text": "How many years does the development strategy include?",
+          "options": [
+            {
+              "id": "A",
+              "text": "For 2022-2026",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "For 2018-2024",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "For 2020-2024",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "For 2021-2025",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "98",
+          "text": "What years is the approved Action Strategy for five priority areas of development of the Republic of Uzbekistan?",
+          "options": [
+            {
+              "id": "A",
+              "text": "For 2017-2021",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "For 2019–2023",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "For 2016–2021",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "For 2017–2022",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "99",
+          "text": "When was the year of the \"Healthy Child\" announced in our country?",
+          "options": [
+            {
+              "id": "A",
+              "text": "2014 y",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "2018 y",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "2019 y",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "2020 y",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "100",
+          "text": "What is the meaning of the word democracy?",
+          "options": [
+            {
+              "id": "A",
+              "text": "People's power",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Single governorship",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Sitting in front",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "I confirm",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "101",
+          "text": "What color is the 5th principle of the \"Strategy of Actions\" for the five priority areas of Uzbekistan's development in 2017-2021?",
+          "options": [
+            {
+              "id": "A",
+              "text": "White color",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Blue color",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Red color",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Black color",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "102",
+          "text": "When was the \"Year of Social Protection\" declared in our country?",
+          "options": [
+            {
+              "id": "A",
+              "text": "2007 y",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "2016 y",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "2017 y",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "2009 y",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "103",
+          "text": "How many years was Nukus celebrated in 2003?",
+          "options": [
+            {
+              "id": "A",
+              "text": "70th anniversary",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "100 th anniversary",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "120 th anniversary",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "130 anniversary",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "104",
+          "text": "In which district of Karakalpakstan was the Peoples' Friendship Park established on a 20-hectare area?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Gurlan",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Nukus",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Tashkent",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Bukhara",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "105",
+          "text": "\"Al Jame' al-Sahih\" is written by whom?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Imam al-Bukhari",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "B. Nakshband",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Burhoniddin al Marginani",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Khoja Ahror Vali",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "106",
+          "text": "\"Thought against thought, idea against idea, what should be fought against ignorance?\"",
+          "options": [
+            {
+              "id": "A",
+              "text": "Enlightenment",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Culture",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Word",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Education",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "107",
+          "text": "When was the Law \"On Education\" and \"National Personnel Training Program\" adopted?",
+          "options": [
+            {
+              "id": "A",
+              "text": "1997 y",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "1996 y",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "1995 y",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "1999 y",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "108",
+          "text": "Which cities were awarded the \"Amir Temur\" order in 1996?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Samarkand and Shahrisabz",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Tashkent and Samarkand",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Karshi and Shahrisabz",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Tashkent and Bukhara",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "109",
+          "text": "When did the peoples of the Khorezm oasis solemnly celebrate the 170th anniversary of Berdaq, a classic of Karakalpak literature?",
+          "options": [
+            {
+              "id": "A",
+              "text": "1998 y",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "1995 y",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "1996 y",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "2000 y",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "110",
+          "text": "On December 28, 2000, which city was included in the UNESCO list, becoming the third city in our republic included in the list?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Shahrisabz",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Tashkent",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Karshi",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Bukhara",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "111",
+          "text": "When was the decision \"On the celebration of the 80th anniversary of the birth of the First President of the Republic of Uzbekistan, a great state and political figure Islam Abduganievich Karimov\" made by the President of the Republic of Uzbekistan Sh.M. Mirziyoyev?",
+          "options": [
+            {
+              "id": "A",
+              "text": "2017 y",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "2015 y",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "2016 y",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "2014 y",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "112",
+          "text": "In which of the following options is the third priority direction of the Action Strategy?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Economic development and Liberalization",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Development of the social sphere",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Improvement of the construction system of the state and society",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Ensuring the rule of law and further reforming the judicial system",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "113",
+          "text": "In which of the following options is the second priority direction of the Action Strategy?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ensuring the rule of law and further reforming the judicial system",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Improvement of the construction system of the state and society",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Security, religious tolerance and international harmony, mutually beneficial and practical foreign policy",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Development of the social sphere",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "114",
+          "text": "Which of the following options is the first priority of the Action Strategy?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Improvement of the construction system of the state and society",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Ensuring the rule of law and further reforming the judicial system",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Development of the social sphere",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Security, religious tolerance and international harmony, mutually beneficial and practical foreign policy",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "115",
+          "text": "In which city is the UN's permanent workplace (headquarters) located?",
+          "options": [
+            {
+              "id": "A",
+              "text": "New York",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Washington",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Chicago",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Paris",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "116",
+          "text": "Define an international organization established for the purpose of strengthening peace and security on earth, and developing mutual cooperation between states.",
+          "options": [
+            {
+              "id": "A",
+              "text": "UN",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "UNESCO",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "NATO",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "SCO",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "117",
+          "text": "In connection with the entry of which country into the \"Shanghai Forum\", its name was changed to \"Shanghai Cooperation Organization - SCO\"?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Uzbekistan",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Tajikistan",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Iran",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "India",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "118",
+          "text": "When was the 660th anniversary of Amir Temur's birth celebrated?",
+          "options": [
+            {
+              "id": "A",
+              "text": "1996",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "1995",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "1994",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "1993",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
     }
   }
 }
