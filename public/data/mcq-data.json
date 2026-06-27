@@ -42641,75 +42641,75 @@
         }
       ]
     },
-    "clinical_mcq": {
-      "id": "clinical_mcq",
-      "name": "Clinical MCQ",
+    "cot_second_sem": {
+      "id": "cot_second_sem",
+      "name": "COT Questions 2nd Sem",
       "questions": [
         {
-          "id": "1",
+          "id": "Jaundice is a yellowish discoloration of the ---------------------------------- caused by excess bilirubin in body fluid",
           "text": "Jaundice is a yellowish discoloration of the ---------------------------------- caused by excess bilirubin in body fluid",
           "options": [
             {
               "id": "A",
-              "text": "Lips, and tongue",
-              "isCorrect": false
+              "text": "Skin, sclerae and mucous membranes",
+              "isCorrect": true
             },
             {
               "id": "B",
-              "text": "Buccal cavity and teeth",
-              "isCorrect": false
-            },
-            {
-              "id": "C",
               "text": "Lower Conjunctiva and skin",
               "isCorrect": false
             },
             {
+              "id": "C",
+              "text": "Lips, and tongue",
+              "isCorrect": false
+            },
+            {
               "id": "D",
-              "text": "Skin, sclerae and mucous membranes",
-              "isCorrect": true
+              "text": "Buccal cavity and teeth",
+              "isCorrect": false
             }
           ]
         },
         {
-          "id": "2",
+          "id": "Which is correct statement for Latent jaundice:",
           "text": "Which is correct statement for Latent jaundice:",
           "options": [
             {
               "id": "A",
-              "text": "Jaundice is clinically seen as yellow coloration; when bilirubin exceeds 3 mg/dl",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
               "text": "Clinically, there is no jaundice but serum bilirubin is more than normal but less than 3 mg/dl",
               "isCorrect": true
             },
             {
+              "id": "B",
+              "text": "Clinically, there is jaundice as well serum bilirubin is more than normal but less than 3 mg/dl",
+              "isCorrect": false
+            },
+            {
               "id": "C",
-              "text": "Jaundice is clinically seen as yellow coloration; when bilirubin doesnot exceeds 3 mg/dl",
+              "text": "Jaundice is clinically seen as yellow coloration; when bilirubin exceeds 3 mg/dl",
               "isCorrect": false
             },
             {
               "id": "D",
-              "text": "Clinically, there is jaundice as well serum bilirubin is more than normal but less than 3 mg/dl",
+              "text": "Jaundice is clinically seen as yellow coloration; when bilirubin doesnot exceeds 3 mg/dl",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "3",
+          "id": "Urine - Dark & Stool- Normal is usually seen in :",
           "text": "Urine - Dark & Stool- Normal is usually seen in :",
           "options": [
             {
               "id": "A",
-              "text": "Constructive Jaundice",
-              "isCorrect": false
+              "text": "Hepatocellular jaundice",
+              "isCorrect": true
             },
             {
               "id": "B",
-              "text": "Hepatocellular jaundice",
-              "isCorrect": true
+              "text": "Hemolytic jaundice",
+              "isCorrect": false
             },
             {
               "id": "C",
@@ -42718,50 +42718,50 @@
             },
             {
               "id": "D",
-              "text": "Hemolytic jaundice",
+              "text": "Constructive Jaundice",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "4",
+          "id": "Types of anaemia according to cause, which is incorrect statement",
           "text": "Types of anaemia according to cause, which is incorrect statement",
           "options": [
             {
               "id": "A",
-              "text": "Hemolytic anemia; Thalassemia",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
               "text": "Anaemia due to lack of erythropoietic factor: Sickle cell anaemia",
               "isCorrect": true
             },
             {
-              "id": "C",
+              "id": "B",
               "text": "Chronic Blood loss; Eg; hookworm infestation, chronic peptic ulcer",
               "isCorrect": false
             },
             {
-              "id": "D",
+              "id": "C",
               "text": "Anaemia Due to dysfunction of bone marrow: Aplastic anaemia",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Hemolytic anemia; Thalassemia",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "5",
+          "id": "",
           "text": "",
           "options": [
             {
               "id": "A",
               "text": "",
-              "isCorrect": false
+              "isCorrect": true
             },
             {
               "id": "B",
               "text": "",
-              "isCorrect": true
+              "isCorrect": false
             },
             {
               "id": "C",
@@ -42776,33 +42776,33 @@
           ]
         },
         {
-          "id": "6",
-          "text": "Patient presented with pale conjunctiva,  angular stomatitis, glossitis, spoon-shaped nails. What is your  clinical diagnosis",
+          "id": "Patient presented with pale conjunctiva,  angular stomatitis, glossitis, spoon-shaped nails",
+          "text": "What is your  clinical diagnosis",
           "options": [
             {
               "id": "A",
+              "text": "Iron deficiency anaemia",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
               "text": "Hemolytic anemia",
               "isCorrect": false
             },
             {
-              "id": "B",
+              "id": "C",
               "text": "Aplastic anaemia",
               "isCorrect": false
             },
             {
-              "id": "C",
+              "id": "D",
               "text": "All of the above",
               "isCorrect": false
-            },
-            {
-              "id": "D",
-              "text": "Iron deficiency anaemia",
-              "isCorrect": true
             }
           ]
         },
         {
-          "id": "7",
+          "id": "Pallor is best assessed in which of the following areas?",
           "text": "Pallor is best assessed in which of the following areas?",
           "options": [
             {
@@ -42812,7 +42812,7 @@
             },
             {
               "id": "B",
-              "text": "Nail beds",
+              "text": ". Palms",
               "isCorrect": false
             },
             {
@@ -42822,55 +42822,55 @@
             },
             {
               "id": "D",
-              "text": ". Palms",
+              "text": "Nail beds",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "8",
+          "id": "Which of the following is the normal range for adult respiratory rate?",
           "text": "Which of the following is the normal range for adult respiratory rate?",
           "options": [
             {
               "id": "A",
-              "text": "10–16 breaths/min",
-              "isCorrect": false
+              "text": "12\u201320 breaths/min",
+              "isCorrect": true
             },
             {
               "id": "B",
-              "text": ". 8–14 breaths/min",
+              "text": ". 8\u201314 breaths/min",
               "isCorrect": false
             },
             {
               "id": "C",
-              "text": "12–20 breaths/min",
-              "isCorrect": true
+              "text": "10\u201316 breaths/min",
+              "isCorrect": false
             },
             {
               "id": "D",
-              "text": "14–22 breaths/min",
+              "text": "14\u201322 breaths/min",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "9",
+          "id": "While doing general examination, the most appropriate site to assess central cyanosis is:",
           "text": "While doing general examination, the most appropriate site to assess central cyanosis is:",
           "options": [
             {
               "id": "A",
+              "text": "Tongue",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
               "text": "Conjunctiva",
               "isCorrect": false
             },
             {
-              "id": "B",
+              "id": "C",
               "text": "Nail bed",
               "isCorrect": false
-            },
-            {
-              "id": "C",
-              "text": "Tongue",
-              "isCorrect": true
             },
             {
               "id": "D",
@@ -42880,59 +42880,59 @@
           ]
         },
         {
-          "id": "10",
+          "id": "Koilonychia is a classical sign of which deficiency?",
           "text": "Koilonychia is a classical sign of which deficiency?",
           "options": [
             {
               "id": "A",
-              "text": "Vitamin B12",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
-              "text": "Zinc",
-              "isCorrect": false
-            },
-            {
-              "id": "C",
               "text": "Iron",
               "isCorrect": true
             },
             {
-              "id": "D",
-              "text": "Folic acid",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "id": "11",
-          "text": "Schamroth’s window sign which is used to create ‘diamond-shaped’ gap between the nail beds is used to examine",
-          "options": [
-            {
-              "id": "A",
-              "text": "Jaundice",
-              "isCorrect": false
-            },
-            {
               "id": "B",
-              "text": "Pallor",
+              "text": "Vitamin B12",
               "isCorrect": false
             },
             {
               "id": "C",
-              "text": "Cyanosis",
+              "text": "Folic acid",
               "isCorrect": false
             },
             {
               "id": "D",
-              "text": "Clubbing",
-              "isCorrect": true
+              "text": "Zinc",
+              "isCorrect": false
             }
           ]
         },
         {
-          "id": "12",
+          "id": "Schamroth\u2019s window sign which is used to create \u2018diamond-shaped\u2019 gap between the nail beds is used to examine",
+          "text": "Schamroth\u2019s window sign which is used to create \u2018diamond-shaped\u2019 gap between the nail beds is used to examine",
+          "options": [
+            {
+              "id": "A",
+              "text": "Clubbing",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Cyanosis",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Pallor",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Jaundice",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "The amount of fluid that is extimated to be in Intracellular compartments is about,",
           "text": "The amount of fluid that is extimated to be in Intracellular compartments is about,",
           "options": [
             {
@@ -42942,29 +42942,29 @@
             },
             {
               "id": "B",
-              "text": "28L",
-              "isCorrect": false
-            },
-            {
-              "id": "C",
               "text": "3 L",
               "isCorrect": false
             },
             {
-              "id": "D",
+              "id": "C",
               "text": "14L",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "28L",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "13",
+          "id": "",
           "text": "",
           "options": [
             {
               "id": "A",
               "text": "",
-              "isCorrect": false
+              "isCorrect": true
             },
             {
               "id": "B",
@@ -42974,7 +42974,7 @@
             {
               "id": "C",
               "text": "",
-              "isCorrect": true
+              "isCorrect": false
             },
             {
               "id": "D",
@@ -42984,39 +42984,39 @@
           ]
         },
         {
-          "id": "14",
+          "id": "Whats the incorrect statement regarding Crystalloid solutions from the following statements?",
           "text": "Whats the incorrect statement regarding Crystalloid solutions from the following statements?",
           "options": [
             {
               "id": "A",
-              "text": "Are distributed through the whole extracellular compartment.",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
-              "text": "Cross the capillary membrane from the vascular compartment to the interstitial compartment.",
-              "isCorrect": false
-            },
-            {
-              "id": "C",
               "text": "Half strength normal sanile contain 0.9 % Nacl",
               "isCorrect": true
             },
             {
-              "id": "D",
+              "id": "B",
               "text": "Normally, only a quarter of the volume of crystalloid infused remains in the vascular compartment",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Cross the capillary membrane from the vascular compartment to the interstitial compartment.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Are distributed through the whole extracellular compartment.",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "15",
+          "id": "As an example of colloid solution, Haemaccel they are usually given in a volume",
           "text": "As an example of colloid solution, Haemaccel they are usually given in a volume",
           "options": [
             {
               "id": "A",
-              "text": "All of the above",
-              "isCorrect": false
+              "text": "Equal to the blood volume deficit",
+              "isCorrect": true
             },
             {
               "id": "B",
@@ -43025,28 +43025,28 @@
             },
             {
               "id": "C",
-              "text": "Equal to the blood volume deficit",
-              "isCorrect": true
+              "text": "At least half times the volume lost",
+              "isCorrect": false
             },
             {
               "id": "D",
-              "text": "At least half times the volume lost",
+              "text": "All of the above",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "16",
+          "id": "In comparision between crystalloids and colloids solutions, which disadvantage is see in crystalloids solution",
           "text": "In comparision between crystalloids and colloids solutions, which disadvantage is see in crystalloids solution",
           "options": [
             {
               "id": "A",
-              "text": "Higher cost",
-              "isCorrect": false
+              "text": "Short duration of action",
+              "isCorrect": true
             },
             {
               "id": "B",
-              "text": "Risk of anaphylactic reactions",
+              "text": "Higher cost",
               "isCorrect": false
             },
             {
@@ -43056,24 +43056,24 @@
             },
             {
               "id": "D",
-              "text": "Short duration of action",
-              "isCorrect": true
+              "text": "Risk of anaphylactic reactions",
+              "isCorrect": false
             }
           ]
         },
         {
-          "id": "17",
+          "id": "Example of good Balance Salt Solutions is",
           "text": "Example of good Balance Salt Solutions is",
           "options": [
             {
               "id": "A",
-              "text": "Gelofusine",
-              "isCorrect": false
+              "text": "Ringer\u2019s lactate",
+              "isCorrect": true
             },
             {
               "id": "B",
-              "text": "Ringer’s lactate",
-              "isCorrect": true
+              "text": "Normal saline",
+              "isCorrect": false
             },
             {
               "id": "C",
@@ -43082,13 +43082,13 @@
             },
             {
               "id": "D",
-              "text": "Normal saline",
+              "text": "Gelofusine",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "18",
+          "id": "Commonly used replacement fluids are all of the following except",
           "text": "Commonly used replacement fluids are all of the following except",
           "options": [
             {
@@ -43098,23 +43098,23 @@
             },
             {
               "id": "B",
-              "text": "Normal saline",
-              "isCorrect": false
-            },
-            {
-              "id": "C",
               "text": "Ringer's lactate",
               "isCorrect": false
             },
             {
+              "id": "C",
+              "text": "Hartmann\u2019s solution",
+              "isCorrect": false
+            },
+            {
               "id": "D",
-              "text": "Hartmann’s solution",
+              "text": "Normal saline",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "19",
+          "id": "Normal value of pulse in a toodler is",
           "text": "Normal value of pulse in a toodler is",
           "options": [
             {
@@ -43124,23 +43124,23 @@
             },
             {
               "id": "B",
-              "text": "80-110",
+              "text": "120-160",
               "isCorrect": false
             },
             {
               "id": "C",
-              "text": "75-100",
+              "text": "80-110",
               "isCorrect": false
             },
             {
               "id": "D",
-              "text": "120-160",
+              "text": "75-100",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "20",
+          "id": "Fast pulse rate (tachycardia, >100 bpm) is usually seen in following condition except",
           "text": "Fast pulse rate (tachycardia, >100 bpm) is usually seen in following condition except",
           "options": [
             {
@@ -43150,12 +43150,12 @@
             },
             {
               "id": "B",
-              "text": "Fever",
+              "text": "Pain",
               "isCorrect": false
             },
             {
               "id": "C",
-              "text": "Pain",
+              "text": "Fever",
               "isCorrect": false
             },
             {
@@ -43166,7 +43166,7 @@
           ]
         },
         {
-          "id": "21",
+          "id": "Most preferrable method for the measurement of Infants and young children  and old age patients is",
           "text": "Most preferrable method for the measurement of Infants and young children  and old age patients is",
           "options": [
             {
@@ -43176,49 +43176,49 @@
             },
             {
               "id": "B",
+              "text": "Rectal",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
               "text": "Oral",
               "isCorrect": false
             },
             {
-              "id": "C",
-              "text": "Ear",
-              "isCorrect": false
-            },
-            {
               "id": "D",
-              "text": "Rectal",
+              "text": "Ear",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "22",
+          "id": "The condition of a patient which indicated increase in the depth of respiration is called as",
           "text": "The condition of a patient which indicated increase in the depth of respiration is called as",
           "options": [
             {
               "id": "A",
+              "text": "Hyperapnoea",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
               "text": "Tachypnoea",
               "isCorrect": false
             },
             {
-              "id": "B",
+              "id": "C",
               "text": "Bradypnoea",
               "isCorrect": false
             },
             {
-              "id": "C",
+              "id": "D",
               "text": "Apnoea",
               "isCorrect": false
-            },
-            {
-              "id": "D",
-              "text": "Hyperapnoea",
-              "isCorrect": true
             }
           ]
         },
         {
-          "id": "23",
+          "id": "Which of the following statement is incorrect regarding Blood pressure measurement?",
           "text": "Which of the following statement is incorrect regarding Blood pressure measurement?",
           "options": [
             {
@@ -43233,24 +43233,24 @@
             },
             {
               "id": "C",
-              "text": "Deflate the cuff slowly (2–3 mmHg/s) until you hear a regular tapping sound (phase 1 Korotkoff sounds)",
+              "text": "Inflate the cuff until the pulse is impalpable and note the pressure on the manometer; this is a rough estimate of systolic pressure.",
               "isCorrect": false
             },
             {
               "id": "D",
-              "text": "Inflate the cuff until the pulse is impalpable and note the pressure on the manometer; this is a rough estimate of systolic pressure.",
+              "text": "Deflate the cuff slowly (2\u20133 mmHg/s) until you hear a regular tapping sound (phase 1 Korotkoff sounds)",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "24",
+          "id": "Drugs can be destroyed by Hepatic first pass metabolism which is seen through which route of drugs administration:",
           "text": "Drugs can be destroyed by Hepatic first pass metabolism which is seen through which route of drugs administration:",
           "options": [
             {
               "id": "A",
-              "text": "IntradermalRoute",
-              "isCorrect": false
+              "text": "Oral Route",
+              "isCorrect": true
             },
             {
               "id": "B",
@@ -43259,8 +43259,8 @@
             },
             {
               "id": "C",
-              "text": "Oral Route",
-              "isCorrect": true
+              "text": "IntradermalRoute",
+              "isCorrect": false
             },
             {
               "id": "D",
@@ -43270,100 +43270,100 @@
           ]
         },
         {
-          "id": "25",
-          "text": "The abbreviation “gutt”in route of drugs administration stands for",
+          "id": "The abbreviation \u201cgutt\u201din route of drugs administration stands for",
+          "text": "The abbreviation \u201cgutt\u201din route of drugs administration stands for",
           "options": [
             {
               "id": "A",
+              "text": "Drops",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
               "text": "By mouth",
               "isCorrect": false
             },
             {
-              "id": "B",
-              "text": "Immediately",
-              "isCorrect": false
-            },
-            {
               "id": "C",
-              "text": "Once every night",
+              "text": "Immediately",
               "isCorrect": false
             },
             {
               "id": "D",
-              "text": "Drops",
-              "isCorrect": true
+              "text": "Once every night",
+              "isCorrect": false
             }
           ]
         },
         {
-          "id": "26",
-          "text": "The abbreviation “p.r.n”in route of drugs administration stands for",
+          "id": "The abbreviation \u201cp",
+          "text": "r.n\u201din route of drugs administration stands for",
           "options": [
             {
               "id": "A",
-              "text": "Drops",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
-              "text": "Immediately",
-              "isCorrect": false
-            },
-            {
-              "id": "C",
               "text": "Whenever required",
               "isCorrect": true
             },
             {
-              "id": "D",
+              "id": "B",
               "text": "By mouth",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Immediately",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Drops",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "27",
+          "id": "Route of drugs administration advantages that includes: rapid onset of action, painless and self medication is possible as well it bypass liver metabolism is an example of",
           "text": "Route of drugs administration advantages that includes: rapid onset of action, painless and self medication is possible as well it bypass liver metabolism is an example of",
           "options": [
             {
               "id": "A",
-              "text": "Intravenpus route",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
-              "text": "Oral route",
-              "isCorrect": false
-            },
-            {
-              "id": "C",
               "text": "Sublingual route",
               "isCorrect": true
             },
             {
-              "id": "D",
+              "id": "B",
               "text": "Subcutaneous route",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Intravenpus route",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Oral route",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "28",
+          "id": "Administration of liquid drug per rectum is called enema, which of the following is not an example of types of enema?",
           "text": "Administration of liquid drug per rectum is called enema, which of the following is not an example of types of enema?",
           "options": [
             {
               "id": "A",
-              "text": "Retention enema",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
               "text": "Remination enema",
               "isCorrect": true
             },
             {
-              "id": "C",
+              "id": "B",
               "text": "Evacuant enema.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Retention enema",
               "isCorrect": false
             },
             {
@@ -43374,13 +43374,13 @@
           ]
         },
         {
-          "id": "29",
+          "id": "Which of the following is incorrect statement regarding intravenous route of dugs administration",
           "text": "Which of the following is incorrect statement regarding intravenous route of dugs administration",
           "options": [
             {
               "id": "A",
-              "text": "Large volume of drug can be given.",
-              "isCorrect": false
+              "text": "Drugs cannot be given in controlled technique.",
+              "isCorrect": true
             },
             {
               "id": "B",
@@ -43389,8 +43389,8 @@
             },
             {
               "id": "C",
-              "text": "Drugs cannot be given in controlled technique.",
-              "isCorrect": true
+              "text": "Large volume of drug can be given.",
+              "isCorrect": false
             },
             {
               "id": "D",
@@ -43400,59 +43400,59 @@
           ]
         },
         {
-          "id": "30",
+          "id": "During Intramuscular route of drugs administration, 100% bioavailability is there where the rapid onset of action is seen in",
           "text": "During Intramuscular route of drugs administration, 100% bioavailability is there where the rapid onset of action is seen in",
           "options": [
             {
               "id": "A",
-              "text": "Rapid onset of action (3-5 sec )",
-              "isCorrect": false
+              "text": "Rapid onset of action (3-5 min)",
+              "isCorrect": true
             },
             {
               "id": "B",
-              "text": "Rapid onset of action (15-20min )",
-              "isCorrect": false
-            },
-            {
-              "id": "C",
               "text": "Rapid onset of action (15-20sec )",
               "isCorrect": false
             },
             {
+              "id": "C",
+              "text": "Rapid onset of action (3-5 sec )",
+              "isCorrect": false
+            },
+            {
               "id": "D",
-              "text": "Rapid onset of action (3-5 min)",
-              "isCorrect": true
+              "text": "Rapid onset of action (15-20min )",
+              "isCorrect": false
             }
           ]
         },
         {
-          "id": "31",
+          "id": "The drug is deposited into loose connective tissue beneath skin is an example of :",
           "text": "The drug is deposited into loose connective tissue beneath skin is an example of :",
           "options": [
             {
               "id": "A",
-              "text": "Intramuscular route",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
               "text": "Subcutaneous route",
               "isCorrect": true
             },
             {
+              "id": "B",
+              "text": "Intramuscular route",
+              "isCorrect": false
+            },
+            {
               "id": "C",
-              "text": "Intravenpus route",
+              "text": "Intradermal route",
               "isCorrect": false
             },
             {
               "id": "D",
-              "text": "Intradermal route",
+              "text": "Intravenpus route",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "32",
+          "id": "Spinal anesthesia are usually given as a route of",
           "text": "Spinal anesthesia are usually given as a route of",
           "options": [
             {
@@ -43462,7 +43462,7 @@
             },
             {
               "id": "B",
-              "text": "Intra cardiac",
+              "text": "Intra articular",
               "isCorrect": false
             },
             {
@@ -43472,40 +43472,40 @@
             },
             {
               "id": "D",
-              "text": "Intra articular",
+              "text": "Intra cardiac",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "33",
+          "id": "If the patient has active replication of the virus (HBeAg-positive blood) then the risk of developing clinical hepatitis is as high as",
           "text": "If the patient has active replication of the virus (HBeAg-positive blood) then the risk of developing clinical hepatitis is as high as",
           "options": [
             {
               "id": "A",
-              "text": "0.3%",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
               "text": "31%",
               "isCorrect": true
             },
             {
+              "id": "B",
+              "text": "0.3%",
+              "isCorrect": false
+            },
+            {
               "id": "C",
-              "text": "6%",
+              "text": "13%",
               "isCorrect": false
             },
             {
               "id": "D",
-              "text": "13%",
+              "text": "6%",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "34",
-          "text": "Infections may be caused by the patient’s own flora is called as",
+          "id": "Infections may be caused by the patient\u2019s own flora is called as",
+          "text": "Infections may be caused by the patient\u2019s own flora is called as",
           "options": [
             {
               "id": "A",
@@ -43514,7 +43514,7 @@
             },
             {
               "id": "B",
-              "text": "Cross contamination",
+              "text": "Exogenous infections",
               "isCorrect": false
             },
             {
@@ -43524,28 +43524,28 @@
             },
             {
               "id": "D",
-              "text": "Exogenous infections",
+              "text": "Cross contamination",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "35",
+          "id": "For the prevention of SSI, which of the following antibiotic prophylaxis is incorrect",
           "text": "For the prevention of SSI, which of the following antibiotic prophylaxis is incorrect",
           "options": [
             {
               "id": "A",
-              "text": "Repeat only during long operations",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
               "text": "Single shot intervenous administration at the dismissal of anaesthesia",
               "isCorrect": true
             },
             {
-              "id": "C",
+              "id": "B",
               "text": "Not required in clean surgery unless a prosthesis is implanted",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Repeat only during long operations",
               "isCorrect": false
             },
             {
@@ -43556,7 +43556,7 @@
           ]
         },
         {
-          "id": "36",
+          "id": "Which of the following are not a risk for the development of nosocomial pneumonia:",
           "text": "Which of the following are not a risk for the development of nosocomial pneumonia:",
           "options": [
             {
@@ -43566,91 +43566,91 @@
             },
             {
               "id": "B",
-              "text": "Severity of the patient’s condition (organ failure)",
+              "text": "The quality of respiratory care,",
               "isCorrect": false
             },
             {
               "id": "C",
-              "text": "Previous use of antibiotics.",
+              "text": "Severity of the patient\u2019s condition (organ failure)",
               "isCorrect": false
             },
             {
               "id": "D",
-              "text": "The quality of respiratory care,",
+              "text": "Previous use of antibiotics.",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "37",
+          "id": "Which anticoagulant is commonly used in blood collection bags for storing red blood cells?",
           "text": "Which anticoagulant is commonly used in blood collection bags for storing red blood cells?",
           "options": [
             {
               "id": "A",
-              "text": "Heparin",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
-              "text": "Sodium chloride",
-              "isCorrect": false
-            },
-            {
-              "id": "C",
               "text": "Citrate phosphate dextrose (CPD)",
               "isCorrect": true
             },
             {
-              "id": "D",
+              "id": "B",
+              "text": "Heparin",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
               "text": "EDTA",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Sodium chloride",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "38",
+          "id": "Which of the following is the correct storage temperature for frozen plasma?",
           "text": "Which of the following is the correct storage temperature for frozen plasma?",
           "options": [
             {
               "id": "A",
-              "text": "20-24°C",
-              "isCorrect": false
+              "text": "-25\u00b0C or colder",
+              "isCorrect": true
             },
             {
               "id": "B",
-              "text": "-4°C",
+              "text": "1-6\u00b0C",
               "isCorrect": false
             },
             {
               "id": "C",
-              "text": "1-6°C",
+              "text": "20-24\u00b0C",
               "isCorrect": false
             },
             {
               "id": "D",
-              "text": "-25°C or colder",
-              "isCorrect": true
+              "text": "-4\u00b0C",
+              "isCorrect": false
             }
           ]
         },
         {
-          "id": "39",
+          "id": "What is the main purpose of adding citrate to blood collection bags?",
           "text": "What is the main purpose of adding citrate to blood collection bags?",
           "options": [
             {
               "id": "A",
+              "text": ") To prevent clotting by binding calcium",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
               "text": "To prevent bacterial growth",
               "isCorrect": false
             },
             {
-              "id": "B",
+              "id": "C",
               "text": "To maintain the pH of blood",
               "isCorrect": false
-            },
-            {
-              "id": "C",
-              "text": ") To prevent clotting by binding calcium",
-              "isCorrect": true
             },
             {
               "id": "D",
@@ -43660,18 +43660,18 @@
           ]
         },
         {
-          "id": "40",
+          "id": "How long can platelets be stored at room temperature in continuous agitation?",
           "text": "How long can platelets be stored at room temperature in continuous agitation?",
           "options": [
             {
               "id": "A",
-              "text": "1-2 days",
-              "isCorrect": false
+              "text": "5-7 days",
+              "isCorrect": true
             },
             {
               "id": "B",
-              "text": "5-7 days",
-              "isCorrect": true
+              "text": "1-2 days",
+              "isCorrect": false
             },
             {
               "id": "C",
@@ -43686,13 +43686,13 @@
           ]
         },
         {
-          "id": "41",
-          "text": "Patient came to you in an emergency with lacerated wound with history of accident which was 2 hours ago. State the chances of SSI for this case?",
+          "id": "Patient came to you in an emergency with lacerated wound with history of accident which was 2 hours ago",
+          "text": "State the chances of SSI for this case?",
           "options": [
             {
               "id": "A",
-              "text": "40 - 50%",
-              "isCorrect": false
+              "text": "20 - 30%",
+              "isCorrect": true
             },
             {
               "id": "B",
@@ -43706,29 +43706,29 @@
             },
             {
               "id": "D",
-              "text": "20 - 30%",
-              "isCorrect": true
+              "text": "40 - 50%",
+              "isCorrect": false
             }
           ]
         },
         {
-          "id": "42",
+          "id": "70 kg male patient admitted to ICU and planed for NPO plan a nutritional support for this patient?",
           "text": "70 kg male patient admitted to ICU and planed for NPO plan a nutritional support for this patient?",
           "options": [
             {
               "id": "A",
+              "text": "Calorie intake 1400-2100 kcal/day",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
               "text": "Calorie intake less than 1400kcal/day",
               "isCorrect": false
             },
             {
-              "id": "B",
+              "id": "C",
               "text": "Calorie intake 2100-2800 kcal/day",
               "isCorrect": false
-            },
-            {
-              "id": "C",
-              "text": "Calorie intake 1400-2100 kcal/day",
-              "isCorrect": true
             },
             {
               "id": "D",
@@ -43738,34 +43738,34 @@
           ]
         },
         {
-          "id": "43",
-          "text": "You are observing a patient who is undergoing blood transfusion. Patient develop rashes, itching and bronchospasm. what is the condition called as?",
+          "id": "You are observing a patient who is undergoing blood transfusion",
+          "text": "Patient develop rashes, itching and bronchospasm. what is the condition called as?",
           "options": [
             {
               "id": "A",
-              "text": "Due to Malaria",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
-              "text": "Febrile nonhemolytic reactions",
-              "isCorrect": false
-            },
-            {
-              "id": "C",
               "text": "Allergic reaction",
               "isCorrect": true
             },
             {
-              "id": "D",
+              "id": "B",
+              "text": "Due to Malaria",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
               "text": "Acute hemolytic reactions",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Febrile nonhemolytic reactions",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "44",
-          "text": "A 25 year old male patient has sever ankle pain due to fracture of bone. You want to give a painkiller/Analgesic. What is the most common route of medicine administration?",
+          "id": "A 25 year old male patient has sever ankle pain due to fracture of bone",
+          "text": "You want to give a painkiller/Analgesic. What is the most common route of medicine administration?",
           "options": [
             {
               "id": "A",
@@ -43790,13 +43790,13 @@
           ]
         },
         {
-          "id": "45",
-          "text": "A 8 year old child presented to you with 104 degree fever and vomiting. By which route you can give paracetamol to decrease fever to this patient.",
+          "id": "A 8 year old child presented to you with 104 degree fever and vomiting",
+          "text": "By which route you can give paracetamol to decrease fever to this patient.",
           "options": [
             {
               "id": "A",
-              "text": "Oral",
-              "isCorrect": false
+              "text": "Rectal(suppository)",
+              "isCorrect": true
             },
             {
               "id": "B",
@@ -43805,28 +43805,28 @@
             },
             {
               "id": "C",
-              "text": "Rectal(suppository)",
-              "isCorrect": true
+              "text": "Intramuscular",
+              "isCorrect": false
             },
             {
               "id": "D",
-              "text": "Intramuscular",
+              "text": "Oral",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "46",
+          "id": "During route of dsrugs administration, the sublingual route of drug administration is preferred because of",
           "text": "During route of dsrugs administration, the sublingual route of drug administration is preferred because of",
           "options": [
             {
               "id": "A",
-              "text": "It causes more gastric irritation",
-              "isCorrect": false
+              "text": "It avoids the first-pass metabolism",
+              "isCorrect": true
             },
             {
               "id": "B",
-              "text": "It is slower than oral route",
+              "text": "It causes more gastric irritation",
               "isCorrect": false
             },
             {
@@ -43836,65 +43836,65 @@
             },
             {
               "id": "D",
-              "text": "It avoids the first-pass metabolism",
-              "isCorrect": true
+              "text": "It is slower than oral route",
+              "isCorrect": false
             }
           ]
         },
         {
-          "id": "47",
+          "id": "Which of the following routes provides both local and systemic effects?",
           "text": "Which of the following routes provides both local and systemic effects?",
           "options": [
             {
               "id": "A",
+              "text": "Inhalation",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
               "text": "Topical",
               "isCorrect": false
             },
             {
-              "id": "B",
+              "id": "C",
               "text": "Transdermal",
               "isCorrect": false
             },
             {
-              "id": "C",
+              "id": "D",
               "text": "Sublingual",
               "isCorrect": false
-            },
-            {
-              "id": "D",
-              "text": "Inhalation",
-              "isCorrect": true
             }
           ]
         },
         {
-          "id": "48",
+          "id": "Which of the following routes bypasses the gastrointestinal tract entirely?",
           "text": "Which of the following routes bypasses the gastrointestinal tract entirely?",
           "options": [
             {
               "id": "A",
+              "text": "Intramuscular",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
               "text": "Oral",
               "isCorrect": false
             },
             {
-              "id": "B",
+              "id": "C",
               "text": "Rectal",
               "isCorrect": false
             },
             {
-              "id": "C",
+              "id": "D",
               "text": "Sublingual",
               "isCorrect": false
-            },
-            {
-              "id": "D",
-              "text": "Intramuscular",
-              "isCorrect": true
             }
           ]
         },
         {
-          "id": "49",
+          "id": "What is a major risk associated with intravenous drug administration?",
           "text": "What is a major risk associated with intravenous drug administration?",
           "options": [
             {
@@ -43904,153 +43904,153 @@
             },
             {
               "id": "B",
-              "text": "Inactivation in liver",
-              "isCorrect": false
-            },
-            {
-              "id": "C",
               "text": "Gastric irritation",
               "isCorrect": false
             },
             {
-              "id": "D",
+              "id": "C",
               "text": "Delayed onset",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Inactivation in liver",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "50",
+          "id": "Intradermal route is commonly used for which of the following?",
           "text": "Intradermal route is commonly used for which of the following?",
           "options": [
             {
               "id": "A",
-              "text": "Analgesic administration",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
-              "text": "Insulin delivery",
-              "isCorrect": false
-            },
-            {
-              "id": "C",
               "text": "BCG vaccination",
               "isCorrect": true
             },
             {
-              "id": "D",
+              "id": "B",
               "text": "IV fluid therapy",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Insulin delivery",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Analgesic administration",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "51",
+          "id": "Which of the following routes is best suited for slow and consistent drug delivery over days or weeks?",
           "text": "Which of the following routes is best suited for slow and consistent drug delivery over days or weeks?",
           "options": [
             {
               "id": "A",
-              "text": "Intravenous",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
               "text": "Transdermal",
               "isCorrect": true
             },
             {
+              "id": "B",
+              "text": "Sublingual",
+              "isCorrect": false
+            },
+            {
               "id": "C",
-              "text": "Oral",
+              "text": "Intravenous",
               "isCorrect": false
             },
             {
               "id": "D",
-              "text": "Sublingual",
+              "text": "Oral",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "52",
+          "id": "Bluish discoloration of the nail bed in cold weather with normal oxygen saturation is most likely due to:",
           "text": "Bluish discoloration of the nail bed in cold weather with normal oxygen saturation is most likely due to:",
           "options": [
             {
               "id": "A",
-              "text": "Anemia",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
-              "text": "Methemoglobinemia",
-              "isCorrect": false
-            },
-            {
-              "id": "C",
               "text": "Peripheral cyanosis",
               "isCorrect": true
             },
             {
-              "id": "D",
+              "id": "B",
               "text": "Central cyanosis",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Anemia",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Methemoglobinemia",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "53",
+          "id": "You are treating a patient in an emergency department, which of the following is a sign of wound infection?",
           "text": "You are treating a patient in an emergency department, which of the following is a sign of wound infection?",
           "options": [
             {
               "id": "A",
-              "text": "Pale wound edge",
-              "isCorrect": false
+              "text": "Foul-smelling discharge",
+              "isCorrect": true
             },
             {
               "id": "B",
-              "text": "Reduced exudate",
-              "isCorrect": false
-            },
-            {
-              "id": "C",
               "text": "Scab formation",
               "isCorrect": false
             },
             {
+              "id": "C",
+              "text": "Reduced exudate",
+              "isCorrect": false
+            },
+            {
               "id": "D",
-              "text": "Foul-smelling discharge",
-              "isCorrect": true
+              "text": "Pale wound edge",
+              "isCorrect": false
             }
           ]
         },
         {
-          "id": "54",
+          "id": "In a patient with a deep wound from an accident with more than 6 hours and moderate amount of blood as well with no prior tetanus vaccination, the best management is:",
           "text": "In a patient with a deep wound from an accident with more than 6 hours and moderate amount of blood as well with no prior tetanus vaccination, the best management is:",
           "options": [
             {
               "id": "A",
-              "text": "Tetanus toxoid only",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
-              "text": "No treatment needed",
-              "isCorrect": false
-            },
-            {
-              "id": "C",
               "text": "Both tetanus toxoid and immunoglobulin",
               "isCorrect": true
             },
             {
-              "id": "D",
+              "id": "B",
+              "text": "Tetanus toxoid only",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
               "text": "Tetanus immunoglobulin only",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "No treatment needed",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "55",
+          "id": "While classifying the different stages of bed sore/pressure sore, stage II pressure sore is characterized by:",
           "text": "While classifying the different stages of bed sore/pressure sore, stage II pressure sore is characterized by:",
           "options": [
             {
@@ -44060,39 +44060,39 @@
             },
             {
               "id": "B",
-              "text": "Exposure of bone, tendon, or muscle",
-              "isCorrect": false
-            },
-            {
-              "id": "C",
               "text": "Intact skin with non-blanchable erythema",
               "isCorrect": false
             },
             {
-              "id": "D",
+              "id": "C",
               "text": "Full-thickness skin loss with visible subcutaneous fat",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Exposure of bone, tendon, or muscle",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "56",
+          "id": "Regarding the assessment of pressure sore there are different type of scale used, which among the following is commonly used to assess the risk of pressure sore development?",
           "text": "Regarding the assessment of pressure sore there are different type of scale used, which among the following is commonly used to assess the risk of pressure sore development?",
           "options": [
             {
               "id": "A",
+              "text": "Braden Scale",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
               "text": "Glasgow Coma Score",
               "isCorrect": false
             },
             {
-              "id": "B",
+              "id": "C",
               "text": "APGAR Score",
               "isCorrect": false
-            },
-            {
-              "id": "C",
-              "text": "Braden Scale",
-              "isCorrect": true
             },
             {
               "id": "D",
@@ -44102,48 +44102,48 @@
           ]
         },
         {
-          "id": "57",
-          "text": "In the characteristics of pressure sore what does “non-blanchable erythema” mean clinically?",
+          "id": "In the characteristics of pressure sore what does \u201cnon-blanchable erythema\u201d mean clinically?",
+          "text": "In the characteristics of pressure sore what does \u201cnon-blanchable erythema\u201d mean clinically?",
           "options": [
             {
               "id": "A",
-              "text": "Skin with a scab",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
               "text": "Red skin that stays red when pressed",
               "isCorrect": true
             },
             {
-              "id": "C",
+              "id": "B",
               "text": "Red skin that becomes white when pressed",
               "isCorrect": false
             },
             {
-              "id": "D",
+              "id": "C",
               "text": "Open wound with bleeding",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Skin with a scab",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "58",
+          "id": "As per nutritional supplimentation, enteral nutrition feeding tubes are NOT typically placed in which location?",
           "text": "As per nutritional supplimentation, enteral nutrition feeding tubes are NOT typically placed in which location?",
           "options": [
             {
               "id": "A",
-              "text": "Nasojejunal",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
               "text": "Intravenous",
               "isCorrect": true
             },
             {
-              "id": "C",
+              "id": "B",
               "text": "Nasogastric",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Nasojejunal",
               "isCorrect": false
             },
             {
@@ -44154,65 +44154,65 @@
           ]
         },
         {
-          "id": "59",
+          "id": "If you are treating a patient with hypovolemic shock, the most appropriate initial fluid therapy is:",
           "text": "If you are treating a patient with hypovolemic shock, the most appropriate initial fluid therapy is:",
           "options": [
             {
               "id": "A",
-              "text": "Hypertonic saline",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
               "text": "Normal saline",
               "isCorrect": true
             },
             {
+              "id": "B",
+              "text": "Oral rehydration",
+              "isCorrect": false
+            },
+            {
               "id": "C",
               "text": "Dextrose 5% water",
               "isCorrect": false
             },
             {
               "id": "D",
-              "text": "Oral rehydration",
+              "text": "Hypertonic saline",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "60",
+          "id": "If you are working in an emergency department and suddenly you have to treat a patient with head injury, which fluid is contraindicated in patients with such traumatic brain injury?",
           "text": "If you are working in an emergency department and suddenly you have to treat a patient with head injury, which fluid is contraindicated in patients with such traumatic brain injury?",
           "options": [
             {
               "id": "A",
-              "text": "Ringers lactate",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
               "text": "Dextrose 5% water",
               "isCorrect": true
             },
             {
+              "id": "B",
+              "text": "0.9% Normal saline",
+              "isCorrect": false
+            },
+            {
               "id": "C",
-              "text": "Hypertonic saline",
+              "text": "Ringers lactate",
               "isCorrect": false
             },
             {
               "id": "D",
-              "text": "0.9% Normal saline",
+              "text": "Hypertonic saline",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "61",
+          "id": "As per different fuild replacement, which of the following is a colloid solution?",
           "text": "As per different fuild replacement, which of the following is a colloid solution?",
           "options": [
             {
               "id": "A",
-              "text": "Dextrose 5% in water",
-              "isCorrect": false
+              "text": "Albumin",
+              "isCorrect": true
             },
             {
               "id": "B",
@@ -44221,29 +44221,29 @@
             },
             {
               "id": "C",
-              "text": "Albumin",
-              "isCorrect": true
+              "text": "Dextrose 5% in water",
+              "isCorrect": false
             },
             {
               "id": "D",
-              "text": "Ringer’s lactate",
+              "text": "Ringer\u2019s lactate",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "62",
-          "text": "A chest physician performs bronchoscopy in the procedure room of the out patient department. To make the instrument safe for use in the next patient waiting outside, the most appropriate method to disinfect the endoscope is by:",
+          "id": "A chest physician performs bronchoscopy in the procedure room of the out patient department",
+          "text": "To make the instrument safe for use in the next patient waiting outside, the most appropriate method to disinfect the endoscope is by:",
           "options": [
             {
               "id": "A",
-              "text": "1% sodium hypochlorite for 15 min",
-              "isCorrect": false
+              "text": "2% glutaraldehyde for 20 min",
+              "isCorrect": true
             },
             {
               "id": "B",
-              "text": "2% glutaraldehyde for 20 min",
-              "isCorrect": true
+              "text": "70% alcohol for 5 min",
+              "isCorrect": false
             },
             {
               "id": "C",
@@ -44252,45 +44252,45 @@
             },
             {
               "id": "D",
-              "text": "70% alcohol for 5 min",
+              "text": "1% sodium hypochlorite for 15 min",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "63",
+          "id": "Highly penetrative gas is",
           "text": "Highly penetrative gas is",
           "options": [
             {
               "id": "A",
-              "text": "2% gluteraldehyde",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
-              "text": "Formaldehyde",
-              "isCorrect": false
-            },
-            {
-              "id": "C",
               "text": "Ehylene oxide",
               "isCorrect": true
             },
             {
-              "id": "D",
+              "id": "B",
+              "text": "2% gluteraldehyde",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
               "text": "Beta propiolactone",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Formaldehyde",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "64",
+          "id": "Ointment, vaseline, silicon, paraffin oil are usually sterilized through",
           "text": "Ointment, vaseline, silicon, paraffin oil are usually sterilized through",
           "options": [
             {
               "id": "A",
-              "text": "Autoclave",
-              "isCorrect": false
+              "text": "Hot air oven",
+              "isCorrect": true
             },
             {
               "id": "B",
@@ -44299,8 +44299,8 @@
             },
             {
               "id": "C",
-              "text": "Hot air oven",
-              "isCorrect": true
+              "text": "Autoclave",
+              "isCorrect": false
             },
             {
               "id": "D",
@@ -44310,44 +44310,44 @@
           ]
         },
         {
-          "id": "65",
+          "id": "Highly effective against all but not spores and inexpensive",
           "text": "Highly effective against all but not spores and inexpensive",
           "options": [
             {
               "id": "A",
-              "text": "7.5% povidone iodine",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
-              "text": "Betadine",
-              "isCorrect": false
-            },
-            {
-              "id": "C",
               "text": "Alcohols",
               "isCorrect": true
             },
             {
-              "id": "D",
+              "id": "B",
+              "text": "7.5% povidone iodine",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
               "text": "2% chlorhexidine",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Betadine",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "66",
+          "id": "Which of the following might not be the effective control measures in reducing the hospital acquired infection?",
           "text": "Which of the following might not be the effective control measures in reducing the hospital acquired infection?",
           "options": [
             {
               "id": "A",
-              "text": "Testing of the sterilization technique",
-              "isCorrect": false
+              "text": "More use of antibiotics for the infection",
+              "isCorrect": true
             },
             {
               "id": "B",
-              "text": "More use of antibiotics for the infection",
-              "isCorrect": true
+              "text": "Testing of the sterilization technique",
+              "isCorrect": false
             },
             {
               "id": "C",
@@ -44362,22 +44362,22 @@
           ]
         },
         {
-          "id": "67",
-          "text": "In a surgical post-op ward, a patient developed wound infection. Subsequently 3 other patients Developed similar infections in the ward. What is the most effective way of preventing the spread of infection?",
+          "id": "In a surgical post-op ward, a patient developed wound infection",
+          "text": "Subsequently 3 other patients Developed similar infections in the ward. What is the most effective way of preventing the spread of infection?",
           "options": [
             {
               "id": "A",
-              "text": "Fumigation of the ward",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
               "text": "Proper hand washing of all ward personnel",
               "isCorrect": true
             },
             {
-              "id": "C",
+              "id": "B",
               "text": "Give IV antibiotics to all patients in the ward",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Fumigation of the ward",
               "isCorrect": false
             },
             {
@@ -44388,7 +44388,7 @@
           ]
         },
         {
-          "id": "68",
+          "id": "Which of the following group of people are at major risk for surgical site infections?",
           "text": "Which of the following group of people are at major risk for surgical site infections?",
           "options": [
             {
@@ -44403,29 +44403,29 @@
             },
             {
               "id": "C",
-              "text": "Colon surgery patient",
+              "text": "Transplant recipient patients",
               "isCorrect": false
             },
             {
               "id": "D",
-              "text": "Transplant recipient patients",
+              "text": "Colon surgery patient",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "69",
+          "id": "67",
           "text": "In the process of wound healing vitamin essential for healthy skin and epithelial integrity, it promotes granulation, angiogenesis and epithelial tissue formation is",
           "options": [
             {
               "id": "A",
-              "text": "Vitamin B",
-              "isCorrect": false
+              "text": "Vitamin A",
+              "isCorrect": true
             },
             {
               "id": "B",
-              "text": "Vitamin A",
-              "isCorrect": true
+              "text": "Vitamin B",
+              "isCorrect": false
             },
             {
               "id": "C",
@@ -44440,17 +44440,17 @@
           ]
         },
         {
-          "id": "70",
+          "id": "During wound healing phase, overall supression of wound healing process is due to",
           "text": "During wound healing phase, overall supression of wound healing process is due to",
           "options": [
             {
               "id": "A",
-              "text": "Steroid",
-              "isCorrect": false
+              "text": "Chemotherapy",
+              "isCorrect": true
             },
             {
               "id": "B",
-              "text": "All of the following",
+              "text": "Steroid",
               "isCorrect": false
             },
             {
@@ -44460,28 +44460,28 @@
             },
             {
               "id": "D",
-              "text": "Chemotherapy",
-              "isCorrect": true
+              "text": "All of the following",
+              "isCorrect": false
             }
           ]
         },
         {
-          "id": "71",
+          "id": "As a Local factors on the site of wound and structure involved highly vascular areas/ tissue  heal faster than others, which sit has the delay wound healimg",
           "text": "As a Local factors on the site of wound and structure involved highly vascular areas/ tissue  heal faster than others, which sit has the delay wound healimg",
           "options": [
             {
               "id": "A",
-              "text": "Neck",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
               "text": "Back",
               "isCorrect": true
             },
             {
-              "id": "C",
+              "id": "B",
               "text": "Face",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Neck",
               "isCorrect": false
             },
             {
@@ -44492,33 +44492,33 @@
           ]
         },
         {
-          "id": "72",
+          "id": "Surgery of genitourinary system without inflammation or without spillage is supposed to have SSI of ?",
           "text": "Surgery of genitourinary system without inflammation or without spillage is supposed to have SSI of ?",
           "options": [
             {
               "id": "A",
-              "text": "SSI= 20-30%",
-              "isCorrect": false
+              "text": "SSI=10%",
+              "isCorrect": true
             },
             {
               "id": "B",
-              "text": "SSI=30-40%",
-              "isCorrect": false
-            },
-            {
-              "id": "C",
               "text": "SSI= 2%",
               "isCorrect": false
             },
             {
+              "id": "C",
+              "text": "SSI= 20-30%",
+              "isCorrect": false
+            },
+            {
               "id": "D",
-              "text": "SSI=10%",
-              "isCorrect": true
+              "text": "SSI=30-40%",
+              "isCorrect": false
             }
           ]
         },
         {
-          "id": "73",
+          "id": "After wound healing process the Weak scar may rupture leading to a condition called as",
           "text": "After wound healing process the Weak scar may rupture leading to a condition called as",
           "options": [
             {
@@ -44528,12 +44528,12 @@
             },
             {
               "id": "B",
-              "text": "Keloid",
+              "text": "Wound contracture",
               "isCorrect": false
             },
             {
               "id": "C",
-              "text": "Wound contracture",
+              "text": "Keloid",
               "isCorrect": false
             },
             {
@@ -44544,96 +44544,96 @@
           ]
         },
         {
-          "id": "74",
-          "text": "A 42-year-old woman admitted in a hospital with breast cancer under going through different episode of chemotherapy treatment  presents with a superficial cut on her forearm from a kitchen knife which was rusted. The wound looks, <1 cm deep, and occurred 5 hours ago. She received all childhood vaccinations and a tetanus booster 4 years ago.",
+          "id": "A 42-year-old woman admitted in a hospital with breast cancer under going through different episode of chemotherapy treatment  presents with a superficial cut on her forearm from a kitchen knife which was rusted",
+          "text": "The wound looks, <1 cm deep, and occurred 5 hours ago. She received all childhood vaccinations and a tetanus booster 4 years ago.",
           "options": [
             {
               "id": "A",
-              "text": "TT not needed",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
               "text": "TT Vaccine",
               "isCorrect": true
             },
             {
+              "id": "B",
+              "text": "TT and TIG",
+              "isCorrect": false
+            },
+            {
               "id": "C",
-              "text": "TT with Primary vaccine",
+              "text": "TT not needed",
               "isCorrect": false
             },
             {
               "id": "D",
-              "text": "TT and TIG",
+              "text": "TT with Primary vaccine",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "75",
+          "id": "Normal volume of water required in a healthy 96-kg adult",
           "text": "Normal volume of water required in a healthy 96-kg adult",
           "options": [
             {
               "id": "A",
+              "text": "2880 L per day",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
               "text": "2840 L per day",
               "isCorrect": false
             },
             {
-              "id": "B",
+              "id": "C",
               "text": "2895 L per day",
               "isCorrect": false
             },
             {
-              "id": "C",
+              "id": "D",
               "text": "2900 L per day",
               "isCorrect": false
-            },
-            {
-              "id": "D",
-              "text": "2880 L per day",
-              "isCorrect": true
             }
           ]
         },
         {
-          "id": "76",
-          "text": "The rate of tube feeding typically starts at ......................  and can increase to approximately 75 mL/h if tolerated",
+          "id": "The rate of tube feeding typically starts at",
+          "text": ".....................  and can increase to approximately 75\u00a0mL/h if tolerated",
           "options": [
             {
               "id": "A",
+              "text": "10\u201320\u00a0mL/h",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
               "text": "5-10 mL/h",
               "isCorrect": false
             },
             {
-              "id": "B",
-              "text": "30–24 mL/h",
+              "id": "C",
+              "text": "20\u201330\u00a0mL/h",
               "isCorrect": false
             },
             {
-              "id": "C",
-              "text": "10–20 mL/h",
-              "isCorrect": true
-            },
-            {
               "id": "D",
-              "text": "20–30 mL/h",
+              "text": "30\u201324\u00a0mL/h",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "77",
+          "id": "A patient who is undergoing major oesophagogastric surgery of who have blockage of pylorus of stomach have",
           "text": "A patient who is undergoing major oesophagogastric surgery of who have blockage of pylorus of stomach have",
           "options": [
             {
               "id": "A",
-              "text": "Feeding gastrostomy",
-              "isCorrect": false
+              "text": "Feeding jejunostomy",
+              "isCorrect": true
             },
             {
               "id": "B",
-              "text": "Feeding jejunostomy",
-              "isCorrect": true
+              "text": "Feeding gastrostomy",
+              "isCorrect": false
             },
             {
               "id": "C",
@@ -44648,13 +44648,13 @@
           ]
         },
         {
-          "id": "78",
+          "id": "Fluid collection in synovial, peritoneal, pericardial, intraocular spaces, CSF are called as",
           "text": "Fluid collection in synovial, peritoneal, pericardial, intraocular spaces, CSF are called as",
           "options": [
             {
               "id": "A",
-              "text": "Blood plasma",
-              "isCorrect": false
+              "text": "Transcellular fluid",
+              "isCorrect": true
             },
             {
               "id": "B",
@@ -44663,8 +44663,8 @@
             },
             {
               "id": "C",
-              "text": "Transcellular fluid",
-              "isCorrect": true
+              "text": "Blood plasma",
+              "isCorrect": false
             },
             {
               "id": "D",
@@ -44674,8 +44674,8 @@
           ]
         },
         {
-          "id": "79",
-          "text": "To restore circulation blood volume, crystalloid solution should be infused in a volume at least ............ the volume lost",
+          "id": "To restore circulation blood volume, crystalloid solution should be infused in a volume at least",
+          "text": "........... the volume lost",
           "options": [
             {
               "id": "A",
@@ -44684,163 +44684,163 @@
             },
             {
               "id": "B",
-              "text": "Four time",
-              "isCorrect": false
-            },
-            {
-              "id": "C",
               "text": "One time",
               "isCorrect": false
             },
             {
-              "id": "D",
+              "id": "C",
               "text": "Two time",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Four time",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "80",
+          "id": "Mimic plasma proteins, thereby maintaining pressure of blood and require smaller infusion volumes",
           "text": "Mimic plasma proteins, thereby maintaining pressure of blood and require smaller infusion volumes",
           "options": [
             {
               "id": "A",
-              "text": "Normal saline",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
               "text": "Dextran",
               "isCorrect": true
             },
             {
+              "id": "B",
+              "text": "Normal saline",
+              "isCorrect": false
+            },
+            {
               "id": "C",
-              "text": "Hartmann’s solution",
+              "text": "Ringer\u2019s lactate",
               "isCorrect": false
             },
             {
               "id": "D",
-              "text": "Ringer’s lactate",
+              "text": "Hartmann\u2019s solution",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "81",
+          "id": "Rapid failure of pulmonary function usually presents within 1 to 4 hours of starting transfusion is called as",
           "text": "Rapid failure of pulmonary function usually presents within 1 to 4 hours of starting transfusion is called as",
           "options": [
             {
               "id": "A",
-              "text": "Post-transfusion purpura",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
-              "text": "Allergic reactions",
-              "isCorrect": false
-            },
-            {
-              "id": "C",
               "text": "Transfusion-related acute lung injury (TRALI)",
               "isCorrect": true
             },
             {
-              "id": "D",
+              "id": "B",
               "text": "Acute hemolytic reactions",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Allergic reactions",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Post-transfusion purpura",
               "isCorrect": false
             }
           ]
         },
         {
-          "id": "82",
+          "id": "Each transfused unit of red blood cells contains approximately",
           "text": "Each transfused unit of red blood cells contains approximately",
           "options": [
             {
               "id": "A",
-              "text": "300 mg of elemental iron",
-              "isCorrect": false
+              "text": "250\u00a0mg of elemental iron",
+              "isCorrect": true
             },
             {
               "id": "B",
-              "text": "350 mg of elemental iron",
+              "text": "200\u00a0mg of elemental iron",
               "isCorrect": false
             },
             {
               "id": "C",
-              "text": "200 mg of elemental iron",
+              "text": "300\u00a0mg of elemental iron",
               "isCorrect": false
             },
             {
               "id": "D",
-              "text": "250 mg of elemental iron",
-              "isCorrect": true
+              "text": "350\u00a0mg of elemental iron",
+              "isCorrect": false
             }
           ]
         },
         {
-          "id": "83",
+          "id": "In a procedure of taking a history of present illness, the term \"chronology\" refers to:",
           "text": "In a procedure of taking a history of present illness, the term \"chronology\" refers to:",
           "options": [
             {
               "id": "A",
-              "text": "The patient’s emotional response",
-              "isCorrect": false
-            },
-            {
-              "id": "B",
-              "text": "The patient’s family background",
-              "isCorrect": false
-            },
-            {
-              "id": "C",
               "text": "The exact sequence and timing of symptoms",
               "isCorrect": true
             },
             {
-              "id": "D",
-              "text": "The severity of symptoms",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "id": "84",
-          "text": "The CAGE questionnaire is used to:",
-          "options": [
-            {
-              "id": "A",
-              "text": "Assess nutritional status",
-              "isCorrect": false
-            },
-            {
               "id": "B",
-              "text": "Evaluate cognitive function",
+              "text": "The severity of symptoms",
               "isCorrect": false
             },
             {
               "id": "C",
-              "text": "Diagnose liver cirrhosis",
+              "text": "The patient\u2019s emotional response",
               "isCorrect": false
             },
             {
               "id": "D",
-              "text": "Screen for chronic  alcohol use",
-              "isCorrect": true
+              "text": "The patient\u2019s family background",
+              "isCorrect": false
             }
           ]
         },
         {
-          "id": "85",
+          "id": "The CAGE questionnaire is used to:",
+          "text": "The CAGE questionnaire is used to:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Screen for chronic  alcohol use",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Diagnose liver cirrhosis",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Assess nutritional status",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Evaluate cognitive function",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "What does the \"C\" in the CAGE questionnaire stand for?",
           "text": "What does the \"C\" in the CAGE questionnaire stand for?",
           "options": [
             {
               "id": "A",
-              "text": "Confused behavior",
-              "isCorrect": false
+              "text": "Cut down on drinking",
+              "isCorrect": true
             },
             {
               "id": "B",
-              "text": "Controlled drinking",
+              "text": "Confused behavior",
               "isCorrect": false
             },
             {
@@ -44850,50 +44850,50 @@
             },
             {
               "id": "D",
-              "text": "Cut down on drinking",
-              "isCorrect": true
+              "text": "Controlled drinking",
+              "isCorrect": false
             }
           ]
         },
         {
-          "id": "86",
+          "id": "During History taking Consanguineous marriage is one of the risk factor for certain diseases, it means",
           "text": "During History taking Consanguineous marriage is one of the risk factor for certain diseases, it means",
           "options": [
             {
               "id": "A",
-              "text": "All of the options",
-              "isCorrect": false
+              "text": "Marriage between blood relatives",
+              "isCorrect": true
             },
             {
               "id": "B",
-              "text": "Marriage between friends",
-              "isCorrect": false
-            },
-            {
-              "id": "C",
               "text": "Marriage between same gender",
               "isCorrect": false
             },
             {
+              "id": "C",
+              "text": "Marriage between friends",
+              "isCorrect": false
+            },
+            {
               "id": "D",
-              "text": "Marriage between blood relatives",
-              "isCorrect": true
+              "text": "All of the options",
+              "isCorrect": false
             }
           ]
         },
         {
-          "id": "87",
+          "id": "As per the Characteristics of pain description in SOCRATES, A stands for",
           "text": "As per the Characteristics of pain description in SOCRATES, A stands for",
           "options": [
             {
               "id": "A",
-              "text": "Any other factors associated with tthe pain",
-              "isCorrect": false
+              "text": "Any other signs or symptoms associtaed with the pain",
+              "isCorrect": true
             },
             {
               "id": "B",
-              "text": "Any other signs or symptoms associtaed with the pain",
-              "isCorrect": true
+              "text": "Any other area associated with the pain",
+              "isCorrect": false
             },
             {
               "id": "C",
@@ -44902,7 +44902,7 @@
             },
             {
               "id": "D",
-              "text": "Any other area associated with the pain",
+              "text": "Any other factors associated with tthe pain",
               "isCorrect": false
             }
           ]
