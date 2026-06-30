@@ -54072,6 +54072,4432 @@
           ]
         }
       ]
+    },
+    "biochemistry_second": {
+      "id": "biochemistry_second",
+      "name": "Biochemistry Second",
+      "questions": [
+        {
+          "id": "1",
+          "text": "In a prolonged state of starvation, which of the following is the major source of energy for muscles?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ketones",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Fatty acids",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Glucose",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Glycogen",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "text": "The conversion of pyruvate to acetyl coenzyme A and carbon dioxide:",
+          "options": [
+            {
+              "id": "A",
+              "text": "involves the participation of lipoic acid",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "is activated when pyruvate decarboxylase of the PDHC is phosphorylated by PDH kinase in the presence of ATP",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "is reversible",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "occurs in the cytosol",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "text": "Which one of the following conditions decreases the oxidation of acetyl coenzyme A by the citric acid cycle?",
+          "options": [
+            {
+              "id": "A",
+              "text": "A low NAD+/NADH ratio",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "A high availability of calcium",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "A high acetyl CoA/CoA ratio",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "A low ATP/ADP ratio",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "text": "Which one of the following reactions is unique to gluconeogenesis?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Oxaloacetate → phosphoenolpyruvate",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "1,3-Bisphosphoglycerate → 3-phosphoglycerate",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Lactate → pyruvate",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Phosphoenolpyruvate → pyruvate",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "text": "Essential fatty acid is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Linoleic acid",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Palmitoleic acid",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "oleic acid",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Palmitic acid",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "text": "A hormone secreted from anterior pituitary is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Growth hormone",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Vasopressin",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Oxytocin",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Epinephrine",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "text": "A hormone secreted from posterior pituitary is :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Vasopressin",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Thyrotropic hormone",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Prolactin",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Adrenocorticotropic hormone",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "text": "Growth hormone is released by:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Growth hormone releasing hormone",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Somatostatin",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Prolactin release inhibiting hormone",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Luteinizing releasing hormone",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "9",
+          "text": "ACTH stimulates the secretion of :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Glucocorticoids",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Epinephrine",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Thyroxine",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Luteinizing hormone",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "text": "The hormone required for uterine muscle contraction for child birth is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Oxytocin",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Progesterone",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Estrogen",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Vasopressin",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "text": "Melatonin is synthesised from:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Tryptophan",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Phenylalanine",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Tyrosine",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "None of these",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "12",
+          "text": "An amphibolic pathway among the following is :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Citirc acid cycle",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "HMP shunt",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Glycolysis",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Gluconeogenesis",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "text": "Which of the following transporters increases its uptake of glucose in response to insulin?",
+          "options": [
+            {
+              "id": "A",
+              "text": "GLUT 4",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "GLUT 3",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "GLUT 2",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "GLUT 1",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "14",
+          "text": "Cori’s cycle transfers :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lactate from muscles to liver",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Pyruvate from liver to muscles",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Lactate from liver to muscles",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Glucose from muscles to liver",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "text": "What happens after a meal?",
+          "options": [
+            {
+              "id": "A",
+              "text": "increase in insulin and decrease in glucagon",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "increase in glucagon and increase in insulin",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "no changes in insulin nor glucagon",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "decrease in insulin and glucagon",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "16",
+          "text": "Dihydroxyacetone phosphate and glyceraldehyde-3-phosphate are intercoverted by:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Triose isomerase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "TetraPhosphotriose isomerase",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Diphosphotriose isomerase",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Dihydroxyacetone phosphorylase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "text": "The following is an enzyme required for glycolysis:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Pyruvate kinase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Pyruvate carboxylase",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Glucose-6-phosphatase",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Glycerokinase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "18",
+          "text": "Which of the following is not utilized for the source of energy by Liver?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ketone bodies",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Fatty acid",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Glucose",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "amino acid",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "text": "Which is the predominant glucose transporter for neuron?",
+          "options": [
+            {
+              "id": "A",
+              "text": "GLUT 3",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "GLUT 1",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "GLUT 5",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "GLUT 4",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "20",
+          "text": "Which is the preferred fuel for cardiac muscle during well fed state?",
+          "options": [
+            {
+              "id": "A",
+              "text": "fatty acid",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Glucose",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "ketone bodies",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "amino acid",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "text": "“EMBDEN-MEYERHOF PATHWAY” is also known as:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Glycolysis",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "TCA cycle",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Urea cycle",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Anabolic pathway",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "22",
+          "text": "In case of Arsenic poisoining which of the following enzymes are affected?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Alpha keto-glutarate dehydrogenase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Enolase",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Citrate synthase",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Mutase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "text": "Malonyl CoA acts as an competitive inhibitor of:",
+          "options": [
+            {
+              "id": "A",
+              "text": "succinate dehydrogenase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Alpha ketoglutarate dehydrogenase",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Glyceraldehyde 3-Phosphate",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Aconitase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "24",
+          "text": "Hemolytic anemia, increased BPG and absence of heinz bodies are seen due to deficiency of:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Pyruvate kinase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "succinate dehydrodenase",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Glucose 6-phosphate dehydrogenase",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "alpha keto glutarate dehydrogenase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "text": "Rate limiting enzyme of Krebs cycle are all except:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Malate dehydrogenase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Citrate synthase",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Isocitrate dehydrogenase",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "alpha ketoglutarate dehydrogenase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "26",
+          "text": "Rate limiting enzyme of glycolysis is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Phosphofructo kinase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Triose isomerase",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Glyceraldehyde 3 phosphoate dehydrogenase",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Enolase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "text": "The conversion of pyruvate to acetyl CoA and CO2, which of the following statement is true?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Involves the participation of lipoic acid",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Is reversible",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Depends on the coenzyme biotin",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Occurs in the cytosol",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "28",
+          "text": "Phenylalanine is the precursor of :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Histamine",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "L-DOPA",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Tyrosine",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Thyroxine",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "text": "Which one of the following statements concerning glucose metabolism is correct?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Pyruvate kinase catalyses an irreversible reaction",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "The conversion of Glucose to lactate occurs only in the R.B.C",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Glucose enters most cells by a mechanism in which Na+ and glucose are co-transported",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "An elevated level of insulin leads to a decreased level of fructose 2, 6-bisphosphate in hepatocyte",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "30",
+          "text": "Reduced glutathione functions in R.B.Cs is to :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Reduce oxidizing agents such as H2O2",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Produce NADH",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Reduce methemoglobin to hemoglobin",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Produce NADPH",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "text": "Iodine test is positive for starch, dextrin and---?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Glycogen",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Agar",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Mucoproteins",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Cellulose",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "32",
+          "text": "An essential amino acid in man is :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Methionine",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Aspartate",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Tyrosine",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Serine",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "text": "The apolipoprotein which acts as ligand for LDL receptor is :",
+          "options": [
+            {
+              "id": "A",
+              "text": "B-100",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "B-48",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "A",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "C",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "34",
+          "text": "An important reaction for the synthesis of amino acid from carbohydrate intermediates is transamination which requires the cofactor:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Pyridoxal phosphate",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Niacin",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Riboflavin",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Thiamin",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "text": "All the following are true about phenyl ketonuria except :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Increased urinary excretion of p-hydroxy phenyl pyruvic acid",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Deficiency of phenylalanine hydroxylase",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Intellectually disabled",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Decrease serotonin formation",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "36",
+          "text": "Deficiency of urea cycle enzymes results into accumulation of citrulline argininosuccinate arginine in the liver resulting in increasing concentration of …….. in the blood.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ammonia",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Calcium",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Sodium",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Lipid",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "text": "Degradation of proteins to amino acids,glucose from carbohydrates and fatty acids from lipids is known as :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Catabolism",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Anabolism",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Metabolism",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Cretinism",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "38",
+          "text": "The precursor of bile salts, sex hormones and vitamin D is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cholesterol",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Diosgenin",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Campesterol",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Ergosterol",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "text": "Xanthoproteic test is positive in proteins containing :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Aromatic amino acids",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "α-Amino acids",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Sulphur amino acids",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Aliphatic amino acids",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "40",
+          "text": "The following 4 amino acids are required for completion of urea cycle except:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Glycine",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Ornithine",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Arginine",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Aspartic acid",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "text": "Branched chain amino acids are :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Valine, Leucine and Isoleucine",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Glycine and Serine",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Tyrosine and Tryptophan",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Cysteine and cystine",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "42",
+          "text": "Hydroxylation of Proline and Lysine in a protein is effected by :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Vitamin C",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Vitamin B1",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Vitamin B2",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Vitamin B6",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "text": "NH3 is detoxified in brain chiefly as :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Glutamine",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Creatinine",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Uric acid",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Urea",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "44",
+          "text": "Xanthuric acid is an abnormal metabolite of :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Xanthine",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Uric acid",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Tryptophan",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Tyrosine",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "text": "The amino acid which synthesizes many hormornes:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Phenylalanine",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Valine",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Alanine",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Histidine",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "46",
+          "text": "Acetyl CoA carboxylase is activated by :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Insulin",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Cortisol",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Glucagon",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "None of these",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "text": "Beta-oxidation of fatty acids is inhibited by:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Malonyl CoA",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Acetyl CoA",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "NADPH",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "None of these",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "48",
+          "text": "Which one of the following enzymes requires a coenzyme derived from the vitamin whose structure is shown below?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Enoyl CoA hydratase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Phospho-fructo- kinase",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Glucose-6-phosphatase",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Glucose-6-phosphate dehydrogenase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "text": "Which one of the following cofactors must be utilized during the conversion of acetyl CoA to malonyl CoA?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Biotin",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "NAD+",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "ACP",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "TPP",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "50",
+          "text": "Glycerol-3-phosphate for the synthesis of triglycerides in adipose tissue is derived from :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Glycerol",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Glucose",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Phosphatidic acid",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Diacylglycerol",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "text": "Glucose is the only source of energy for :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Erythrocytes",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Myocardium",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Kidneys",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Thrombocytes",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "52",
+          "text": "CoA carboxylase are true except :",
+          "options": [
+            {
+              "id": "A",
+              "text": "It is required for de novo synthesis of fatty acids",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "It is required for mitochondrial elongation of fatty acids",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "It is required for microsomal elongation of fatty acids",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Insulin converts its inactive form into its active form",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "text": "All the following compounds are members of the electron transport chain except :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Carnitine",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Ubiquinone",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "NAD",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "FAD",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "54",
+          "text": "Which one of the following transfers acyl groups?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lipomide",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "ATP",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Thiamine pyrophosphate",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "NADH",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "text": "Thiamine is essential for :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Pyruvate dehydrogenase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Succinate dehydrogenase",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Isocitrate dehydrogenase",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Acetyl CoA synthetase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "56",
+          "text": "A substrate for the enzyme aldolase is :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fructose 1, 6 diphosphate",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "galactose-6-phosphate",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "isocitric acid",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Glucose-1-phosphate",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "text": "Homogentisic oxidase is an",
+          "options": [
+            {
+              "id": "A",
+              "text": "Dioxygenase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Oxidase",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Monooxygenase",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Anaerotic dehydrogenase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "58",
+          "text": "A specific inhibitor for succinate dehydrogenase is :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Malonate",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Arsenite",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Citrate",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Fluoride",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "text": "The respiratory chain complexes acting as proton pump are :",
+          "options": [
+            {
+              "id": "A",
+              "text": "I, III and IV",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "I, II and III",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "I, II and IV",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "I and II",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "60",
+          "text": "A component of the respiratory chain in mitochondria is :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Coenzyme Q",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Coenzyme A",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Acetyl coenzyme",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Coenzyme containing thiamin",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "text": "The sequence of the redox carrier in respiratory chain is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "NAD—FMN—Q—cyt b—cyt c1—cyt c—cyt aa3 → O2",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "FMN—Q—NAD—cyt b—cyt aa3—cyt c1— cyt c → O2",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "NAD—FMN—Q—cyt b—cyt aa3—cyt c—cyt c1 → O2",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "NAD—FMN—Q—cyt c1—cyt c—cyt b—cyt aa3→ O2",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "62",
+          "text": "Rotenone inhibits the respiratory chain at :",
+          "options": [
+            {
+              "id": "A",
+              "text": "FMN → coenzyme Q",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "NAD → FMN",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Coenzyme Q → cyt b",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Cyt b → Cyt c1",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "text": "The number of ATP produced in the oxidation of 1 molecule of NADPH in oxidative phosphorylation is :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Zero",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "2",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "3",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "4",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "64",
+          "text": "Insulin like growth factors are secreted by:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Liver",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Pancreas",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Adrenal gland",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Pituitary gland",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "text": "Aldosterone synthesis is stimulated by which of the following?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hyperkalemia",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "ACTH",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Hypernatremia",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Exogenous steroids",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "66",
+          "text": "Which is not an effect of T3 hormone?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Decreases protein breakdown",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "It increases the heart rate",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "It increases the stroke volume",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "It decreases the peripheral vascular resistance",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "text": "The principal steroid secreted by testis is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Testosterone",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Dihydrotestosterone",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Androstenedione",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Dehydroepiandrosterone",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "68",
+          "text": "Aromatase produces estrogen from:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Androgen",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Progesterone",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Cortisol",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Aldosterone",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "text": "Cortisol secretion results in:",
+          "options": [
+            {
+              "id": "A",
+              "text": "decrease ACTH",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "increased ACTH",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Increased CRH",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "No effect on CRH",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "70",
+          "text": "Pancreatic  β cell are freely permeable to glucose via:",
+          "options": [
+            {
+              "id": "A",
+              "text": "GLUT 2",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "GLUT 1",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "GLUT 3",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "GLUT 4",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "text": "Insulin stimulated glucose entry is seen in:",
+          "options": [
+            {
+              "id": "A",
+              "text": "adipose",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Brain",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Smooth muscles",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Intestines",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "72",
+          "text": "Leydig cells secrete :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Testostetone",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "ABP",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Activin",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "inhibin",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "text": "hormone released by sertoli cell is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Inhibin",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Testostetone",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Aldosteron",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Gastrin",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "74",
+          "text": "Hormone acting on adjacent cells is called:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paracrine",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Autocrine",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Endocrine",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Neurocrine",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "text": "All are true for oxytocin EXCEPT:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Secreted by anterior pituitary",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Polypeptide",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Secreted in both sexes",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Causes ejection of milk",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "76",
+          "text": "Levels of which of the following hormones are increased in post menopausal women:",
+          "options": [
+            {
+              "id": "A",
+              "text": "FSH",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Estrogen",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Progesterone",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Cortisone",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "text": "Levels of which of the following hormones are very high just before ovulation:",
+          "options": [
+            {
+              "id": "A",
+              "text": "LH",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "FSH",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Cortisol",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Androgen",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "78",
+          "text": "Insulin secretion is inhibited by which of the following?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Epinephrine",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Glucagon",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Amino acids",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Glucose",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "text": "Iodine is an essential component for the synthesis of thyroid hormones. Where is iodine primarily incorporated into the thyroid hormone structure?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Thyroglobulin molecule",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Thyroid peroxidase enzyme",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Colloid lumen",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Follicular cell membrane",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "80",
+          "text": "Dietary deficiency of thiamin inhibits the activity of the enzyme:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Pyruvate dehydrogenase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Pyruvate kinase",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Enolase",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Phosphofructokinase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "text": "Neimann-Pick disease is due to the deficiency of the enzyme:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Sphingomyelinase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Ceramidase",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Hexosaminidase A and B",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Ceramide lactosidase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "82",
+          "text": "Gaucher’s disease is due to the deficiency of the enzyme:",
+          "options": [
+            {
+              "id": "A",
+              "text": "beta-Glucosidase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "alpha-Fucosidase",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "beta-Galactosidase",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Sphingomyelinase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "text": "TPP deficiency inhibits the activity of the enzyme:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Transketolase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Pyruvate kinase",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Phosphofructokinase",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Enolase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "84",
+          "text": "Which of the following pathways only occurs in cytosol?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Glycolysis",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Beta oxidation of fatty acids",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "TCA Cycle",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "DNA Synthesis",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "text": "Korsakoff Psycosis is seen in an alcholic pt. due to  deficiency of  which of the following coenzyme:",
+          "options": [
+            {
+              "id": "A",
+              "text": "TPP",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "PLP",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "NAD",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "FAD",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "86",
+          "text": "Which enzyme is deficient in Von Gierke’s disease?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Glucose- 6- phosphatase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Branching enzyme",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "De-branching enzyme",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Myophosphorylase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "text": "A patient suffering from sickle cell anemia, what is the mutation responsible for this to occur?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Glutamate is replaced by valine at 6th position",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Glutamate is replaced by valine at 9th posiiton",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Valine is replaced by glutamate at 6th position",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Valine is replaced by glutamate at 9th position",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "88",
+          "text": "Rate limiting step in cholesterol synthesis is?",
+          "options": [
+            {
+              "id": "A",
+              "text": "HMG CoA reductase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Thiokinase",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "HMG CoA synthetase",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Mevalonate kinase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "text": "Pentose pathway is essential for the production of?",
+          "options": [
+            {
+              "id": "A",
+              "text": "NADPH",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "FAD",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "NAD",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "NADH",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "90",
+          "text": "Which enzyme is deficient in Mc ardle’s disease?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Muscle phosphorylase deficiency",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Liver phosphorylase deficiency",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Lysosomal alpha-1, 4-glucosidase deficiency",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "G6PD deficiency",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "text": "Sodium fluoride is a good in-vitro preservative of glucose in blood samples because it inhibits:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Enolase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Hexokinase",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Phosphofructokinase",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Pyruvate dehydrogenase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "92",
+          "text": "On weaning off from milk and addition of fruit juices, an infant had frequent attacks of vomiting and tremors. Urine reducing sugar was positive but glucose was negative. The infant is likely to have:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Aldolase - B deficiency",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Galactokinase deficiency",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Glucose -6- phosphatase deficiency",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Fructokinase deficiency",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "93",
+          "text": "Cytoplasm to Mitochondria substrate shuttle is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Glycerophosphate shuttle",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Malate shuttle",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Phosphoenol pyruvate",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Oxaloacetate",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "94",
+          "text": "Gluconeogenesis is inhibited by:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Insulin",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Glucagon",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Glucocorticoids",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "GnRH",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "95",
+          "text": "Which hormone is synthesized by hypothalamus?",
+          "options": [
+            {
+              "id": "A",
+              "text": "ADH",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Prolactin",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "ACTH",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "GH",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "96",
+          "text": "Lactate formed in muscles can be utilised through :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cori’s cycle",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Rapoport-Luebeling cycle",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Glucose-alanine cycle",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Citric acid cycle",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "97",
+          "text": "Acromegaly results due to excessive release of:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Growth hormone",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Thyroxine",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Insulin",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Glucagon",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "98",
+          "text": "Cortisol is synthesized in:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Zona reticularis",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Zona fasiculata",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Zona glomerulosa",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Chromaffin cells",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "99",
+          "text": "Excessive secretion of ACTH causes :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cushing’s syndrome",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Addison’s disease",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Myxoedema",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Thyrotoxicosis",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "100",
+          "text": "Hyperglycemic effect of glucocorticoids is due to :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Stimulation of synthesis of PEP carboxykinase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Stimulation of synthesis of fructokinase",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Inactivation of fructose 1,6-biphosphatase",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Inactivation of protein phosphatase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "101",
+          "text": "The predominant glucocorticoid is :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cortisol",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Aldosterone",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Dehydroephiandrosterone",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Androstenedione",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "102",
+          "text": "The defect in adrenal cortex responsible for lack of glucocorticoids and mineralcorticoids is :",
+          "options": [
+            {
+              "id": "A",
+              "text": "C-21 hydroxylase deficiency",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Testosterone deficiency",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "17 -OH progesterone deficiency",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Androstenedione deficiency",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "103",
+          "text": "One of the potent stimulators of aldosterone secretion is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Increased potassium concentration",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Increased sodium concentration",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Decreased potassium concentration",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Increased ECF Volume",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "104",
+          "text": "small scale gain of chromosome where 1 extra chromosome is found is known as:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Trisomy",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "monosomy",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "polyploidy",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "All of the above",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "105",
+          "text": "If there is change in the allele by flip over then it is known as?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Inversion",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Translocation",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "amplification",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "deletion",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "106",
+          "text": "If the mutation in the chromosome occur by addition of 1 chromosome in the set at chromosome no 21 it is called?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Trisomy 21",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Monosomy 21",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Polypoidy 21",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "None of the above",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "107",
+          "text": "Sickle cell anemia is an example of:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Missensese mutation",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Silent mutation",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Frameshift mutation",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Non-sense mutation",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "108",
+          "text": "Acridine orange is an example of:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Intercalating agents",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Biological mutagens",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Physical mutagens",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Base analog",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "109",
+          "text": "Which of the following is an example of base analog mutagen?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Bromouracil",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Proflavin",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Ethidium bromide",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Nitrous acid",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "110",
+          "text": "All of the following are an example of biological mutagens except:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Staphylococcus",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Helicobater pylori",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Ebstein barr virus",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Transposoon",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "111",
+          "text": "What is the risk of having autosomal dominant inheritance if both the parents are heterozygous?",
+          "options": [
+            {
+              "id": "A",
+              "text": "75%",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "50%",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "25%",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "none",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "112",
+          "text": "Consanguinity is an important cause of which disorders?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Autosomal recessive",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Autosomal dominant",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "X-linked recessive",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "X-linked dominant",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "113",
+          "text": "If both parents are carrier of recessive gene, what is the chance of having abnormal baby?",
+          "options": [
+            {
+              "id": "A",
+              "text": "25%",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "50%",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "75%",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "100%",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "114",
+          "text": "Uric acid is the catabolic end product of :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Porphyrine",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Purines",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Pyrimidines",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Pyridoxine",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "115",
+          "text": "In humans, the principal metabolic product of pyrimidines is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "β-alanine",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Hypoxanthine",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Allantoin",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Uric acid",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "116",
+          "text": "In most mammals, except primates, uric acid is metabolized by :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Oxidation to allantoin",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Reduction to NH3",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Hydrolysis to allantoin",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Hydrolysis to NH3",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "117",
+          "text": "Aspartate amino transferase uses the following for transamination:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Glutamic acid and oxaloacetic acid",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Glutamic acid and pyruvic acid",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Aspartic acid and pyruvic acid",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "aspartic acid and keto adipic acid",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "118",
+          "text": "Hyperammonaemia type I results from congenital absence of :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Carbamoyl phosphate synthetase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Ornithine transcarbamoylase",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Glutamate dehydrogenase",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "None of these",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "119",
+          "text": "Congenital deficiency of ornithine transcarbamoylase causes:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hyperammonaemia type II",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Hyperammonaemia type I",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Hyperornithinaemia",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Citrullinaemia",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "120",
+          "text": "A post menopausal female present with pain in the first metatarsophalangeal joint following the intake of alcohol. The drug used should act by inhibiting which of the following enzymes?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Xanthine oxidase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Thymidylate synthase",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "HGPRTase",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Adenosine deaminase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "121",
+          "text": "Rate limiting enzyme of purine synthesis?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Amidotransferase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "HGPRT",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Adenosine deaminase",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Uricase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "122",
+          "text": "A 20 year old male present with hypercholesterolemia. His elder brother also died of a heart disease a few years back. LDL receptor defect was observed. What is the most possible cause?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Familial hypercholesterolemia",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Familial combined hyperlipidemia",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Abetalipoproteinemia",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "APO E deficiency",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "123",
+          "text": "Nitrogen base of purine is linked with pentose sugar by:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Glycosidic bond",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Ester bond",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Peptide bond",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Hydrogen bond",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "124",
+          "text": "Orotic Aciduria type I is due to deficiency of:",
+          "options": [
+            {
+              "id": "A",
+              "text": "UMP Synthase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "OMP decarboxylase",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "DHFR",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Thymidylate synthetase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "125",
+          "text": "B.M.R. is lowered in:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hypothyroidism",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Leukemia",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Cardiac failure",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Hyperthyroidism",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "126",
+          "text": "All of the following are natural artificial uncouplers of ETC, except:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Salicylates",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Bilirubin",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Brown fat",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Fatty acid",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "127",
+          "text": "Self-mutilation is an important sigh of which of the following condition:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lesch-Nyhan syndrome",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Gout",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Goiter",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Tay-sach’s disease",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "128",
+          "text": "Beta oxidation of fatty acid of C-26 will yield how many ATP’s?",
+          "options": [
+            {
+              "id": "A",
+              "text": "176",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "156",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "180",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "130",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "129",
+          "text": "Rate limiting enzyme of Pyrimidine synthesis?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Carbamoyl Phosphate synthetase II",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Carbamoyl Phosphate synthetase I",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Ribonucleotide reductase",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Dihydrofolate reductase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "130",
+          "text": "All of the following are inhibitor of  DHFR except:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hydroxyurea",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Methotrexate",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Trimethoprim",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Pyrimethamine",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "131",
+          "text": "C4,C5 and N7 of purine ring comes from:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Glycine",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Glutamine",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Aspartate",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "THF",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "132",
+          "text": "Maple Syrup Urine disease is due to the deficiency of :",
+          "options": [
+            {
+              "id": "A",
+              "text": "alpha ketoacid dehydrogenase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Homogentisate oxidase",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Tyrosinase",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Phenylalanine hydroxylase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "133",
+          "text": "Ambiguious genitalia is seen in deficiency of:",
+          "options": [
+            {
+              "id": "A",
+              "text": "21 hydroxylase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "17 hydroxylase",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "7 hydroxylase",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "1 hydroxylase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "134",
+          "text": "Succinyl CoA is formed by?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Threonine",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Methionine",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Isoleucine",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Valine",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "135",
+          "text": "Nitric oxide is synthesized from?",
+          "options": [
+            {
+              "id": "A",
+              "text": "L-arginine",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "L-citrulline",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Lysine",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Tryptophan",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "136",
+          "text": "Which vitamin in large doses decreases triglyceride and cholesterol?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Nicotinic acid",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Thiamine",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Cobalamine",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Riboflavin",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "137",
+          "text": "Hypouricaemia is associated with deficiency of which of the following:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Xanthine oxidase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Von Gierke’s disease",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Hypoxanthine guanine phosphoribosyl transferase",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Adenine phosphoribosyl transferase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "138",
+          "text": "Hyperuricemia occur due to all EXCEPT:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Xanthine oxidase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Glucose 6 phosphatase",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Phosphoribosyl pyrophosphate synthetase",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Hypoxanthine-guanine phosphoribosyl-transferase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "139",
+          "text": "Which of the following amino acid is common in Purine and pyridimines?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Glutamine",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Alanine",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Guanine",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Uracil",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "140",
+          "text": "In 3rd day to 2nd week starvation the body depends on:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ketone bodies",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Amino acid",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "FA",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Glucose",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "141",
+          "text": "Receptor present in liver for uptake of LDL:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Apo B100",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Apo E and Apo B48",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Apo A and Apo E",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Apo C",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "142",
+          "text": "In primary familial hypercholesterolemia, there is defect in:",
+          "options": [
+            {
+              "id": "A",
+              "text": "LDL-receptors",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Apoprotein",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Apoprotein B",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "VLDL",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "143",
+          "text": "Which one of the following is an example of omega-3 fatty acids:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Docosahexaenoic Acid",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Gamma Linolenic Acid",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Oleic Acid",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Palmitoleic acid",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "144",
+          "text": "All of the following are derivative of omega-6 EXCEPT:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Alpha linolenic acid",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Gamma linolenic acid",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Arachidonic acid",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Linoleic acid",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "145",
+          "text": "Ketones body production occurs in:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Mitochondria",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Cytoplasm",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Golgi Body",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Nucleus",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "146",
+          "text": "What is the composition of lugols iodine?",
+          "options": [
+            {
+              "id": "A",
+              "text": "5% iodine and 10% potassium iodide",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "4% iodine 10% potassium iodide",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "2.5% iodine and 5% potassium iodide",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "10% iodine and 6% potassium iodide",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "147",
+          "text": "Receptor of Steroid hormone is located in:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cytoplasm",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Nucleus",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Cell membrane",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "none",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "148",
+          "text": "Glucose-6-phosphate dehydrogenase deficiency causes:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hemolytic anemia",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Megaloblastic anemia",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Sickle cell anemia",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Microcytic anemia",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "149",
+          "text": "Essential fructosuria is due to the deficiency of which enzyme?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fructokinase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Aldolase A",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Aldolase B",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Glucokinase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "150",
+          "text": "Receptor for T4 lies on:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Nucleus",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Cell membrane",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Cytoplasm",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "All of them",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "151",
+          "text": "Identify the glycogen storage disease with exercise induced myoglobinuria:",
+          "options": [
+            {
+              "id": "A",
+              "text": "McArdle’s disease",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Pompe’s disease",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Von gierke disease",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Anderson disease",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "152",
+          "text": "Niemann’s pick disease is due to deficiency of which enzyme:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Sphingomyelinase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Hexosaminidase-A",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Aryl suplhatase",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Galactosidase-A",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "153",
+          "text": "If glycogen has to go under glycolysis at muscle then how many ATP’s are formed?",
+          "options": [
+            {
+              "id": "A",
+              "text": "3",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "2",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "7",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "0",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "154",
+          "text": "Which organelle is involved in the case of sphinghomyelin deficiency:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lysosome",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Nucleus",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Mitochondria",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Cell membrane",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "155",
+          "text": "The most common lysosomal storage disorder is :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Gaucher’s disease",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Taysach’s disease",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Wolman disease",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Niemann pick’s disease",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "156",
+          "text": "The key diagnostic feature in gout is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Negative birefringement",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Positive birefringement",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Western blot",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Schilling test",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "157",
+          "text": "In kidney MCT acts as a transporter for:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lactate and Uric acid",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Glucose and fructose",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Pyruvate",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "glycogen",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "158",
+          "text": "How many ATP’S are formed from 8 glucose molecule from glycolysis to Kreb’s cycle?",
+          "options": [
+            {
+              "id": "A",
+              "text": "216",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "248",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "156",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "200",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "159",
+          "text": "The end product of purine metabolism is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Uric acid",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "NH3",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Alanine",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "aminoisobutyrate",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "160",
+          "text": "All of the following are ketone bodies; Except:",
+          "options": [
+            {
+              "id": "A",
+              "text": "aminoisobutyrate",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "acetone",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "betahydroxybutyrate",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "acetoacetate",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "161",
+          "text": "In starvation which of the following is increased in circulation",
+          "options": [
+            {
+              "id": "A",
+              "text": "Free fatty acid",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Glucose",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Insulin",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Chylomicron",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "162",
+          "text": "Glucose on complete oxidation provides how many ATP’s?",
+          "options": [
+            {
+              "id": "A",
+              "text": "32",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "10",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "2",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "7",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "163",
+          "text": "Insulin inhibits which of the following lipase enzyme?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hormone sensitive lipase",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Lipoprotein lipase",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Acid lipase",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Alkaline lipase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "164",
+          "text": "Sickle cell anemia is an example of:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Missense mutation",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Non sense mutation",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Silent mutation",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Frameshift mutation",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "165",
+          "text": "How many ATPs are produced by complete beta oxidation of Palmitic acid?",
+          "options": [
+            {
+              "id": "A",
+              "text": "106",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "108",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "120",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "110",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "166",
+          "text": "THF is necessary for the synthesis of which pyrimidine?",
+          "options": [
+            {
+              "id": "A",
+              "text": "dTMP",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "dCTP",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "dUMP",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "None",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "167",
+          "text": "Which one of the following enzymes of nucleotide metabolism is correctly paired with its pharmacologic inhibitor?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Dihydrofolate reductase—methotrexate",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Inosine monophosphate dehydrogenase—hydroxyurea",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Ribonucleotide reductase —5-fluorouracil",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Thymidylate synthase—allopurinol",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "168",
+          "text": "Which of the following statements is true for insulin but not for glucagon?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Its secretion is decreased by the catecholamines.",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Its effects include alterations in gene expression.",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Its actions are mediated by binding to a receptor found on the cell membrane of liver cells.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "It is a peptide hormone secreted by pancreatic cells.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "169",
+          "text": "Which one of the following statements concerning liver in the absorptive state is correct?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fructose 2,6-bisphosphate is elevated",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Insulin stimulates the uptake of glucose",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Most enzymes that are regulated by covalent modification are in the phosphorylated state",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "The oxidation of acetyl coenzyme A is increased.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "170",
+          "text": "All of the following is true when one molecule of acetyl CoA is oxidized by citric acid cycle except:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Total of 14 ATP are generated",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "NADH is produced & each of this molecule produces 3 ATP",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Succinyl CoA to succinate-one molecule of ATP is generated",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "FADH2 is produced which from 2 ATP",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
     }
   }
 }
