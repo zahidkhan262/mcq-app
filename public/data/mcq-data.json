@@ -58498,6 +58498,6226 @@
           ]
         }
       ]
+    },
+    "histology_embryology_second": {
+      "id": "histology_embryology_second",
+      "name": "Histology and Embryology Second",
+      "questions": [
+        {
+          "id": "1",
+          "text": "What is the functional unit of the kidney?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Nephron",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Glomerulus",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Collecting duct",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Loop of Henle",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "text": "The foregut and hindgut are temporarily bounded by which membranes?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Buccopharyngeal and cloacal membranes",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Amniotic and allantoic membranes",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Chorionic and yolk sac membranes",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Neural and notochordal membranes",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "text": "The ciliary muscle is innervated by which type of nerve fibers?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Parasympathetic",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Sympathetic",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Somatic motor",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Sensory",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "text": "The endodermal germ layer provides the epithelial lining for all of the following EXCEPT?",
+          "options": [
+            {
+              "id": "A",
+              "text": "The heart and blood vessels",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "The gastrointestinal tract",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "The respiratory tract",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "The urinary bladder",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "text": "The primitive urogenital sinus receives the opening of which ducts at its apex?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Two mesonephric ducts and allantois",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Metanephric ducts",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Para-mesonephric ducts",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Ureters",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "text": "The placenta is developed from which two sources?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Decidua basalis (maternal) and chorionic frondosum (fetal)",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Decidua parietalis and amnion",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Yolk sac and allantois",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Myometrium and cytotrophoblast",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "text": "The medial (cup-shaped) end of the mesonephric tubule is invaginated by a tuft of capillaries from which artery?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Dorsal aorta",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Renal artery",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Umbilical artery",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Gonadal artery",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "text": "Which cells are the most abundant airway epithelial cells, found from the trachea to respiratory bronchioles?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ciliated Cells",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Goblet Cells",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Basal Cells",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Clara Cells",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "9",
+          "text": "The prenatal detection of which condition uses an amniotic fluid Alpha-fetoprotein (AFP) test?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Neural tube defects",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Down syndrome",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Cardiac defects",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Renal agenesis",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "text": "What is the upper part of the intermediate mesoderm that becomes segmented called?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Nephrotomes",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Nephrogenic cord",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Metanephric cap",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Ureteric bud",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "text": "The parenchyma of the thyroid is composed of millions of which structure?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Thyroid follicles",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Parafollicular cells",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "C-cells",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Islets of Langerhans",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "12",
+          "text": "The optic vesicle is a lateral diverticulum from which brain vesicle?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Diencephalon",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Telencephalon",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Mesencephalon",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Myelencephalon",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "text": "The most caudal part of the mesonephric duct is absorbed into the cloaca and gives rise to which bud?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ureteric bud",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Lung bud",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Pancreatic bud",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Gall bladder bud",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "14",
+          "text": "The fetal adrenal cortex originates from a thickening of which mesoderm?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Intermediate mesoderm",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Lateral plate mesoderm",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Paraxial mesoderm",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Neural crest",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "text": "The epidermis of the skin is derived from which germ layer?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ectoderm",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Mesoderm",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Endoderm",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Neural crest",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "16",
+          "text": "The measurement from the vertex of the skull to the midpoint between the apices of the buttocks is known as?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Crown-rump length (CRL)",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Crown-heel length (CHL)",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Biparietal diameter (BPD)",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Femur length",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "text": "In females, the persistent remnants of the mesonephric tubules form which structure?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Epoophoron",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Uterine tubes",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Uterus",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Vagina",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "18",
+          "text": "A cataract is an opacity of which structure?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lens",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Cornea",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Retina",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Vitreous body",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "text": "The vasa vasorum are found in which tunic of large blood vessels?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Tunica adventitia",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Tunica intima",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Tunica media",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Tunica serosa",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "20",
+          "text": "The cornea is composed of how many layers?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Five",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Three",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Four",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Six",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "text": "The heart produces a hormone called what?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Atrial natriuretic factor",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Renin",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Erythropoietin",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Calcitriol",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "22",
+          "text": "The lateral end of the mesonephric tubule opens into which duct?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Mesonephric duct (wolffian duct)",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Paramesonephric duct",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Ureteric bud",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Allantois",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "text": "During gastrulation, epiblast cells migrate through which structure to form the three-layered embryo?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Primitive streak",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Neural plate",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Notochord",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Neural crest",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "24",
+          "text": "The pituitary gland is formed from which embryonic structure?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Rathke's pouch (ectoderm)",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Neural crest",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Foregut endoderm",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Mesonephros",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "text": "The tunica intima of arteries is separated from the media by which structure?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Internal elastic lamina",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "External elastic lamina",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Basal lamina",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Subendothelial layer",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "26",
+          "text": "The metanephric cap is developed from which part of the intermediate mesoderm?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Caudal part",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Cranial part",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Thoracic part",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Cervical part",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "text": "Approximately two-thirds of twins are dizygotic, also known as?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fraternal twins",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Identical twins",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Conjoined twins",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Mirror-image twins",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "28",
+          "text": "The ureteric bud develops from which duct?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Caudal part of mesonephric duct",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Metanephric cap",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Cloaca",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Urogenital sinus",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "text": "The respiratory system is derived from which part of the primitive gut tube?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Foregut",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Midgut",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Hindgut",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Cloaca",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "30",
+          "text": "The umbilical cord normally contains how many arteries and one vein?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Two arteries",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "One artery",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Three arteries",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "No arteries",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "text": "What induces the overlying ectoderm to thicken and form the neural plate?",
+          "options": [
+            {
+              "id": "A",
+              "text": "The notochord",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "The neural crest",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "The somites",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "The endoderm",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "32",
+          "text": "The organ of Corti (audioreceptive organ) is located within which structure?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cochlear duct (scala media)",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Scala vestibuli",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Scala tympani",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Semicircular canals",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "text": "The white pulp of the spleen contains which type of cells and is part of which system?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lymphocytes (immune system)",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Red blood cells (filter)",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Macrophages only",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Platelets",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "34",
+          "text": "The trigone of the urinary bladder is derived from which structure?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Caudal part of mesonephric ducts",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Vesico-uretheral portion",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Allantois",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Splanchnic mesoderm",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "text": "The retina is composed of a photosensitive neural layer and which other layer?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Pigmented layer",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Choroid layer",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Scleral layer",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Corneal layer",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "36",
+          "text": "The ectodermal germ layer gives rise to all of the following EXCEPT?",
+          "options": [
+            {
+              "id": "A",
+              "text": "The cardiovascular system",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "The central nervous system",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "The sensory epithelium of the ear, nose, and eye",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "The enamel of the teeth",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "text": "The posterior lobe of the pituitary gland develops from which structure?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Neurohypophyseal bud",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Rathke's pouch",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Stomodeum",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Neural crest",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "38",
+          "text": "The fetus is covered with fine hair called?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lanugo hair",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Vernix caseosa",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Primary hair",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Terminal hair",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "text": "Some middle group of mesonephric tubules persist and give rise to what in males?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Efferent ductules",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Seminal vesicle",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Prostate gland",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Bulbourethral gland",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "40",
+          "text": "In the alveolar region, which cell type covers approximately 95% of the alveolar surface?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Alveolar Type I Cell",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Alveolar Type II Cell",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Alveolar macrophage",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Capillary endothelial cell",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "text": "The age of an embryo is indicated by CRL, which is a measurement in?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Millimeters",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Centimeters",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Weeks",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Grams",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "42",
+          "text": "The intraembryonic coelom divides the lateral plate mesoderm into which two layers?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Somatic (parietal) and splanchnic (visceral)",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Ectodermal and endodermal",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Paraxial and intermediate",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Epithelial and mesenchymal",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "text": "The dermis of the trunk is derived from which mesoderm?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Somatic mesoderm (dermomyotome and lateral plate)",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Splanchnic mesoderm",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Intermediate mesoderm",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Paraxial mesoderm only",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "44",
+          "text": "From which mesoderm does the kidney develop?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Intermediate Mesoderm",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Lateral Plate Mesoderm",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Paraxial Mesoderm",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Surface Ectoderm",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "text": "The lens placode develops in which location?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Surface ectoderm contacted by the optic vesicle",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Optic cup",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Optic stalk",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Neural retina",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "46",
+          "text": "Which of the following is a derivative of the neural crest?",
+          "options": [
+            {
+              "id": "A",
+              "text": "C cells of the thyroid gland",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Hepatocytes of the liver",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Epithelial lining of the gut",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Sclerotome of the somite",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "text": "The collecting duct (CD) in the inner medulla unites with other CDs to form which ducts?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Papillary ducts",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Interlobular ducts",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Major calyces",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Minor calyces",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "48",
+          "text": "A renal lobule is defined as a portion of the kidney containing nephrons drained by what?",
+          "options": [
+            {
+              "id": "A",
+              "text": "A common collecting duct",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "An interlobar artery",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "A renal pyramid",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "A minor calyx",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "text": "What is horseshoe kidney?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fusion of the lower ends of kidneys with limited ascent",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Failure of one kidney to develop",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Small sized kidney",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Kidney in the pelvis",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "50",
+          "text": "Loss of ADH secretion results in which condition?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Diabetes insipidus",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Diabetes mellitus",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Acromegaly",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Gigantism",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "text": "The visceral layer of Bowman's capsule is formed by which cells?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Podocytes",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Simple squamous cells",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Mesangial cells",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Macula densa cells",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "52",
+          "text": "After birth, the obliterated umbilical vein forms which structure in the adult?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ligamentum teres hepatis",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Medial umbilical ligaments",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Ligamentum venosum",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Ligamentum arteriosum",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "text": "The lumen of the neural tube persists as which system in the adult brain?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ventricular system",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Central canal",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Subarachnoid space",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Cerebral aqueduct",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "54",
+          "text": "Parafollicular cells (C cells) of the thyroid secrete which hormone?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Calcitonin",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Thyroxine (T4)",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Tri-iodothyronine (T3)",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Parathyroid hormone",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "text": "The outer wall of the optic cup forms which layer of the retina?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Pigmented layer",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Neural layers",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Ganglion cell layer",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Inner limiting membrane",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "56",
+          "text": "The nasal cavities are lined by which type of epithelium?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ciliated pseudostratified columnar epithelium",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Stratified squamous epithelium",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Simple squamous epithelium",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Simple columnar epithelium",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "text": "The muscularis layer of the urinary bladder is also known as which muscle?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Detrusor muscle",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Sphincter urethrae",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Pyramidalis muscle",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Cremaster muscle",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "58",
+          "text": "The twin transfusion syndrome occurs in what percentage of monochorionic monozygotic pregnancies?",
+          "options": [
+            {
+              "id": "A",
+              "text": "5 to 15%",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "25 to 35%",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "50 to 60%",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "75 to 85%",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "text": "Which maternal antibody is capable of crossing the placental barrier?",
+          "options": [
+            {
+              "id": "A",
+              "text": "IgG",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "IgM",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "IgA",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "IgD",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "60",
+          "text": "The cephalic (rostral) neuropore normally closes by approximately which day?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Day 25",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Day 27",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Day 28",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Day 30",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "text": "The three primary brain vesicles include which of the following?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Prosencephalon, Mesencephalon, Rhombencephalon",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Telencephalon, Diencephalon, Metencephalon",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Forebrain, Midbrain, Hindbrain",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Cortex, Cerebellum, Medulla",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "62",
+          "text": "The notochord develops from which germ layer?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Mesoderm",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Ectoderm",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Endoderm",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Neural crest",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "text": "Between which weeks of embryological life does the second kidney (mesonephros) excrete urine?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Sixth and tenth weeks",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Fourth and sixth weeks",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Tenth and fourteenth weeks",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "First and fourth weeks",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "64",
+          "text": "Which condition refers to an excess of amniotic fluid (1500-2000 ml)?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hydramnios or polyhydramnios",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Oligohydramnios",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Amnion nodosum",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Chorioamnionitis",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "text": "The pre-capillary sphincter and thoroughfare channels are features of which circulation?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Microcirculation",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Systemic circulation",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Pulmonary circulation",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Coronary circulation",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "66",
+          "text": "Neural crest cells develop into most cells of which nervous system?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Peripheral nervous system",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Central nervous system",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Autonomic nervous system only",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Somatic nervous system only",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "text": "The lateral plate mesoderm gives rise to which of the following?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lining of the body cavities",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Skeletal muscle",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Vertebrae",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Dermis",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "68",
+          "text": "The caudal part of the hindgut is expanded to form which structure?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cloaca",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Urogenital sinus",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Recto-anal canal",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Allantois",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "text": "In females, the mesonephric duct mostly degenerates, but part remains as the duct of which structure?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Epoophoron",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Gartner's duct",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Round ligament",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Broad ligament",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "70",
+          "text": "Most hair follicles are present by which month of gestation?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Month 5",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Month 2",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Month 3",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Month 4",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "text": "The sinoatrial node is also known as the?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Pacemaker",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Bundle of His",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Atrioventricular node",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Purkinje fibers",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "72",
+          "text": "The mucosa of the urinary bladder develops mainly from which portion of the cloaca?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Vesico-uretheral portion",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Definitive urogenital sinus",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Recto-anal canal",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Allantois alone",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "text": "The paraxial mesoderm is organized into segments known as?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Somitomeres",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Neuromeres",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Nephrons",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Coeloms",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "74",
+          "text": "The mesonephric (wolffian) duct in males gives rise to all of the following EXCEPT?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Epididymis, Vas deferens, Seminal vesicle, Ejaculatory duct (All correct)",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Uterus",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Prostate",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Urethra",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "text": "Unilateral renal agenesis is due to failure of development of which structure?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Metanephric cap or no touch with ureteric bud",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Mesonephric duct",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Ureter",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Cloaca",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "76",
+          "text": "The human fetal pancreas begins to develop by which week of gestation?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fourth week",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Sixth week",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Eighth week",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Tenth week",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "text": "The metanephros (permanent kidney) develops from which structure?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Metanephric cap and ureteric bud",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Mesonephric tubules",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Pronephros",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Cloaca",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "78",
+          "text": "The optic stalk becomes which structure as axons travel from the retina to the brain?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Optic nerve",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Optic chiasm",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Optic tract",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Retina",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "text": "During which stage of lung development do respiratory bronchioles develop?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Canalicular Stage (Weeks 16-26)",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Pseudoglandular Stage",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Terminal Sac Stage",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Alveolar Stage",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "80",
+          "text": "The largest organ of the body is which of the following?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Skin",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Liver",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Heart",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Lungs",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "text": "Neural crest cells develop from cells at which location?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Margin of the neural plate",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Floor of the neural tube",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Roof of the neural tube",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Notochord",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "82",
+          "text": "Acidophils in the pars distalis secrete which of the following hormones?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Growth hormone (somatotropin) and Prolactin",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "ACTH and MSH",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "TSH and FSH",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "LH and ICSH",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "text": "Small accessory lobes that develop in the membranes at a distance from the main placenta are known as?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Succenturiate lobes",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Battledore placenta",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Circumvallate placenta",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Placenta membranacea",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "84",
+          "text": "Nail development begins at which week with epidermal thickening (nail field)?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Week 10",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Week 8",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Week 12",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Week 16",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "text": "The ileum and jejunum develop from which part of the gut?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Midgut",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Foregut",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Hindgut",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Cloaca",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "86",
+          "text": "The mesonephros develops from which parts of the intermediate mesoderm?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Thoracic and upper lumbar parts",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Cervical and sacral parts",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Only lumbar parts",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Only thoracic parts",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "text": "Which kidney is the permanent kidney?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Metanephros",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Pronephros",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Mesonephros",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Archinephros",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "88",
+          "text": "In early development of the kidney, where is it located?",
+          "options": [
+            {
+              "id": "A",
+              "text": "In the pelvis",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "In the thorax",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "In the neck",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "In the sacrum",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "text": "The two main layers of the lateral plate mesoderm are called?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Somatic and splanchnic",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Paraxial and intermediate",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Ectodermal and endodermal",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Epithelial and mesenchymal",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "90",
+          "text": "The adrenal medulla is derived from which embryonic structure?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Neural crest",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Intermediate mesoderm",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Surface ectoderm",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Endoderm",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "text": "A fetus born during the sixth or beginning of the seventh month has difficulty surviving mainly because of insufficient differentiation of which systems?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Respiratory and central nervous systems",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Cardiovascular and digestive systems",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Musculoskeletal and integumentary systems",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Endocrine and lymphatic systems",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "92",
+          "text": "The metanephric cap forms which part of the kidney?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Nephrons",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Collecting ducts",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Renal pelvis",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Ureters",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "93",
+          "text": "The capillary network within the glomerulus is supplied by which vessel?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Afferent arteriole",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Efferent arteriole",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Dorsal aorta",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Renal vein",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "94",
+          "text": "Ectopia vesica is associated with exposure of which layer to the outside?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Urinary bladder mucosa",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Urinary bladder muscularis",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Ureteric mucosa",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Urethral mucosa",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "95",
+          "text": "Reabsorption in the distal convoluted tubule (DCT) is regulated by which hormones?",
+          "options": [
+            {
+              "id": "A",
+              "text": "ADH and aldosterone",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "ADH only",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Aldosterone only",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Insulin",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "96",
+          "text": "What vitamin supplement reduces the incidence of spina bifida by over 70%?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Folic acid (vitamin B9)",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Vitamin C",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Vitamin D",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Vitamin B12",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "97",
+          "text": "The thymus is derived from the ventral process of which pharyngeal pouch(es)?",
+          "options": [
+            {
+              "id": "A",
+              "text": "3rd (and 4th)",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "1st and 2nd",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "2nd only",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "4th only",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "98",
+          "text": "The inner ear (membranous labyrinth) is derived from which structure?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Otic vesicle (otocyst)",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "First pharyngeal pouch",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Surface ectoderm directly",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Neural crest",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "99",
+          "text": "The ectodermal germ layer gives rise to which of the following?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Nervous system",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Muscles",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Bones",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Blood vessels",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "100",
+          "text": "Anencephaly is caused by incomplete closure of which end of the neural tube?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Brain end (rostral)",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Spinal end (caudal)",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Ventral end",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Lateral end",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "101",
+          "text": "Surfactant production in the fetal lungs begins at 20 to 22 weeks but does not reach adequate levels until?",
+          "options": [
+            {
+              "id": "A",
+              "text": "The late fetal period",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "The end of the first trimester",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "The embryonic period",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Immediately after conception",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "102",
+          "text": "What type of transition do neural crest cells undergo as they dissociate from their neighbors?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Epithelial to mesenchymal transition",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Mesenchymal to epithelial transition",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Endodermal to ectodermal transition",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Neural to epidermal transition",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "103",
+          "text": "The intermediate mesoderm develops into which structure?",
+          "options": [
+            {
+              "id": "A",
+              "text": "The urogenital ridge (kidneys and gonads)",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "The dermis of the skin",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "The lining of the heart",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "The notochord",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "104",
+          "text": "The renal corpuscle produces which fluid?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Glomerular ultrafiltrate",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Urine",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Blood filtrate",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Hormones",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "105",
+          "text": "The proximal convoluted tubule (PCT) is lined by which type of epithelium?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Simple cuboidal epithelium with microvilli (brush border)",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Simple squamous epithelium",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Stratified columnar epithelium",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Pseudostratified epithelium",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "106",
+          "text": "Superfecundation is defined as?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fertilization of two or more oocytes at different times",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Splitting of a single zygote into two embryos",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "The death of one fetus in utero",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Fusion of two placentas",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "107",
+          "text": "Hassall's corpuscles (corpuscular thymic) are found in which part of the thymus?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Medulla",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Cortex",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Capsule",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Septa",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "108",
+          "text": "Conjoined twins are always which type of twin?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Monoamniotic and monochorionic",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Diamniotic and monochorionic",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Monoamniotic and dichorionic",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Diamniotic and dichorionic",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "109",
+          "text": "The paraxial mesoderm eventually forms which structures?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Somites",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Kidneys",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Heart",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Blood vessels",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "110",
+          "text": "How many mesonephric tubules are formed in the mesonephros?",
+          "options": [
+            {
+              "id": "A",
+              "text": "70-80",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "10-20",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "30-40",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "100-120",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "111",
+          "text": "Herring bodies in the posterior pituitary contain which hormones?",
+          "options": [
+            {
+              "id": "A",
+              "text": "ADH and oxytocin",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "ACTH and TSH",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "GH and prolactin",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "FSH and LH",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "112",
+          "text": "The ureteric bud forms which part of the kidney?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Collecting part",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Nephron",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Glomerulus",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Bowman's capsule",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "113",
+          "text": "The epithelium of the urethra changes to which type at the external urethral orifice?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Stratified squamous",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Transitional",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Simple columnar",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Pseudostratified columnar",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "114",
+          "text": "Melanocytes in the skin are derived from which embryonic structure?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Neural crest",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Surface ectoderm",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Mesoderm",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Endoderm",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "115",
+          "text": "Most malformations have their origin during which period of gestation?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Third to eighth weeks",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Ninth to twelfth weeks",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Fourth to tenth weeks",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "First to second weeks",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "116",
+          "text": "The foregut gives rise to which of the following organs?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Esophagus and stomach",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Small intestine",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Large intestine",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Rectum",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "117",
+          "text": "At what week does the periderm form during skin development?",
+          "options": [
+            {
+              "id": "A",
+              "text": "4 weeks",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "8 weeks",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "11 weeks",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "24 weeks",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "118",
+          "text": "The lymphatic capillaries consist of which of the following?",
+          "options": [
+            {
+              "id": "A",
+              "text": "A single layer of endothelium and an incomplete basal lamina",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "A single layer of endothelium and a complete basal lamina",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Multiple layers of endothelium",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Smooth muscle cells",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "119",
+          "text": "Graves disease is an autoimmune disorder that results in which thyroid condition?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hyperthyroidism",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Hypothyroidism",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Thyroiditis",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Goiter",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "120",
+          "text": "The malleus and incus (middle ear bones) are derived from which branchial arch?",
+          "options": [
+            {
+              "id": "A",
+              "text": "First branchial arch",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Second branchial arch",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Third branchial arch",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Fourth branchial arch",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "121",
+          "text": "The notochord induces the formation of which structure?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Neural plate",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Somites",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Heart tube",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Gut tube",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "122",
+          "text": "Renin converts angiotensinogen to which substance?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Angiotensin",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Angiotensin II",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Aldosterone",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Renin substrate",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "123",
+          "text": "What is a congenital polycystic kidney thought to be caused by?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Failure of union between convoluted tubules and collecting tubules",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Failure of kidney ascent",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Absence of the ureteric bud",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Fusion of the kidneys",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "124",
+          "text": "Rod cells in the retina contain which visual pigment?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Rhodopsin",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Iodopsin",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Opsin",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Retinal",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "125",
+          "text": "The thyroid gland originates during embryonic life from which germ layer?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Foregut endoderm",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Neural crest",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Surface ectoderm",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Mesoderm",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "126",
+          "text": "The closure of the caudal neuropore occurs at approximately which day?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Day 27",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Day 25",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Day 30",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Day 21",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "127",
+          "text": "The parenchyma of the kidney is organized into which two regions?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cortex and medulla",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Cortex and pelvis",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Medulla and calyces",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Pelvis and ureter",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "128",
+          "text": "During its ascent, the kidney rotates how many degrees medially?",
+          "options": [
+            {
+              "id": "A",
+              "text": "90 degrees",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "45 degrees",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "180 degrees",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "270 degrees",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "129",
+          "text": "The anterior pituitary vascular system begins to develop by which week of gestation?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Seven weeks",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Four weeks",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Ten weeks",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Twenty weeks",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "130",
+          "text": "The Juxtaglomerular apparatus produces which enzyme?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Renin",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Angiotensin",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Aldosterone",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "ADH",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "131",
+          "text": "The cloaca is subdivided by which septum?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Urorectal septum",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Tracheoesophageal septum",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Septum transversum",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Atrioventricular septum",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "132",
+          "text": "Taste buds are innervated by cranial nerves VII and which other nerve?",
+          "options": [
+            {
+              "id": "A",
+              "text": "IX (Glossopharyngeal)",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "V (Trigeminal)",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "X (Vagus)",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "XII (Hypoglossal)",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "133",
+          "text": "What stimulates the division of the metanephric cap into masses that differentiate into nephrons?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ureteric bud",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Dorsal aorta",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Mesonephric duct",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Cloaca",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "134",
+          "text": "During the Pseudoglandular Stage (weeks 8-16), is gas exchange possible?",
+          "options": [
+            {
+              "id": "A",
+              "text": "No, gas exchange is not yet possible",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Yes, but only partially",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Yes, fully functional",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Only under stress",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "135",
+          "text": "The most common type of twinning is which?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Dizygotic",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Monozygotic",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Conjoined",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Parasitic",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "136",
+          "text": "Which component of the somite forms the cartilage and bone of the vertebral column?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Sclerotome",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Myotome",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Dermatome",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Syndetome",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "137",
+          "text": "The urinary bladder is lined by which type of epithelium?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Transitional epithelium",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Stratified squamous",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Simple columnar",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Pseudostratified columnar",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "138",
+          "text": "A tracheoesophageal fistula is a direct connection between which two structures?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Trachea and esophagus",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Trachea and bronchi",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Esophagus and stomach",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Larynx and pharynx",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "139",
+          "text": "Double ureters are caused by what embryological event?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Double ureteric buds",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Splitting of ureteric bud",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "No ureteric bud",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Failure of the ureteric bud to elongate",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "140",
+          "text": "An abnormal and dangerous location of the placenta where it implants over the internal cervical os is called?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Placenta praevia",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Placenta accreta",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Placenta percreta",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Succenturiate placenta",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "141",
+          "text": "The thyroid gland develops from which pharyngeal pouch?",
+          "options": [
+            {
+              "id": "A",
+              "text": "First pharyngeal pouch",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Second pharyngeal pouch",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Third pharyngeal pouch",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Fourth pharyngeal pouch",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "142",
+          "text": "The tracheoesophageal septum forms a longitudinal ridge that separates what?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Trachea from esophagus",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Lungs from heart",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Bronchi from alveoli",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Pharynx from larynx",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "143",
+          "text": "Pars distalis comprises what percentage of the adenohypophysis?",
+          "options": [
+            {
+              "id": "A",
+              "text": "75%",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "50%",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "25%",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "10%",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "144",
+          "text": "Glaucoma is caused by obstruction preventing drainage of which fluid?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Aqueous humor",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Vitreous humor",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Blood",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Lymph",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "145",
+          "text": "Which hormone is excreted by the mother in urine and used as an early indicator of pregnancy?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Human chorionic gonadotropin (hCG)",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Human placental lactogen (hPL)",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Progesterone",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Estrogen",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "146",
+          "text": "After ascending to the lumbar region, the kidney receives its blood supply from which vessels?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Abdominal aorta",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Pelvic vessels",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Iliac arteries",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Mesenteric arteries",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "147",
+          "text": "Coloboma is a defect due to failure of which structure to close?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Optic fissure",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Optic cup",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Lens vesicle",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Cornea",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "148",
+          "text": "Somitomeres eventually form which structures?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Head mesoderm and somites",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Kidneys",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Limbs",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Heart",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "149",
+          "text": "Type II pneumocytes are responsible for the production of which substance?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Surfactant",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Mucus",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Elastin",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Collagen",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "150",
+          "text": "An Amniotic Fluid Index (AFI) of 0-5 cm indicates?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Oligohydramnios",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Normal fluid levels",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Polyhydramnios",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Premature rupture of membranes",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "151",
+          "text": "Fore gut is supplied by",
+          "options": [
+            {
+              "id": "A",
+              "text": "Coeliac artery",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Superior mesenteric artery",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Inferior mesenteric artery",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Pudendal artery",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "152",
+          "text": "Mid gut is supplied by",
+          "options": [
+            {
+              "id": "A",
+              "text": "Superior mesenteric artery",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Coeliac artery",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Inferior mesenteric artery",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Pudendal artery",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "153",
+          "text": "Hind gut is supplied by",
+          "options": [
+            {
+              "id": "A",
+              "text": "Inferior mesenteric artery",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Coeliac artery",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Superior mesenteric artery",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Pudendal artery",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "154",
+          "text": "All are the structure derived from Foregut except",
+          "options": [
+            {
+              "id": "A",
+              "text": "3rd part of duodenum",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Oesohagus",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Trachea",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Gall bladder",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "155",
+          "text": "Which structure is derived from foregut ?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Liver",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Jejunum",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Rectum",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Appendix",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "156",
+          "text": "All are the structure derived from Midgut except",
+          "options": [
+            {
+              "id": "A",
+              "text": "1st part of duodenum",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Jejunum",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Appendix",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Ascending colon",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "157",
+          "text": "Which structure is derived only from Midgut ?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ileum",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Transverse colon",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Duodenum",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Anal canal",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "158",
+          "text": "All are the structure derived from Hindgut except",
+          "options": [
+            {
+              "id": "A",
+              "text": "Right 1/3rd of transverse colon",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Descending colon",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "sigmoid colon",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Rectum",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "159",
+          "text": "Dorsal mesentery give rise to",
+          "options": [
+            {
+              "id": "A",
+              "text": "Greater omentum",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Lesser omentum",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Falciform ligament",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "All options",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "160",
+          "text": "Ventral mesentry give rise to",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lesser omentum",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Greater omentum",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "The mesentry",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Mesocolon",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "161",
+          "text": "True statement regarding development of oesophagus",
+          "options": [
+            {
+              "id": "A",
+              "text": "Epithelium developed from endoderm  of Foregut",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Epithelium is developed for endoderm of midgut",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Aurbach’s plexus develop from mesoderm",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "All options are correct",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "162",
+          "text": "Most common variety of tracheoesophageal fistula is",
+          "options": [
+            {
+              "id": "A",
+              "text": "Proximal atresia with distal fistula",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Proximal fistula with distal atresia",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Pure atresia",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Fistula without atresia",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "163",
+          "text": "True statement regarding stomach development",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ventral mesentry divides in to lesser omentum and falciform ligament",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Left vagus becomes posterior vagus",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Right vagus becomes anterior vagus",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "All options are correct",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "164",
+          "text": "Foramen of winslow is the opening between",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lesser and greater sac",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Lesser and greater omentum",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Intraperitoneal and retroperitoneal space",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "None",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "165",
+          "text": "A 6 weeks old child presented with the complaints of projectile non bilious vomiting. On palpation olive like mass was felt at upper abdomen.What is your clinical diagnosis?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Infantile hypertrophic pyloric stenosis",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Tracheoesophageal fistula",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Duodenal atresia",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Jejunal atresia",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "166",
+          "text": "2nd part of duodenum develops from",
+          "options": [
+            {
+              "id": "A",
+              "text": "Foregut and Midgut",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Foregut & Pharyngeal gut",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Midgut",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Pharyngeal gut",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "167",
+          "text": "False statement regarding duodenal atresia",
+          "options": [
+            {
+              "id": "A",
+              "text": "Caused due to incomplete re-canalization of duodenum",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "33 % cases are associated with down’s syndrome",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Presented with bile stained vomiting",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Defect usually occurs at ampulla of vater",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "168",
+          "text": "Double bubble sign is seen in",
+          "options": [
+            {
+              "id": "A",
+              "text": "Duodenal atresia",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Tracheoesophageal fistula",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Infantile hypertrophic pyloric stenosis",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Jejunal atresia",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "169",
+          "text": "Physiological herniation of midgut start from------weeks",
+          "options": [
+            {
+              "id": "A",
+              "text": "6th",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "8th",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "10th",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "12th",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "170",
+          "text": "True statement regarding rotation of mid gut",
+          "options": [
+            {
+              "id": "A",
+              "text": "Herniation reduces at 10th week",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "270 degree clockwise",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Herniation starts from 8th week",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Herniation is due to rapid growth of spleen",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "171",
+          "text": "Most common position of appendix is",
+          "options": [
+            {
+              "id": "A",
+              "text": "Retrocaecal",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Pelvic",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Preileal",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Post ileal",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "172",
+          "text": "All are the anomalies of vitelline duct except",
+          "options": [
+            {
+              "id": "A",
+              "text": "Omphalocele",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Omphalomesenteric fistula",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Meckel’s diverticulum",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Vitelline cyst",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "173",
+          "text": "10 days old child presented with passage of meconium from umbilicus and anus. What may be likely defect in this case",
+          "options": [
+            {
+              "id": "A",
+              "text": "Persistant vitelline duct",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Vitelline duct ramnant at ileum",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Anorectal malformation",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "None",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "174",
+          "text": "Which of the following statements accurately describes the rule of 2 in relation to Meckel's diverticulum?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Meckel's diverticulum occurs in 2% of the population, is located 2 feet from the ileocecal valve, is 2 inch in length, and is more common in males than females by a ratio of 2:1.",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Meckel's diverticulum occurs in 2% of the population, is located 2 cm from the ileocecal valve, is 2 inches in length, and is associated with 2 types of abnormal tissue",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Meckel's diverticulum occurs in 2% of the population, is located 2 meters from the ileocecal valve, and is 2 cm in diameter.",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Meckel's diverticulum occurs in 2% of the population, is typically located in the jejunum, and is 2 cm in diameter.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "175",
+          "text": "In reverse rotation of Mid gut",
+          "options": [
+            {
+              "id": "A",
+              "text": "Transverse colon lies behind duodenum",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Caecum and appendix lies near liver",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Large gut completely lies on left side",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "All options",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "176",
+          "text": "Most common type of intestinal atresia is",
+          "options": [
+            {
+              "id": "A",
+              "text": "Type III a",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Type I",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Type II",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Type IV",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "177",
+          "text": "Apple peel atresia is type ……………….. of jejunal atresia",
+          "options": [
+            {
+              "id": "A",
+              "text": "Type III b",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Type I",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Type II",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Type IV",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "178",
+          "text": "String of sausages atresia is type ……………….of jejunal atresia",
+          "options": [
+            {
+              "id": "A",
+              "text": "Type IV",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Type I",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Type II",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Type III",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "179",
+          "text": "When midgut fails to return to body cavity from physiological herniation, It leads to",
+          "options": [
+            {
+              "id": "A",
+              "text": "Omphalocele",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Malrotation of midgut",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Gastroschiasis",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Non rotation of mid gut",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "180",
+          "text": "False statement regarding omphalocele",
+          "options": [
+            {
+              "id": "A",
+              "text": "Caused by ventral wall defect",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Herniated intestine is covered by peritoneum",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Usually  associated with chromosomal anomalies",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "All options",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "181",
+          "text": "True statement regarding anal canal",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lymphatic drainage below pectinate line; Inguinal lymph node",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Anal canal is developed entirely form hindgut",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Nerve sypply above pectinate line; Somatic nerve",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Blood supply above pectinate line; Pudendal artery",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "182",
+          "text": "True ststement regarding Hirschprungs",
+          "options": [
+            {
+              "id": "A",
+              "text": "Caused by failure to migrate neural crest cell to hindgut",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Dilated part are abnormal",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Most common at proximal colon",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "All options",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "183",
+          "text": "Most common variety of anorectal malformation in male child",
+          "options": [
+            {
+              "id": "A",
+              "text": "Imperforate anus with Recto urethral fistula",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Imperforate anus with Recto vesicle fistula",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Imperforate anus with perineal cutaneous  fistula",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Imperforate anus with out fistula",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "184",
+          "text": "Most common variety of anorectal malformation in female child",
+          "options": [
+            {
+              "id": "A",
+              "text": "Imperforate anus with Recto vestibular fistula",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Imperforate anus with persistent cloaca",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Imperforate anus with perineal cutaneous  fistula",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Imperforate anus without fistula",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "185",
+          "text": "False statement regarding development of Liver",
+          "options": [
+            {
+              "id": "A",
+              "text": "Bile formation starts form 6th week",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Hepatocyte develops form endoderm of foregut",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Kupffers cell developed form mesoderm of ventral mesogastrium",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Liver divides ventral mesogastrium into falciparum ligament and lesser omentum",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "186",
+          "text": "Bile synthesis by hepatocyte begins at",
+          "options": [
+            {
+              "id": "A",
+              "text": "12th weeks",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "6th week",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "8th weeks",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "10th weeks",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "187",
+          "text": "Kasai classification is used in",
+          "options": [
+            {
+              "id": "A",
+              "text": "Biliary atresia",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Duodnal atresia",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Jejunal atresia",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Oesophageal atresia",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "188",
+          "text": "Atresia of common hepatic duct is classified as",
+          "options": [
+            {
+              "id": "A",
+              "text": "II",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "I",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "III",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "IV",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "189",
+          "text": "Neonate presented with the complaints of yellowish discoloration of eye , clay stool and dark urine. Which of the following is true statement regarding this disease?",
+          "options": [
+            {
+              "id": "A",
+              "text": "All options",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Associated with deficiency of clotting factors II,VII,IX X",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Atresia of entire extrahepatic biliary tree is classified as type III disease",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Type II b atresia ; Atresia of  common hepatic duct but  patent gall bladder and cystic duct",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "190",
+          "text": "Islet cells are developed in following sequence",
+          "options": [
+            {
+              "id": "A",
+              "text": "Alpha cell--Beta cell--Delta cell--PP cells",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Beta cell--Alpha cell--Delta cell--PP cells",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Delta cell--Beta cell--Alpha cell--PP cells",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "PP cells--Beta cell--Alpha cell--Delta cell",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "191",
+          "text": "Accessory pancreatic duct develops from",
+          "options": [
+            {
+              "id": "A",
+              "text": "Proximal part of Dorsal pancreatic duct",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Ventral pancreatic duct + Distal part of Dorsal pancreatic duct",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Entire Ventral pancreatic duct",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Entire Dorsal pancreatic duct",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "192",
+          "text": "When dorsal and ventral pancreatic duct fails to fuse and have two separate ductal system, It is known as",
+          "options": [
+            {
+              "id": "A",
+              "text": "Pancreas divisum",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Annular pancreas",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "None",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Accessory pancreatic duct",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "193",
+          "text": "Newborn child presented with the complaints of bile stained vomiting and x ray abdomen showed double bubble sign",
+          "options": [
+            {
+              "id": "A",
+              "text": "Annular pancreas",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Oesophageal atresia",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Jejunal atresia",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "None",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "194",
+          "text": "Homologus of clitoris is",
+          "options": [
+            {
+              "id": "A",
+              "text": "Penis",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Scrotum",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Penile urethra",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Testis",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "195",
+          "text": "Homologus of labia majora is",
+          "options": [
+            {
+              "id": "A",
+              "text": "Scrotum",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Penis",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Penile urethra",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Testis",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "196",
+          "text": "Homologus of ovary is",
+          "options": [
+            {
+              "id": "A",
+              "text": "Testis",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Penis",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Scrotum",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Penile urethra",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "197",
+          "text": "Female duct system is known as",
+          "options": [
+            {
+              "id": "A",
+              "text": "Mullerian duct",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Wolfian duct",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Mesonephric duct",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "All option",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "198",
+          "text": "Portal triad contains all the structures except;",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hepatic vein",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Portal vein",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Hepatic artery",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Bile ductule",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "199",
+          "text": "Function of ito cell",
+          "options": [
+            {
+              "id": "A",
+              "text": "Storage of vitamin A",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Phagocytosis",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Synthesis of albumin",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Detoxification",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "200",
+          "text": "Patient underwent liver transplantation. Regeneration of liver connective tissue is done by",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ito  cell",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Hepatocyte",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Kupffer,s cell",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "All options",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "201",
+          "text": "Space between portal triad and hepatic plates cells is known as",
+          "options": [
+            {
+              "id": "A",
+              "text": "Space of mall",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Space of disse",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Perisinusoidal space",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Canal of hering",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "202",
+          "text": "Importance of space of mall",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lymphatics of liver starts here",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Contaions ito cell",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Contains Kupffer’s cell",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "None",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "203",
+          "text": "False statement regarding classical hepatic lobule",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hepatic vein is placed at center of lobule",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Six corners contains portal triad",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Bile canaliculi is formed by seperation of hepatic cell membranes",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Stellete cells are found at space of disse",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "204",
+          "text": "True statement regarding portal lobule",
+          "options": [
+            {
+              "id": "A",
+              "text": "All options",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "It is a area of liver bounded by three adjacent central veins",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "It is the nutritional lobule of liver",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Area is drained by one portal triad",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "205",
+          "text": "Zone of liver acinus prone to hypoxic injury",
+          "options": [
+            {
+              "id": "A",
+              "text": "3",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "1",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "2",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "4",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "206",
+          "text": "Zone of liver acinus involved in protein synthesis is",
+          "options": [
+            {
+              "id": "A",
+              "text": "1",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "2",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "3",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "4",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "207",
+          "text": "Zone of liver acinus involved in detoxification of drugs",
+          "options": [
+            {
+              "id": "A",
+              "text": "3",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "1",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "2",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "4",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "208",
+          "text": "Structural and metabolic unit of liver is ……",
+          "options": [
+            {
+              "id": "A",
+              "text": "Liver acinus",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Classical hepatic lobule",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Portal lobule",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "None",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "209",
+          "text": "False statement regarding histology of liver",
+          "options": [
+            {
+              "id": "A",
+              "text": "Classical lobule is regarded as nutritional lobule",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Liver is covered by glisson’s capsule",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "80% of liver contains Hepatocyte",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Diamond shaped area of liver with 2 central veins and 2 portal traid at corners is known as liver acinus",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "210",
+          "text": "Bicarbonate rich pancreatic fluid is secreted by",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ductal cells",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Acinar cells",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Alpha cells",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Beta cells",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "211",
+          "text": "Amylin is secreted by",
+          "options": [
+            {
+              "id": "A",
+              "text": "Beta cell",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Alpha cell",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Delta cell",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "PP cell",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "212",
+          "text": "Lining epithelium of gall bladder",
+          "options": [
+            {
+              "id": "A",
+              "text": "Simple columnar with microvilli",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Simple squamous",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Simple cuboidal",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Stratified epithelium",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "213",
+          "text": "Sphincter of oddi contains -----sphincters",
+          "options": [
+            {
+              "id": "A",
+              "text": "4",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "1",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "2",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "3",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "214",
+          "text": "The pacemaker cell of the gastrointestinal tract :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Interstitial cells of Cajal",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Goblet cells",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Paneth cells",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Enterochromaffin cells",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "215",
+          "text": "A 50-year-old man undergoes upper GI endoscopy for evaluation of progressive dysphagia. Biopsy of the normal esophageal mucosa is taken. Which type of epithelium normally lines the esophagus?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Non-keratinized stratified squamous epithelium",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Simple columnar epithelium",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Pseudostratified ciliated columnar epithelium",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Transitional epithelium",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "216",
+          "text": "All are true about esophagus EXCEPT:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lower third contains only skeletal muscle",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Middle third contains both skeletal and smooth muscles",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Sub mucosa contains gland",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Aurbach’s plexus is located at muscular layer",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "217",
+          "text": "Achalasia cardia is characterized by:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Degeneration of ganglion cells in Auerbach's plexus",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Increased relaxation of lower esophageal sphincter",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Hyperperistalsis of the esophagus",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Normal esophageal peristalsis",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "218",
+          "text": "A 52-year-old man with chronic GERD undergoes endoscopic biopsy of the distal esophagus. Which histopathological finding is characteristic of Barrett's esophagus?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Columnar epithelium with goblet cells",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Stratified squamous epithelium with keratinization",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Pseudostratified ciliated columnar epithelium",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Transitional epithelium with dysplasia",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "219",
+          "text": "Which type of epithelium normally lines the stomach?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Simple columnar epithelium",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Stratified squamous non-keratinized epithelium",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Pseudostratified ciliated columnar epithelium",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Transitional epithelium",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "220",
+          "text": "A biopsy from the pyloric region of the stomach shows gastric glands. Which of the following cells is most predominantly found in pyloric glands?",
+          "options": [
+            {
+              "id": "A",
+              "text": "G cells",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Parietal cells",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Chief cells",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Stem cell",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "221",
+          "text": "A histology slide of gastric mucosa shows mucus neck cells in the gastric glands. What is their main secretion?",
+          "options": [
+            {
+              "id": "A",
+              "text": "alkaline mucus",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Hydrochloric acid",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Pepsinogen",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Gastrin",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "222",
+          "text": "Intrinsic factor of castle is produced by",
+          "options": [
+            {
+              "id": "A",
+              "text": "Oxyntic cell",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Chief cell",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "G cell",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Neuroendocrine cell",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "223",
+          "text": "Pepsinogen is produced by",
+          "options": [
+            {
+              "id": "A",
+              "text": "Chief cell",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Parietal cell",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Stem cell",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "G cell",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "224",
+          "text": "Match the  statement related to  endocrine cells of GIT: Which of the following is INCORRECT?",
+          "options": [
+            {
+              "id": "A",
+              "text": "I cell – secretes secretin",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "G cell – secretes gastrin",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "D cell – secretes somatostatin",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "L cell- Glucagon like peptide (GLP-1)",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "225",
+          "text": "Most common site of Peptic ulcer is;",
+          "options": [
+            {
+              "id": "A",
+              "text": "1st part of duodenum",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "stomach",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "oesophagus",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "intestine",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "226",
+          "text": "Brunner’s glands are found in which part of the gastrointestinal tract?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Duodenum",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Stomach",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Jejunum",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Ileum",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "227",
+          "text": "Plicae circulares  are best developed in which part of the small intestine?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jejunum",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Duodenum",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Ileum",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Cecum",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "228",
+          "text": "Which type of epithelium lines the small intestine?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Simple columnar epithelium with microvilli",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Stratified squamous non-keratinized epithelium",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Simple cuboidal epithelium",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Transitional epithelium",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "229",
+          "text": "Paneth cells in the crypts of Lieberkühn: What is their primary function?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Secretion of antimicrobial substances",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Absorption of nutrients",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Secretion of digestive enzymes",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Hormone secretion",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "230",
+          "text": "What is the main function of Microfold (M) cells of intestinal gland?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Antigen presenting cell",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Absorption of fat",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Secretion of digestive enzymes",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Secretion of mucus for lubrication",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "231",
+          "text": "Which of the following is the most characteristic histological feature that helps differentiate the ileum from other parts of the small intestine?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Presence of Peyer’s patches",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Presence of Brunner’s glands in submucosa",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Prominent plicae circulares",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Long villi with tall enterocytes only",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "232",
+          "text": "All of the following are characteristics of the colonic mucosa EXCEPT:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Presence of villi",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Numerous goblet cells",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Straight crypts of Lieberkühn",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Simple columnar epithelium",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "233",
+          "text": "The internal anal sphincter is formed by which layer of the anal canal?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Circular smooth muscle layer",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Skeletal muscle",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Longitudinal smooth muscle layer",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Levator ani muscle",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "234",
+          "text": "The conjoint longitudinal muscle of the anal canal is formed by the fusion of:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Longitudinal smooth muscle of rectum and levator ani muscle",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Circular smooth muscle and external anal sphincter",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Internal anal sphincter and puborectalis muscle",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "External anal sphincter and pubococcygeus muscle",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "235",
+          "text": "The epithelial lining between the pectinate line and Hilton's line is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Stratified squamous non-keratinized epithelium",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Simple columnar epithelium",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Stratified squamous keratinized epithelium",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Transitional epithelium",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "236",
+          "text": "The pain of acute appendicitis is initially referred to which dermatome?",
+          "options": [
+            {
+              "id": "A",
+              "text": "T10",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "T6",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "T8",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "L1",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "237",
+          "text": "Which structure forms the base of the appendix and serves as a landmark during surgery?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Teniae coli",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Haustra",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Omental appendices",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Plicae circulares",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "238",
+          "text": "McBurney’s point, a landmark for appendicitis diagnosis, is located:",
+          "options": [
+            {
+              "id": "A",
+              "text": "One-third of the distance from the anterior superior iliac spine to the umbilicus",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "At the midpoint of the inguinal ligament",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "At the level of the umbilicus",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Two-thirds of the distance from the umbilicus to the pubic symphysis",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "239",
+          "text": "All of the following are characteristics of the appendix histologically EXCEPT:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Presence of villi",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Abundant lymphoid tissue in mucosa and submucosa",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Presence of crypts of Lieberkühn",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Simple columnar epithelium",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
     }
   }
 }
