@@ -64718,6 +64718,4172 @@
           ]
         }
       ]
-    }
+    },
+    "medical_biology_genetics_second": {
+    "id": "medical_biology_genetics_second",
+    "name": "Medical Biology and Genetics Second",
+    "questions": [
+      {
+        "id": "1",
+        "text": "Chromosomes first become distinctly visible during which stage of mitosis?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Prophase",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Metaphase",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Anaphase",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Telophase",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "text": "In double-stranded DNA, guanine pairs with:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Cytosine",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Thymine",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Adenine",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Uracil",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "text": "The spindle assembly checkpoint ensures that:",
+        "options": [
+          {
+            "id": "A",
+            "text": "All chromosomes are attached to the spindle before anaphase",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "DNA is replicated in G1",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Lipids are synthesised",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "mRNA is spliced",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "text": "Hormones that bind to intracellular receptors are typically:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Steroid hormones",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Peptide hormones",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Catecholamines",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Glycoprotein hormones",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "text": "Synthesis of ribosomal RNA takes place in the:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Nucleolus",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Nucleoplasm",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Cytosol",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Golgi apparatus",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "text": "The requirement that both alleles of a tumour suppressor gene be inactivated for cancer to develop is known as the:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Two-hit hypothesis",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "One-hit hypothesis",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Three-hit hypothesis",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Gain-of-function model",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "text": "The type of cell division that produces two genetically identical daughter cells is:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Mitosis",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Meiosis",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Binary fission",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Budding",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "text": "Malignant tumours arising from connective tissue are called:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Sarcomas",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Carcinomas",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Leukemias",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Adenomas",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "text": "A point mutation that converts a proto-oncogene into a constitutively active oncogene would most likely cause:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Continuous growth signalling",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Increased apoptosis",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Permanent cell cycle arrest",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Enhanced DNA repair",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "text": "In double-stranded DNA, adenine pairs with:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Thymine",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Guanine",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Cytosine",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Uracil",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "text": "The protein structure that attaches spindle fibres to the centromere is the:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Kinetochore",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Centriole",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Nucleolus",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Ribosome",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "text": "Excessive deposition of extracellular matrix by activated fibroblasts is the central mechanism of:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Tissue fibrosis",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Apoptosis",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Necrosis",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Metaplasia",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "text": "Fluoroquinolone antibiotics that target bacterial DNA gyrase ultimately inhibit:",
+        "options": [
+          {
+            "id": "A",
+            "text": "DNA supercoiling and replication",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Protein synthesis",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Cell wall synthesis",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "RNA capping",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "text": "Activation of phospholipase C produces which pair of second messengers?",
+        "options": [
+          {
+            "id": "A",
+            "text": "IP3 and diacylglycerol",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "cAMP and cGMP",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "ATP and ADP",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Calcium and sodium",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "text": "Crossing over, which increases genetic diversity, occurs during:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Prophase I of meiosis",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Metaphase of mitosis",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Anaphase II",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Cytokinesis",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "16",
+        "text": "Vinca alkaloids used in chemotherapy act by:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Preventing microtubule polymerisation",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Inhibiting DNA polymerase",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Blocking ribosomes",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Activating p53",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "17",
+        "text": "Ehlers-Danlos syndrome most often results from defective synthesis or structure of:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Collagen",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Elastin",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Fibrin",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Myosin",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "18",
+        "text": "The specific site on the DNA where replication begins is the:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Origin of replication",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Promoter",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Terminator",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Centromere",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "19",
+        "text": "Vitamin C is required for collagen synthesis because it is a cofactor for:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Prolyl hydroxylase",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "DNA polymerase",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "ATP synthase",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Hexokinase",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "20",
+        "text": "Hemidesmosomes anchor epithelial cells to the:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Basement membrane",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Adjacent cell",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Nucleus",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Cytosol",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "21",
+        "text": "Gap junctions are built from protein subunits called:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Connexins",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Cadherins",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Integrins",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Selectins",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "22",
+        "text": "Nuclear pores are present in the membrane surrounding the:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Nucleus",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Mitochondrion",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Lysosome",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Golgi apparatus",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "23",
+        "text": "Which second messenger releases calcium from the endoplasmic reticulum?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Inositol trisphosphate (IP3)",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Cyclic AMP",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Cyclic GMP",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Diacylglycerol",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "24",
+        "text": "The hormone that raises blood glucose during fasting is:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Glucagon",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Insulin",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Aldosterone",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Oxytocin",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "25",
+        "text": "A defect in type I collagen producing brittle bones characterises:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Osteogenesis imperfecta",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Marfan syndrome",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Cystic fibrosis",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Sickle cell anaemia",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "26",
+        "text": "Loss of functional p53 most directly results in:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Failure to arrest the cycle after DNA damage",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Increased apoptosis",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Faster DNA repair",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "A lower mutation rate",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "27",
+        "text": "The sodium-potassium pump is an example of:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Primary active transport",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Simple diffusion",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Facilitated diffusion",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Osmosis",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "28",
+        "text": "The family of proteolytic enzymes that execute apoptosis are the:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Caspases",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Kinases",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Polymerases",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Ligases",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "29",
+        "text": "Xeroderma pigmentosum results from a defect in:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Nucleotide excision repair",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Base excision repair",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Mismatch repair",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "DNA replication initiation",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "30",
+        "text": "Cyclin-dependent kinases (CDKs) become active only after binding to:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Cyclins",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Integrins",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Cadherins",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Selectins",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "31",
+        "text": "A mutation producing a constitutively active Gs protein would most likely result in:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Continuous overproduction of cAMP",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Complete loss of cAMP",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Increased DNA repair",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Loss of all hormone receptors",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "32",
+        "text": "Which structure forms the selectively permeable outer boundary of an animal cell?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Plasma membrane",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Cell wall",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Nuclear envelope",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Basement membrane",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "33",
+        "text": "Cilia and flagella have an internal core made up of:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Microtubules",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Microfilaments",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Intermediate filaments",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Ribosomes",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "34",
+        "text": "The chief role of cell cycle checkpoints is to:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Ensure accuracy before progression",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Increase the mutation rate",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Stop protein synthesis permanently",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Destroy mitochondria",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "35",
+        "text": "The protein product of the RAS oncogene is involved in:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Signal transduction promoting proliferation",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "DNA repair",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Execution of apoptosis",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Cell-cell adhesion",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "36",
+        "text": "Which feature is characteristic of apoptosis but not of necrosis?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Formation of apoptotic bodies",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Cell swelling",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Plasma membrane rupture",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Surrounding inflammation",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "37",
+        "text": "Failure of homologous chromosomes or sister chromatids to separate normally is called:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Nondisjunction",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Crossing over",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Translocation",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Replication",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "38",
+        "text": "The quiescent, non-dividing phase that some cells enter is called:",
+        "options": [
+          {
+            "id": "A",
+            "text": "G0 phase",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "S phase",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "M phase",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "G2 phase",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "39",
+        "text": "A defining hallmark of cancer is:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Uncontrolled cell proliferation",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Increased apoptosis",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Permanent cell cycle arrest",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Reduced mutation rate",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "40",
+        "text": "In nephrogenic diabetes insipidus, the kidney does not respond to ADH because of a defect in:",
+        "options": [
+          {
+            "id": "A",
+            "text": "The ADH (V2) receptor or aquaporin-2",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Cardiac adenylyl cyclase",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "The insulin receptor",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "The thyroid hormone receptor",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "41",
+        "text": "Cadherins are adhesion molecules whose function depends on which ion?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Calcium",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Sodium",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Potassium",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Iron",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "42",
+        "text": "The engulfment of solid particles by a cell is termed:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phagocytosis",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Pinocytosis",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Exocytosis",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Osmosis",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "43",
+        "text": "Steroid hormones are biosynthesised from:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Cholesterol",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Tyrosine",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Tryptophan",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Glucose",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "44",
+        "text": "The retinoblastoma (Rb) protein restrains the cell cycle by binding and inhibiting:",
+        "options": [
+          {
+            "id": "A",
+            "text": "E2F transcription factor",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "p53",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Cyclin D",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Caspase-3",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "45",
+        "text": "Genes that promote cancer when abnormally activated are called:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Oncogenes",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Tumour suppressor genes",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Housekeeping genes",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Repair genes",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "46",
+        "text": "Genes that normally restrain cell division and help prevent cancer are:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Tumour suppressor genes",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Oncogenes",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Pseudogenes",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Structural genes",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "47",
+        "text": "In humans, meiosis produces:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Gametes",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Somatic cells",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Red blood cells",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Platelets",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "48",
+        "text": "Interphase is composed of which three phases?",
+        "options": [
+          {
+            "id": "A",
+            "text": "G1, S and G2",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Prophase, metaphase, anaphase",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "G0, M and S",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Anaphase, telophase, cytokinesis",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "49",
+        "text": "The enzyme that relieves supercoiling ahead of the replication fork is:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Topoisomerase",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Ligase",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Primase",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Helicase",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "50",
+        "text": "During G2 phase the cell mainly prepares for:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Mitosis",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "DNA replication",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Apoptosis",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Differentiation",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "51",
+        "text": "Release of cytochrome c from mitochondria into the cytosol triggers the:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Intrinsic apoptotic pathway",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Process of necrosis",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Start of DNA replication",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Onset of mitosis",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "52",
+        "text": "The net movement of water across a semipermeable membrane is called:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Osmosis",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Active transport",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Phagocytosis",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Exocytosis",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "53",
+        "text": "Phosphorylation of the Rb protein leads to:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Release of E2F and cell cycle progression",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Permanent cell cycle arrest",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Immediate apoptosis",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "DNA degradation",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "54",
+        "text": "Insulin is secreted by which cells of the pancreas?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Beta cells",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Alpha cells",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Delta cells",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Acinar cells",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "55",
+        "text": "Loss of the 3' to 5' exonuclease (proofreading) activity of DNA polymerase would most directly cause:",
+        "options": [
+          {
+            "id": "A",
+            "text": "An increased mutation rate",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Faster error-free replication",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Loss of transcription",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Inability to translate mRNA",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "56",
+        "text": "Which organelle contains hydrolytic enzymes used for intracellular digestion?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Lysosome",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Ribosome",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Centriole",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Smooth endoplasmic reticulum",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "57",
+        "text": "The division of the cytoplasm following nuclear division is called:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Cytokinesis",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Karyokinesis",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Mitosis",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Meiosis",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "58",
+        "text": "The strand synthesised discontinuously, in fragments, is the:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Lagging strand",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Leading strand",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Sense strand",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Coding strand",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "59",
+        "text": "Programmed cell death is known as:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Apoptosis",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Necrosis",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Mitosis",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Hypertrophy",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "60",
+        "text": "The BRCA1 and BRCA2 genes are best classified as:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Tumour suppressor genes",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Oncogenes",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Proto-oncogenes",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Housekeeping genes",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "61",
+        "text": "Pertussis toxin produces its effects by inhibiting which G protein?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Gi protein",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Gs protein",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Gq protein",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Transducin",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "62",
+        "text": "The checkpoint controlling the G1-to-S transition is also known as the:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Restriction point",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Spindle checkpoint",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Telophase point",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "G0 point",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "63",
+        "text": "Which cell junction permits direct passage of ions and small molecules between adjacent cells?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Gap junction",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Tight junction",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Desmosome",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Adherens junction",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "64",
+        "text": "The basement membrane is especially rich in which type of collagen?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Type IV collagen",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Type I collagen",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Type II collagen",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Type III collagen",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "65",
+        "text": "The intrinsic (mitochondrial) apoptotic pathway is regulated mainly by the:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Bcl-2 family of proteins",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Integrins",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Connexins",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Selectins",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "66",
+        "text": "The cellular DNA content is doubled by the end of which phase?",
+        "options": [
+          {
+            "id": "A",
+            "text": "S phase",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "G1 phase",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "M phase",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "G0 phase",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "67",
+        "text": "The enzyme that converts ATP into cyclic AMP is:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Adenylyl cyclase",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Phosphodiesterase",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Protein kinase A",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Guanylyl cyclase",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "68",
+        "text": "The extrinsic apoptotic pathway is triggered by:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Death receptor activation (e.g. Fas)",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Cytochrome c release",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "DNA replication",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Microtubule assembly",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "69",
+        "text": "Cholera toxin causes excessive cAMP by persistently activating which protein?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Gs protein",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Gi protein",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Phospholipase A2",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Tyrosine kinase",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "70",
+        "text": "Thymine dimers produced by ultraviolet light are removed mainly by:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Nucleotide excision repair",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Semiconservative replication",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Transcription",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Translation",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "71",
+        "text": "Which organelle modifies, sorts and packages proteins for secretion?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Golgi apparatus",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Nucleolus",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Mitochondrion",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Lysosome",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "72",
+        "text": "Nitric oxide exerts its effects mainly by raising the cellular level of:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Cyclic GMP",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Cyclic AMP",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "IP3",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Diacylglycerol",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "73",
+        "text": "The principal function of desmosomes is to provide:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Mechanical strength between cells",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Communication channels",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Watertight sealing",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Catalysis of reactions",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "74",
+        "text": "Cells dying by apoptosis are normally removed by:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phagocytosis without inflammation",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Bursting with inflammation",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Mitosis",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Necrosis",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "75",
+        "text": "Ribosomes are the cellular site of:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Protein synthesis",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Lipid synthesis",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "DNA replication",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "ATP synthesis",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "76",
+        "text": "A malignant tumour is characterised by its ability to:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Invade and metastasise",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Remain permanently localised",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Stop dividing",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Repair DNA perfectly",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "77",
+        "text": "Maturation-promoting factor (MPF), which drives entry into mitosis, is a complex of:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Cyclin B and CDK1",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Cyclin D and CDK4",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "p53 and Rb",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Actin and tubulin",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "78",
+        "text": "A benign tumour is generally characterised by:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Slow growth without metastasis",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Rapid spread to distant organs",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Invasion of surrounding tissue",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "High metastatic potential",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "79",
+        "text": "Water-soluble peptide hormones usually bind receptors located on the:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Plasma membrane",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Nucleus",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Mitochondria",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Ribosome",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "80",
+        "text": "The rough endoplasmic reticulum is named so because its surface is studded with:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Ribosomes",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Lysosomes",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Peroxisomes",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Centrioles",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "81",
+        "text": "The enzyme that synthesises the short RNA primers during replication is:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Primase",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Ligase",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Helicase",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Topoisomerase",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "82",
+        "text": "Microfilaments of the cytoskeleton are composed mainly of the protein:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Actin",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Tubulin",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Keratin",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Lamin",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "83",
+        "text": "Which extracellular matrix protein provides elasticity to skin and blood vessels?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Elastin",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Collagen",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Keratin",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Fibrin",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "84",
+        "text": "Thyroid hormones produce their main effects by binding to receptors located in the:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Nucleus",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Plasma membrane",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Mitochondria",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Golgi apparatus",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "85",
+        "text": "The insulin receptor possesses intrinsic enzymatic activity of the type:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Tyrosine kinase",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Adenylyl cyclase",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Phospholipase",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Guanylyl cyclase",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "86",
+        "text": "Mitochondrial DNA in humans is inherited:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Maternally",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Paternally",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Equally from both parents",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Through the Y chromosome",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "87",
+        "text": "When activated, the Gs protein stimulates the enzyme:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Adenylyl cyclase",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Phospholipase C",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Guanylyl cyclase",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Phosphodiesterase",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "88",
+        "text": "The normal cellular gene from which an oncogene is derived is called a:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Proto-oncogene",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Tumour suppressor",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Pseudogene",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Repair gene",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "89",
+        "text": "An anti-apoptotic protein that is overexpressed in some cancers is:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Bcl-2",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Bax",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Caspase-3",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Cytochrome c",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "90",
+        "text": "The proofreading capacity of DNA polymerase is due to its:",
+        "options": [
+          {
+            "id": "A",
+            "text": "3' to 5' exonuclease activity",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "5' to 3' polymerase activity",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Helicase activity",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Ligase activity",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "91",
+        "text": "Bullous pemphigoid is caused by autoantibodies against components of the:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Hemidesmosome",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Desmosome",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Gap junction",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Tight junction",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "92",
+        "text": "The second messenger generated by the enzyme adenylyl cyclase is:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Cyclic AMP",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "DNA",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Messenger RNA",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Glucose",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "93",
+        "text": "The phase of the cell cycle in which DNA is replicated is the:",
+        "options": [
+          {
+            "id": "A",
+            "text": "S phase",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "G1 phase",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "G2 phase",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "M phase",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "94",
+        "text": "Inside the cell, cyclic AMP characteristically activates:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Protein kinase A",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "DNA polymerase",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Hexokinase",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Phospholipase C",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "95",
+        "text": "The karyotype characteristic of Klinefelter syndrome is:",
+        "options": [
+          {
+            "id": "A",
+            "text": "47, XXY",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "45, X",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "47, XXX",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "46, XX",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "96",
+        "text": "The type of cell division that halves the chromosome number is:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Meiosis",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Mitosis",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Amitosis",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Cytokinesis",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "97",
+        "text": "The most abundant structural protein of the extracellular matrix is:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Collagen",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Haemoglobin",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Albumin",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Myosin",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "98",
+        "text": "The enzyme that synthesises new DNA strands using a template is:",
+        "options": [
+          {
+            "id": "A",
+            "text": "DNA polymerase",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "RNA polymerase",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Helicase",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Ligase",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "99",
+        "text": "The number of chromosomes in a normal human gamete is:",
+        "options": [
+          {
+            "id": "A",
+            "text": "23",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "46",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "22",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "92",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "100",
+        "text": "The enzyme that seals the nicks between Okazaki fragments is:",
+        "options": [
+          {
+            "id": "A",
+            "text": "DNA ligase",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Helicase",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Primase",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Topoisomerase",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "101",
+        "text": "Kartagener syndrome is caused by a structural defect in the:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Dynein arms of cilia",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Actin filaments",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Nuclear lamins",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Golgi enzymes",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "102",
+        "text": "The karyotype characteristic of Turner syndrome is:",
+        "options": [
+          {
+            "id": "A",
+            "text": "45,X",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "47,XXY",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "47,XX,+21",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "46,XY",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "103",
+        "text": "Fibronectin functions chiefly in:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Cell adhesion to the matrix",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Oxygen transport",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "DNA replication",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "ATP synthesis",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "104",
+        "text": "In most cells, the longest part of the cell cycle is:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Interphase",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Mitosis",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Cytokinesis",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Anaphase",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "105",
+        "text": "The widely accepted model describing plasma membrane structure is the:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Fluid mosaic model",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Lock and key model",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Induced fit model",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Sliding filament model",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "106",
+        "text": "Diacylglycerol (DAG) produced at the membrane activates which enzyme?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Protein kinase C",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Protein kinase A",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Adenylyl cyclase",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Guanylyl cyclase",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "107",
+        "text": "Plasma cells, which secrete large amounts of antibody, are especially rich in:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Rough endoplasmic reticulum",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Smooth endoplasmic reticulum",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Lysosomes",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Centrioles",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "108",
+        "text": "Actual nuclear and cell division occurs during which phase?",
+        "options": [
+          {
+            "id": "A",
+            "text": "M phase",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "S phase",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "G1 phase",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "G0 phase",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "109",
+        "text": "The principal hormone that lowers blood glucose is:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Insulin",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Glucagon",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Cortisol",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Adrenaline",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "110",
+        "text": "The short DNA fragments synthesised on the lagging strand are called:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Okazaki fragments",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Exons",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Introns",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Codons",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "111",
+        "text": "The principal regulatory proteins that drive progression through the cell cycle are:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Cyclins and cyclin-dependent kinases",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Haemoglobin and myoglobin",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Albumin and globulin",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Actin and myosin",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "112",
+        "text": "The Philadelphia chromosome associated with chronic myeloid leukaemia results from a translocation between chromosomes:",
+        "options": [
+          {
+            "id": "A",
+            "text": "9 and 22",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "21 and 18",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "13 and 14",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "8 and 14",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "113",
+        "text": "The strand synthesised continuously toward the replication fork is the:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Leading strand",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Lagging strand",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Template strand",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Primer strand",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "114",
+        "text": "Continuous overexpression of cyclin D, causing persistent Rb phosphorylation, would most likely produce:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Uncontrolled cell proliferation",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Permanent G0 arrest",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Enhanced DNA repair",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Increased apoptosis",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "115",
+        "text": "Which cytoskeletal element is composed of the protein tubulin?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Microtubules",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Microfilaments",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Intermediate filaments",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Thick filaments",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "116",
+        "text": "A drug that blocks microtubule formation would arrest dividing cells in:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Metaphase",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "S phase",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "G1 phase",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "G0 phase",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "117",
+        "text": "The most common category of cancer arising from epithelial tissue is:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Carcinoma",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Sarcoma",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Leukaemia",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Lymphoma",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "118",
+        "text": "Down syndrome is most commonly caused by nondisjunction giving trisomy of chromosome:",
+        "options": [
+          {
+            "id": "A",
+            "text": "21",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "18",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "13",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "23",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "119",
+        "text": "The enzyme that unwinds the DNA double helix at the replication fork is:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Helicase",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Ligase",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Primase",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Topoisomerase",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "120",
+        "text": "A defect in lysosomal enzymes leading to accumulation of undegraded substrate produces:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Lysosomal storage disorders",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Diabetes mellitus",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Essential hypertension",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Iron deficiency anaemia",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "121",
+        "text": "The double-membrane organelle that has its own circular DNA is the:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Mitochondrion",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Lysosome",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Golgi apparatus",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Peroxisome",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "122",
+        "text": "Hepatocytes detoxify many drugs using enzyme systems located in the:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Smooth endoplasmic reticulum",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Nucleolus",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Rough endoplasmic reticulum",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Lysosome",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "123",
+        "text": "Sister chromatids separate and move to opposite poles during:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Anaphase",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Metaphase",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Prophase",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Telophase",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "124",
+        "text": "Which form of cell death is characterised by cell swelling, rupture and inflammation?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Necrosis",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Apoptosis",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Mitosis",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Differentiation",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "125",
+        "text": "Peroxisomes protect the cell mainly by breaking down:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Hydrogen peroxide",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Glucose",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Messenger RNA",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Phospholipids",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "126",
+        "text": "Which phase immediately precedes the S phase?",
+        "options": [
+          {
+            "id": "A",
+            "text": "G1 phase",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "G2 phase",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "M phase",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Prophase",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "127",
+        "text": "During wound healing, integrin-mediated signalling primarily promotes:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Cell migration and adhesion to matrix",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Inhibition of all cell movement",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "mRNA degradation",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Mitochondrial loss",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "128",
+        "text": "Which glycosaminoglycan is a major component of cartilage ground substance?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Chondroitin sulfate",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Cholesterol",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Glycogen",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Fibrin",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "129",
+        "text": "The number of chromosomes in a normal human somatic cell is:",
+        "options": [
+          {
+            "id": "A",
+            "text": "46",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "23",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "92",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "22",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "130",
+        "text": "Which organelle is the principal site of ATP production in a eukaryotic cell?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Mitochondria",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Ribosome",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Lysosome",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Golgi apparatus",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "131",
+        "text": "The spread of cancer cells from a primary site to distant organs is called:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Metastasis",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Apoptosis",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Hypertrophy",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Atrophy",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "132",
+        "text": "Which cell junction forms a watertight seal between adjacent epithelial cells?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Tight junction",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Gap junction",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Desmosome",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Hemidesmosome",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "133",
+        "text": "Damage limited to the inner mitochondrial membrane would most directly impair:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Oxidative phosphorylation",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Glycolysis",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Messenger RNA splicing",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Lysosomal digestion",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "134",
+        "text": "Loss of E-cadherin function in epithelial tumours is associated with increased:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Invasion and metastasis",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "DNA repair",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Cell-cell adhesion",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Apoptosis",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "135",
+        "text": "DNA replication is best described as:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Semiconservative",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Conservative",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Dispersive",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Random",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "136",
+        "text": "Phosphodiesterase enzymes terminate cAMP signalling by degrading:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Cyclic AMP",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "ATP",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "DNA",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Messenger RNA",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "137",
+        "text": "The p53 gene is called the 'guardian of the genome' because it:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Triggers cell cycle arrest or apoptosis after DNA damage",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Promotes uncontrolled growth",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Inhibits DNA repair",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Increases the mutation rate",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "138",
+        "text": "Mature neurons that have permanently left the cell cycle are said to reside in:",
+        "options": [
+          {
+            "id": "A",
+            "text": "G0 phase",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "S phase",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "G2 phase",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Prophase",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "139",
+        "text": "Apoptosis is typically characterised by:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Cell shrinkage and DNA fragmentation",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Cell swelling and rupture",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Increased cell size",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Random DNA synthesis",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "140",
+        "text": "In I-cell disease, lysosomal enzymes fail to reach the lysosome owing to defective:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Mannose-6-phosphate tagging",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Glucose-6-phosphate tagging",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Ubiquitin tagging",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Acetylation",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "141",
+        "text": "Marfan syndrome results from a mutation affecting which matrix protein?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Fibrillin",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Type II collagen",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Keratin",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Laminin",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "142",
+        "text": "Short nucleotide sequences required to begin DNA synthesis are called:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Primers",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Codons",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Anticodons",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Operons",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "143",
+        "text": "In animal cells, the spindle apparatus is organised by the:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Centrosome",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Nucleolus",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Golgi apparatus",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Lysosome",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "144",
+        "text": "The smooth endoplasmic reticulum is the major site of:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Lipid synthesis",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Protein synthesis",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Glycolysis",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Transcription",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "145",
+        "text": "Movement of a substance across a membrane through a carrier protein, without energy expenditure, is:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Facilitated diffusion",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Active transport",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Endocytosis",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Osmosis",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "146",
+        "text": "G-protein coupled receptors characteristically span the membrane how many times?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Seven",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "One",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Two",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Four",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "147",
+        "text": "Centrioles are mainly involved in the formation of the:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Spindle apparatus",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Cell membrane",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Nucleolus",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Lysosome",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "148",
+        "text": "A Robertsonian translocation involving chromosome 21 can give rise to a familial form of:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Down syndrome",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Turner syndrome",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Cystic fibrosis",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Haemophilia",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "149",
+        "text": "Hereditary non-polyposis colorectal cancer (Lynch syndrome) is associated with a defect in:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Mismatch repair",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Nucleotide excision repair",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Telomerase function",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Helicase function",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "150",
+        "text": "In a eukaryotic cell, the genetic material is mainly housed within the:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Nucleus",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Cytosol",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Mitochondrial matrix",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Ribosome",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "151",
+        "text": "The tumour suppressor protein p53 is chiefly activated in response to:",
+        "options": [
+          {
+            "id": "A",
+            "text": "DNA damage",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Increased oxygen",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Low calcium",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "High glucose",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "152",
+        "text": "Receptor tyrosine kinases commonly transmit their signal through the:",
+        "options": [
+          {
+            "id": "A",
+            "text": "RAS-MAP kinase pathway",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "cAMP-PKA pathway",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "cGMP pathway",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Sodium channel pathway",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "153",
+        "text": "Integrins chiefly mediate attachment of cells to the:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Extracellular matrix",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Nucleus",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Mitochondria",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Nucleolus",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "154",
+        "text": "Zellweger syndrome is caused by failure of protein import into the:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Peroxisome",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Mitochondrion",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Lysosome",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Nucleus",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "155",
+        "text": "During which stage of mitosis do chromosomes align along the cell equator?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Metaphase",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Prophase",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Anaphase",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Telophase",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "156",
+        "text": "The enzyme responsible for maintaining the ends of linear chromosomes is:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Telomerase",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Helicase",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Primase",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Ligase",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "157",
+        "text": "Pemphigus vulgaris is an autoimmune disease caused by antibodies directed against:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Desmosomal proteins (desmogleins)",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Hemidesmosomes",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Gap junction connexins",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Tight junction claudins",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "158",
+        "text": "The semifluid ground substance of the cytoplasm is called the:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Cytosol",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Nucleoplasm",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "Stroma",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Colloid",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "159",
+        "text": "Edwards syndrome results from trisomy of chromosome:",
+        "options": [
+          {
+            "id": "A",
+            "text": "18",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "21",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "13",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "16",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "160",
+        "text": "Selectins are adhesion molecules particularly important for:",
+        "options": [
+          {
+            "id": "A",
+            "text": "Leukocyte rolling on endothelium",
+            "isCorrect": true
+          },
+          {
+            "id": "B",
+            "text": "Muscle contraction",
+            "isCorrect": false
+          },
+          {
+            "id": "C",
+            "text": "DNA repair",
+            "isCorrect": false
+          },
+          {
+            "id": "D",
+            "text": "Lipid digestion",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
   }
 }
